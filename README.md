@@ -20,7 +20,7 @@
 
 ## 🧐 What is SaLiksi?
 
-**SaLiksi** is an AI-powered academic research platform designed specifically for **Filipino students and researchers**. It provides an end-to-end research workflow — from discovering credible sources and generating research topics, to writing papers, generating citations, and practicing thesis defense — all with a strong focus on **Philippine-context data** and local academic databases.
+**SaLiksi** is an AI-powered academic research platform designed specifically for **Filipino students and researchers**. It provides an end-to-end research workflow from discovering credible sources and generating research topics, to writing papers, generating citations, and practicing thesis defense all with a strong focus on **Philippine-context data** and local academic databases.
 
 ### At a Glance
 
