@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="saliksi/public/logo.png" alt="SaLiksi Logo" width="120" />
-</p>
-
 <h1 align="center">SaLiksi</h1>
 
 <p align="center">
