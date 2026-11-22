@@ -1,0 +1,12 @@
+{
+ "run_id": "ed007__rep1",
+ "input": {
+  "doi": "10.1080/2164232x.2014.883289"
+ },
+ "status": 200,
+ "latency_s": 2.77,
+ "apa": "Kadir, M. A., Mansor, N., Yusof, M. S. M., & Sumby, C. J. (2014). Synthesis and crystal structure of <i>N</i>-6-[(4-pyridylamino)carbonyl]-pyridine-2-carboxylic acid methyl ester zinc complex. Complex Metals, 1(1), 32–37. https://doi.org/10.1080/2164232x.2014.883289",
+ "mla": "Kadir, Maisara Abdul, et al. \"Synthesis and crystal structure of <i>N</i>-6-[(4-pyridylamino)carbonyl]-pyridine-2-carboxylic acid methyl ester zinc complex.\" Complex Metals, vol. 1, no. 1, 2014, pp. 32-37. https://doi.org/10.1080/2164232x.2014.883289",
+ "chicago": "Kadir, Maisara Abdul, Nafisah Mansor, Mohd Sukeri Mohd Yusof, and Christopher James Sumby. 2014. \"Synthesis and crystal structure of <i>N</i>-6-[(4-pyridylamino)carbonyl]-pyridine-2-carboxylic acid methyl ester zinc complex.\" Complex Metals 1 (1): 32–37. https://doi.org/10.1080/2164232x.2014.883289",
+ "attempts": 1
+}

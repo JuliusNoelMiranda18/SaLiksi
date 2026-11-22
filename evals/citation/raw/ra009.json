@@ -1,0 +1,12 @@
+{
+ "run_id": "ra009",
+ "input": {
+  "doi": "10.66224/jommid.13.4.303"
+ },
+ "status": 200,
+ "latency_s": 3.15,
+ "apa": "Torkashvand, H., & Jahanshiri, Z. (2025). Effects of Capsaicin on the Growth and Virulence Factors of Aspergillus fumigatus. Journal of Medical Microbiology and Infectious Diseases, 13(4), 303-309. https://doi.org/10.66224/jommid.13.4.303",
+ "mla": "Torkashvand, Haniye, and Zahra Jahanshiri. “Effects of Capsaicin on the Growth and Virulence Factors of Aspergillus fumigatus.” Journal of Medical Microbiology and Infectious Diseases, vol. 13, no. 4, 2025, pp. 303-309. https://doi.org/10.66224/jommid.13.4.303",
+ "chicago": "Torkashvand, Haniye, and Zahra Jahanshiri. \"Effects of Capsaicin on the Growth and Virulence Factors of Aspergillus fumigatus.\" Journal of Medical Microbiology and Infectious Diseases 13, no. 4 (2025): 303-309. https://doi.org/10.66224/jommid.13.4.303",
+ "attempts": 1
+}

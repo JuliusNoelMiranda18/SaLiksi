@@ -1,0 +1,12 @@
+{
+ "run_id": "u08__rep3",
+ "id": "u08",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What microplastic concentrations have been found in Taal Lake?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.48,
+ "response": "The sources in the vault do not provide measurements of microplastic concentrations in Taal Lake. Existing studies have examined water‑quality variables such as temperature, pH, dissolved oxygen, nutrients, and transparency, but microplastics were not assessed in those investigations <INLINE_CITATION>(Querijero & Mercurio, 2016)</INLINE_CITATION>.",
+ "attempts": 1
+}

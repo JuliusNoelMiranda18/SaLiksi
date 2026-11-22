@@ -1,0 +1,12 @@
+{
+ "run_id": "a24",
+ "id": "a24",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "What livelihoods depend on Taal Lake according to my sources?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.34,
+ "response": "Based on the sources in the vault, the following livelihoods depend on Taal Lake:\n\n*   **Fishing and Fisheries:** The lake supports open fisheries and the harvesting of commercially important fishes, including the endemic freshwater sardine, *Sardinella tawilis* (Mutia et al., 2018). The tawilis industry specifically provides livelihood to marginal fisherfolk, who are the first link in the supply chain (Muyot et al., 2021).\n*   **Aquaculture:** Tilapia and milkfish (bangus) aquaculture is a predominant activity in the lake, serving as a major livelihood source for local communities (Macandog et al., 2014).\n*   **Agriculture:** Local communities in the municipalities surrounding the lake depend on agricultural farming for their livelihood, alongside fish-based activities (Macandog et al., 2014).\n*   **Fish Processing and Trade:** The value chain for freshwater sardines involves various actors including fish buyers (wholesalers, retailers, peddlers), processors, and consumers, all of whom rely on the lake's resources for their economic activities (Muyot et al., 2021).",
+ "attempts": 1
+}

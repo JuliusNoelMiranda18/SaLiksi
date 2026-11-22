@@ -1,0 +1,12 @@
+{
+ "run_id": "Ued016",
+ "input": {
+  "url": "https://www.research.ed.ac.uk/en/publications/36821dba-4768-4f3e-acd4-4b4f5ee1e6b2"
+ },
+ "status": 200,
+ "latency_s": 3.16,
+ "apa": "McLaughlin, C., Clements, J., Oprişoreanu, A.-M., & Sylantyev, S. (2019). The role of tonic glycinergic conductance in cerebellar granule cells signalling and the effect of gain-of-function mutation. The Journal of Physiology. https://doi.org/10.1113/JP277626",
+ "mla": "McLaughlin, Catherine, et al. “The Role of Tonic Glycinergic Conductance in Cerebellar Granule Cells Signalling and the Effect of Gain-of-Function Mutation.” The Journal of Physiology, 2019, doi:10.1113/JP277626.",
+ "chicago": "McLaughlin, Catherine, John Clements, Ana-Maria Oprişoreanu, and Sergiy Sylantyev. “The Role of Tonic Glycinergic Conductance in Cerebellar Granule Cells Signalling and the Effect of Gain-of-Function Mutation.” The Journal of Physiology (2019). https://doi.org/10.1113/JP277626.",
+ "attempts": 1
+}

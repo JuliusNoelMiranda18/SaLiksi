@@ -1,0 +1,12 @@
+{
+ "run_id": "ph017",
+ "input": {
+  "doi": "10.1016/j.clnu.2018.08.002"
+ },
+ "status": 200,
+ "latency_s": 5.17,
+ "apa": "Cederholm, T., Jensen, G. L., Correia, M. I. T. D., Gonzalez, M. C., Fukushima, R., Higashiguchi, T., Baptista, G., Barazzoni, R., Blaauw, R., Coats, A., Crivelli, A., Evans, D. C., Gramlich, L., Fuchs‑Tarlovsky, V., Keller, H., Llido, L., Malone, A., Mogensen, K. M., Morley, J. E., Muscaritoli, M., Nyulasi, I., Pirlich, M., Pisprasert, V., de van der Schueren, M. A. E., Siltharm, S., Singer, P., Tappenden, K., Velasco, N., Waitzberg, D., Yamwong, P., et al. (2019). GLIM criteria for the diagnosis of malnutrition – A consensus report from the global clinical nutrition community. Clinical Nutrition, 38(1), 1–9. https://doi.org/10.1016/j.clnu.2018.08.002",
+ "mla": "Cederholm, T., et al. \"GLIM criteria for the diagnosis of malnutrition – A consensus report from the global clinical nutrition community.\" Clinical Nutrition, vol. 38, no. 1, 2019, pp. 1–9. https://doi.org/10.1016/j.clnu.2018.08.002.",
+ "chicago": "Cederholm, T., Jensen, G. L., Correia, M. I. T. D., Gonzalez, M. C., Fukushima, R., Higashiguchi, T., Baptista, G., Barazzoni, R., Blaauw, R., Coats, A., Crivelli, A., Evans, D. C., Gramlich, L., Fuchs‑Tarlovsky, V., Keller, H., Llido, L., Malone, A., Mogensen, K. M., Morley, J. E., Muscaritoli, M., Nyulasi, I., Pirlich, M., Pisprasert, V., de van der Schueren, M. A. E., Siltharm, S., Singer, P., Tappenden, K., Velasco, N., Waitzberg, D., Yamwong, P., et al. 2019. \"GLIM criteria for the diagnosis of malnutrition – A consensus report from the global clinical nutrition community.\" Clinical Nutrition 38 (1): 1–9. https://doi.org/10.1016/j.clnu.2018.08.002",
+ "attempts": 1
+}

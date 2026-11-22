@@ -1,0 +1,12 @@
+{
+ "run_id": "ed010",
+ "input": {
+  "doi": "10.1557/proc-584-169"
+ },
+ "status": 200,
+ "latency_s": 1.53,
+ "apa": "Brown, G. D., & Watkins, J. J. (1999). Carbon dioxide – dilated block copolymer templates for nanostructured materials. MRS Proceedings, 584. https://doi.org/10.1557/proc-584-169",
+ "mla": "Brown, Garth D., and James J. Watkins. “Carbon Dioxide – Dilated Block Copolymer Templates for Nanostructured Materials.” MRS Proceedings, vol. 584, 1999, https://doi.org/10.1557/proc-584-169.",
+ "chicago": "Brown, Garth D., and James J. Watkins. “Carbon Dioxide – Dilated Block Copolymer Templates for Nanostructured Materials.” MRS Proceedings 584 (1999). https://doi.org/10.1557/proc-584-169.",
+ "attempts": 2
+}

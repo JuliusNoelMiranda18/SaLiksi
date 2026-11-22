@@ -1,0 +1,37 @@
+{
+ "id": "ra043",
+ "truth_id": "ra043",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "missing_article_number"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "et_al_rule:mla",
+   "wrong_cap_rule:mla_sentence_case",
+   "missing_article_number"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "wrong_cap_rule:chicago_sentence_case",
+   "missing_article_number",
+   "wrong_punctuation:empty_slot"
+  ],
+  "variant": "author-date",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

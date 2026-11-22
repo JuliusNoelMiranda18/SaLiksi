@@ -1,0 +1,12 @@
+{
+ "run_id": "a04",
+ "id": "a04",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Which water quality parameters were significantly higher at the fish cage site in Taal Lake compared to the non-aquaculture site?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.32,
+ "response": "The study found that **nitrates, phosphates, and total dissolved solids (TDS)** were significantly higher at the fish‑cage (aquaculture) site compared to the non‑aquaculture site in Taal Lake. <INLINE_CITATION>Querijero & Mercurio, 2016</INLINE_CITATION>",
+ "attempts": 1
+}

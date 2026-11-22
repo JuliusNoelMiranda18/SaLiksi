@@ -1,0 +1,12 @@
+{
+ "run_id": "ra035",
+ "input": {
+  "doi": "10.1016/j.array.2025.100670"
+ },
+ "status": 200,
+ "latency_s": 2.98,
+ "apa": "Huang, L., Sun, S., Liu, Y., Mao, P., & Zhou, X. (2026). Artificial intelligence-based image interpretation system: Unlocking a new dimension of artwork analysis. Array, 29, 100670. https://doi.org/10.1016/j.array.2025.100670",
+ "mla": "Huang, Lijun, et al. \"Artificial intelligence-based image interpretation system: Unlocking a new dimension of artwork analysis.\" Array, vol. 29, 2026, p. 100670. https://doi.org/10.1016/j.array.2025.100670",
+ "chicago": "Huang, Lijun, Shizheng Sun, Yunhan Liu, Pinxian Mao, and Xiaoyu Zhou. 2026. \"Artificial intelligence-based image interpretation system: Unlocking a new dimension of artwork analysis.\" Array 29: 100670. https://doi.org/10.1016/j.array.2025.100670",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ra048",
+ "input": {
+  "doi": "10.33953/0381-003-002-016"
+ },
+ "status": 200,
+ "latency_s": 1.75,
+ "apa": "Al-Khalif, A. M., & Abu Bakr, I. S. I. (2020). مصادر الإيقاع وآثاره فى الرسائل النبوية. مجلة دراسات في العلوم الإنسانية والاجتماعية. https://doi.org/10.33953/0381-003-002-016",
+ "mla": "Al-Khalif, Abdullah Muhammad, and Ibrahim Salih Idris Abu Bakr. “مصادر الإيقاع وآثاره فى الرسائل النبوية.” مجلة دراسات في العلوم الإنسانية والاجتماعية, 2020, https://doi.org/10.33953/0381-003-002-016.",
+ "chicago": "Al-Khalif, Abdullah Muhammad, and Ibrahim Salih Idris Abu Bakr. “مصادر الإيقاع وآثاره فى الرسائل النبوية.” مجلة دراسات في العلوم الإنسانية والاجتماعية (2020). https://doi.org/10.33953/0381-003-002-016.",
+ "attempts": 1
+}

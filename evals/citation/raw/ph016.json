@@ -1,0 +1,12 @@
+{
+ "run_id": "ph016",
+ "input": {
+  "doi": "10.1038/nature09270"
+ },
+ "status": 200,
+ "latency_s": 5.26,
+ "apa": "Teslovich, Tanya M., Musunuru, Kiran, Smith, Albert V., Edmondson, Andrew C., Stylianou, Ioannis M., Koseki, Masahiro, Pirruccello, James P., Ripatti, Samuli, Chasman, Daniel I., Willer, Cristen J., Johansen, Christopher T., Fouchier, Sigrid W., Isaacs, Aaron, Peloso, Gina M., Barbalic, Maja, Ricketts, Sally L., Bis, Joshua C., Aulchenko, Yurii S., Thorleifsson, Gudmar, … Jin Kim, Young. (2010). Biological, clinical and population relevance of 95 loci for blood lipids. Nature, 466(7307), 707–713. https://doi.org/10.1038/nature09270",
+ "mla": "Teslovich, Tanya M., et al. \"Biological, clinical and population relevance of 95 loci for blood lipids.\" Nature, vol. 466, no. 7307, 2010, pp. 707-713. https://doi.org/10.1038/nature09270",
+ "chicago": "Teslovich, Tanya M., Musunuru, Kiran, Smith, Albert V., Edmondson, Andrew C., Stylianou, Ioannis M., Koseki, Masahiro, Pirruccello, James P., Ripatti, Samuli, Chasman, Daniel I., Willer, Cristen J., Johansen, Christopher T., Fouchier, Sigrid W., Isaacs, Aaron, Peloso, Gina M., Barbalic, Maja, Ricketts, Sally L., Bis, Joshua C., Aulchenko, Yurii S., Thorleifsson, Gudmar, Feitosa, Mary F., Chambers, John, Orho-Melander, Marju, Melander, Olle, Johnson, Toby, Li, Xiaohui, Guo, Xiuqing, Li, Mingyao, Shin Cho, Yoon, Jin Go, Min, Jin Kim, Young. 2010. \"Biological, clinical and population relevance of 95 loci for blood lipids.\" Nature 466 (7307): 707–713. https://doi.org/10.1038/nature09270",
+ "attempts": 1
+}

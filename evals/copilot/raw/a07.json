@@ -1,0 +1,12 @@
+{
+ "run_id": "a07",
+ "id": "a07",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Which phytoplankton genus was most dominant in Taal Lake and what does that indicate?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.29,
+ "response": "The most dominant phytoplankton genus in Taal Lake was **Microcystis** (Mercurio et al., 2016). Its prevalence, together with the dominance of other cyanobacteria such as Merismopedia and Oscillatoria, signals **organic pollution and eutrophication** of the lake’s waters. <INLINE_CITATION>(Mercurio et al., 2016)</INLINE_CITATION>",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ph009",
+ "input": {
+  "doi": "10.1016/j.jacc.2017.04.052"
+ },
+ "status": 200,
+ "latency_s": 1.93,
+ "apa": "Roth, G. A., Johnson, C., Abajobir, A., Abd-Allah, F., Abera, S. F., Abyu, G., Ahmed, M., Aksut, B., Alam, T., Alam, K., Alla, F., Alvis-Guzman, N., Amrock, S., Ansari, H., Ärnlöv, J., Asayesh, H., Atey, T. M., Avila-Burgos, L., Awasthi, A., Banerjee, A., Barac, A., Bärnighausen, T., Barregard, L., Bedi, N., Belay Ketema, E., Bennett, D., Berhe, G., Bhutta, Z., Bitew, S., Carapetis, J., et al. (2017). Global, regional, and national burden of cardiovascular diseases for 10 causes, 1990 to 2015. Journal of the American College of Cardiology, 70(1), 1–25. https://doi.org/10.1016/j.jacc.2017.04.052",
+ "mla": "Roth, Gregory A., et al. “Global, Regional, and National Burden of Cardiovascular Diseases for 10 Causes, 1990 to 2015.” Journal of the American College of Cardiology, vol. 70, no. 1, 2017, pp. 1–25. https://doi.org/10.1016/j.jacc.2017.04.052.",
+ "chicago": "Roth, Gregory A., Catherine Johnson, Amanuel Abajobir, Foad Abd-Allah, Semaw Ferede Abera, Gebre Abyu, Muktar Ahmed, Baran Aksut, Tahiya Alam, Khurshid Alam, François Alla, Nelson Alvis-Guzman, Stephen Amrock, Hossein Ansari, Johan Ärnlöv, Hamid Asayesh, Tesfay Mehari Atey, Leticia Avila-Burgos, Ashish Awasthi, Amitava Banerjee, Aleksandra Barac, Till Bärnighausen, Lars Barregard, Neeraj Bedi, Ezra Belay Ketema, Derrick Bennett, Gebremedhin Berhe, Zulfiqar Bhutta, Shimelash Bitew, Jonathan Carapetis, et al. “Global, Regional, and National Burden of Cardiovascular Diseases for 10 Causes, 1990 to 2015.” Journal of the American College of Cardiology 70, no. 1 (2017): 1–25. https://doi.org/10.1016/j.jacc.2017.04.052.",
+ "attempts": 1
+}

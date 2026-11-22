@@ -1,0 +1,34 @@
+{
+ "id": "ra004",
+ "truth_id": "ra004",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "missing_article_number"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "missing_article_number"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "missing_article_number",
+   "wrong_punctuation:empty_slot"
+  ],
+  "variant": "notes-bibliography",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

@@ -1,0 +1,27 @@
+{
+ "id": "ra050",
+ "truth_id": "ra050",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": "Heuristic false positive: prepositions and 'ddCOSMO'/'ddX' are correctly lower-case."
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": "notes-bibliography",
+  "note": "Heuristic false positive: prepositions and 'ddCOSMO'/'ddX' are correctly lower-case."
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

@@ -1,0 +1,24 @@
+{
+ "id": "a02",
+ "claims": [
+  {
+   "text": "Gill net ~53% of gear",
+   "supported": true,
+   "cited_source": "src-1",
+   "citation_supports_claim": true,
+   "evidence": "gill net which is about 53% of the total gear"
+  },
+  {
+   "text": "CPUE 11 to 4 kg/day 1997-2011",
+   "supported": true,
+   "cited_source": "src-1",
+   "citation_supports_claim": true,
+   "evidence": "CPUE of 11kg/day to 4 kg/day from 1997 to 2011"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

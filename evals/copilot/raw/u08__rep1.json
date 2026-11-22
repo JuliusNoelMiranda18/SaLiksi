@@ -1,0 +1,12 @@
+{
+ "run_id": "u08__rep1",
+ "id": "u08",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What microplastic concentrations have been found in Taal Lake?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 2.12,
+ "response": "The eight sources in the vault do not provide any measurements or reports of micro‑plastic concentrations in Taal Lake; none of the listed studies include data on microplastics (<INLINE_CITATION>(Mutia et al., 2018)</INLINE_CITATION>; <INLINE_CITATION>(Querijero & Mercurio, 2016)</INLINE_CITATION>; <INLINE_CITATION>(Mercurio, Querijero & Ching, 2016)</INLINE_CITATION>; <INLINE_CITATION>(Macandog et al., 2014)</INLINE_CITATION>; <INLINE_CITATION>(Hilario & Perez, 2013)</INLINE_CITATION>; <INLINE_CITATION>(Papa & Pagulayan, 2007)</INLINE_CITATION>; <INLINE_CITATION>(Muyot, Balunan & Mutia, 2021)</INLINE_CITATION>; <INLINE_CITATION>(Banta & Salibay, 2023)</INLINE_CITATION>).",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ra005",
+ "input": {
+  "doi": "10.1016/s0361-9230(01)00530-5"
+ },
+ "status": 200,
+ "latency_s": 4.35,
+ "apa": "Eastwood, S. L., & Harrison, P. J. (2001). Synaptic pathology in the anterior cingulate cortex in schizophrenia and mood disorders. A review and a Western blot study of synaptophysin, GAP-43 and the complexins. Brain Research Bulletin, 55(5), 569–578. https://doi.org/10.1016/s0361-9230(01)00530-5",
+ "mla": "Eastwood, Sharon L., and Paul J. Harrison. \"Synaptic pathology in the anterior cingulate cortex in schizophrenia and mood disorders. A review and a Western blot study of synaptophysin, GAP-43 and the complexins.\" Brain Research Bulletin, vol. 55, no. 5, 2001, pp. 569-578. https://doi.org/10.1016/s0361-9230(01)00530-5",
+ "chicago": "Eastwood, Sharon L., and Paul J. Harrison. \"Synaptic pathology in the anterior cingulate cortex in schizophrenia and mood disorders. A review and a Western blot study of synaptophysin, GAP-43 and the complexins.\" Brain Research Bulletin 55, no. 5 (2001): 569–578. https://doi.org/10.1016/s0361-9230(01)00530-5",
+ "attempts": 1
+}

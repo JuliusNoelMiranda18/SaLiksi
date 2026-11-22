@@ -1,0 +1,17 @@
+{
+ "id": "a07",
+ "claims": [
+  {
+   "text": "Microcystis most dominant; indicates organic pollution and eutrophication",
+   "supported": true,
+   "cited_source": "src-3",
+   "citation_supports_claim": true,
+   "evidence": "most dominant phytoplankton ... was Microcystis ... indicating the organic pollution and eutrophication"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

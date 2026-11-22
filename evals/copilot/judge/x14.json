@@ -1,0 +1,17 @@
+{
+ "id": "x14",
+ "claims": [
+  {
+   "text": "Gill net 53%, CPUE 11 to 4 kg/day",
+   "supported": true,
+   "cited_source": "src-1",
+   "citation_supports_claim": true,
+   "evidence": "about 53% of the total gear"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Correctly says it only has the abstract.",
+ "citation_indexes_not_supporting": []
+}

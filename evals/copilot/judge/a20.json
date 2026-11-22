@@ -1,0 +1,40 @@
+{
+ "id": "a20",
+ "claims": [
+  {
+   "text": "Diet ~90% copepods; favors small taxa",
+   "supported": true,
+   "cited_source": "src-6",
+   "citation_supports_claim": true,
+   "evidence": "small-bodied organisms dominate the lake"
+  },
+  {
+   "text": "F and E have risen to unsustainable levels",
+   "supported": false,
+   "cited_source": "src-1",
+   "citation_supports_claim": false,
+   "evidence": "abstract gives ranges, no trend"
+  },
+  {
+   "text": "Sold mainly in local markets; processors highest value",
+   "supported": true,
+   "cited_source": "src-7",
+   "citation_supports_claim": true,
+   "evidence": "tawilis marketing system is limited to the local market"
+  },
+  {
+   "text": "Tawilis influences nutrient cycling and water quality",
+   "supported": false,
+   "cited_source": null,
+   "citation_supports_claim": null,
+   "evidence": ""
+  }
+ ],
+ "category_pass": false,
+ "grounded": false,
+ "failure_type": "unsupported_claim",
+ "notes": "APA format errors (full author lists).",
+ "citation_indexes_not_supporting": [
+  3
+ ]
+}

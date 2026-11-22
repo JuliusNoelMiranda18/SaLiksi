@@ -1,0 +1,17 @@
+{
+ "id": "a12",
+ "claims": [
+  {
+   "text": "Diet 90% copepods, 10% cladocerans and rotifers",
+   "supported": true,
+   "cited_source": "src-6",
+   "citation_supports_claim": true,
+   "evidence": "composed of 90% Copepoda with the remaining 10% being made up of the Cladocera and Rotifera"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

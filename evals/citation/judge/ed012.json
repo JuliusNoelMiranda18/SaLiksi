@@ -1,0 +1,33 @@
+{
+ "id": "ed012",
+ "truth_id": "ed012",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "diacritics_dropped"
+  ],
+  "variant": null,
+  "note": "Kokoszyńska -> Kokoszynska and usługowej -> uslugowej: diacritics stripped (passes the spec's normalized field check, fails the judge)."
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "diacritics_dropped"
+  ],
+  "variant": null,
+  "note": "Kokoszyńska -> Kokoszynska and usługowej -> uslugowej: diacritics stripped (passes the spec's normalized field check, fails the judge)."
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "diacritics_dropped"
+  ],
+  "variant": "notes-bibliography",
+  "note": "Kokoszyńska -> Kokoszynska and usługowej -> uslugowej: diacritics stripped (passes the spec's normalized field check, fails the judge)."
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

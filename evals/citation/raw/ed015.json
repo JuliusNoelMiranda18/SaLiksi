@@ -1,0 +1,12 @@
+{
+ "run_id": "ed015",
+ "input": {
+  "doi": "10.1249/01.mss.0000352751.84877.68"
+ },
+ "status": 200,
+ "latency_s": 2.4,
+ "apa": "Caspersen, C. J. (2009). Responsible conduct of research. Medicine & Science in Sports & Exercise, 41(5), 18. https://doi.org/10.1249/01.mss.0000352751.84877.68",
+ "mla": "Caspersen, Carl J. “Responsible Conduct of Research.” Medicine & Science in Sports & Exercise, vol. 41, no. 5, 2009, p. 18. https://doi.org/10.1249/01.mss.0000352751.84877.68.",
+ "chicago": "Caspersen, Carl J. “Responsible Conduct of Research.” Medicine & Science in Sports & Exercise 41, no. 5 (2009): 18. https://doi.org/10.1249/01.mss.0000352751.84877.68.",
+ "attempts": 1
+}

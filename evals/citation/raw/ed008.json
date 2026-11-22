@@ -1,0 +1,12 @@
+{
+ "run_id": "ed008",
+ "input": {
+  "doi": "10.1016/j.bmcl.2025.130389"
+ },
+ "status": 200,
+ "latency_s": 2.06,
+ "apa": "Daraji, D. G., Jezewski, A. J., Alden, K. M., Propp, J. P., Heene, M. E., Soldan, C. A., Liu, L., Battaile, K. P., Lovell, S., Staker, B. L., Krysan, D. J., & Hagen, T. J. (2025). Synthesis and evaluation of acyl-AMP phosphate isosteres as inhibitors of fungal acetyl CoA synthetase. Bioorganic & Medicinal Chemistry Letters, 129, 130389. https://doi.org/10.1016/j.bmcl.2025.130389",
+ "mla": "Daraji, Drashti G., et al. “Synthesis and Evaluation of Acyl-AMP Phosphate Isosteres as Inhibitors of Fungal Acetyl CoA Synthetase.” Bioorganic & Medicinal Chemistry Letters, vol. 129, 2025, p. 130389, https://doi.org/10.1016/j.bmcl.2025.130389.",
+ "chicago": "Daraji, Drashti G., Andrew J. Jezewski, Katy M. Alden, Jonah P. Propp, Michael E. Heene, Calvin A. Soldan, Lijun Liu, Kevin P. Battaile, Scott Lovell, Bart L. Staker, Damian J. Krysan, and Timothy J. Hagen. “Synthesis and Evaluation of Acyl-AMP Phosphate Isosteres as Inhibitors of Fungal Acetyl CoA Synthetase.” Bioorganic & Medicinal Chemistry Letters 129 (2025): 130389. https://doi.org/10.1016/j.bmcl.2025.130389.",
+ "attempts": 1
+}

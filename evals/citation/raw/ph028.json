@@ -1,0 +1,12 @@
+{
+ "run_id": "ph028",
+ "input": {
+  "doi": "10.1016/s1474-4422(24)00369-7"
+ },
+ "status": 200,
+ "latency_s": 3.33,
+ "apa": "Feigin, V. L., et al. (2024). Global, regional, and national burden of stroke and its risk factors, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021. The Lancet Neurology, 23(10), 973–1003. https://doi.org/10.1016/s1474-4422(24)00369-7",
+ "mla": "Feigin, Valery L., Melsew Dagne Abate, and Yohannes Habtegiorgis Abate. \"Global, regional, and national burden of stroke and its risk factors, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021.\" The Lancet Neurology, vol. 23, no. 10, 2024, pp. 973-1003. doi:10.1016/s1474-4422(24)00369-7",
+ "chicago": "Feigin, Valery L., Melsew Dagne Abate, Yohannes Habtegiorgis Abate, et al. 2024. \"Global, regional, and national burden of stroke and its risk factors, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021.\" The Lancet Neurology 23, no. 10: 973–1003. https://doi.org/10.1016/s1474-4422(24)00369-7",
+ "attempts": 1
+}

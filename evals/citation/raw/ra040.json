@@ -1,0 +1,12 @@
+{
+ "run_id": "ra040",
+ "input": {
+  "doi": "10.1086/480492"
+ },
+ "status": 200,
+ "latency_s": 1.44,
+ "apa": "Addison, J. T. (1925). Chinese ancestor-worship and Protestant Christianity. The Journal of Religion, 5(2), 140–149. https://doi.org/10.1086/480492",
+ "mla": "Addison, James Thayer. “Chinese Ancestor-Worship and Protestant Christianity.” The Journal of Religion, vol. 5, no. 2, 1925, pp. 140–149, doi:10.1086/480492.",
+ "chicago": "Addison, James Thayer. “Chinese Ancestor-Worship and Protestant Christianity.” The Journal of Religion 5, no. 2 (1925): 140–149. https://doi.org/10.1086/480492.",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ph006",
+ "input": {
+  "doi": "10.1056/nejmsa0810119"
+ },
+ "status": 200,
+ "latency_s": 3.06,
+ "apa": "Haynes, A. B., Weiser, T. G., Berry, W. R., Lipsitz, S. R., Breizat, A. H. S., Dellinger, E. P., Herbosa, T., Joseph, S., Kibatala, P. L., Lapitan, M. C. M., Merry, A. F., Moorthy, K., Reznick, R. K., Taylor, B., & Gawande, A. A. (2009). A surgical safety checklist to reduce morbidity and mortality in a global population. New England Journal of Medicine, 360(5), 491–499. https://doi.org/10.1056/nejmsa0810119",
+ "mla": "Haynes, Alex B., et al. “A Surgical Safety Checklist to Reduce Morbidity and Mortality in a Global Population.” New England Journal of Medicine, vol. 360, no. 5, 2009, pp. 491–499, doi:10.1056/nejmsa0810119.",
+ "chicago": "Haynes, Alex B., Weiser, Thomas G., Berry, William R., Lipsitz, Stuart R., Breizat, Abdel-Hadi S., Dellinger, E. Patchen, Herbosa, Teodoro, Joseph, Sudhir, Kibatala, Pascience L., Lapitan, Marie Carmela M., et al. “A Surgical Safety Checklist to Reduce Morbidity and Mortality in a Global Population.” New England Journal of Medicine 360, no. 5 (2009): 491–499. doi:10.1056/nejmsa0810119.",
+ "attempts": 1
+}

@@ -1,0 +1,42 @@
+{
+ "id": "Ura012",
+ "truth_id": "ra012",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "missing_volume",
+   "missing_issue",
+   "missing_pages",
+   "wrong_punctuation:vol_issue"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "missing_volume",
+   "missing_issue",
+   "missing_pages",
+   "wrong_punctuation:vol",
+   "wrong_punctuation:no"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": false,
+  "style_ok": true,
+  "errors": [
+   "missing_volume",
+   "missing_issue",
+   "missing_pages"
+  ],
+  "variant": "notes-bibliography",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

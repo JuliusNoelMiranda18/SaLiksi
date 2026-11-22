@@ -1,0 +1,12 @@
+{
+ "run_id": "ed011",
+ "input": {
+  "doi": "10.1002/chin.201022104"
+ },
+ "status": 200,
+ "latency_s": 3.02,
+ "apa": "Li, Y., Jin, J., Qian, W., & Bao, W. (2010). ChemInform Abstract: An Efficient and Convenient Cu(OAc)2/Air Mediated Oxidative Coupling of Azoles via C—H Activation. ChemInform, 41(22). https://doi.org/10.1002/chin.201022104",
+ "mla": "Li, Yan, et al. \"ChemInform Abstract: An Efficient and Convenient Cu(OAc)2/Air Mediated Oxidative Coupling of Azoles via C—H Activation.\" ChemInform, vol. 41, no. 22, 2010, Wiley, https://doi.org/10.1002/chin.201022104. Accessed 2025.",
+ "chicago": "Li, Yan, Jun Jin, Weixing Qian, and Weiliang Bao. 2010. \"ChemInform Abstract: An Efficient and Convenient Cu(OAc)2/Air Mediated Oxidative Coupling of Azoles via C—H Activation.\" ChemInform 41 (22). https://doi.org/10.1002/chin.201022104.",
+ "attempts": 1
+}

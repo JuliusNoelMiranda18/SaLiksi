@@ -1,0 +1,27 @@
+{
+ "id": "ra019",
+ "truth_id": "ra019",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": "author-date",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

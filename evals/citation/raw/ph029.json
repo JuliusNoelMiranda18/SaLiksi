@@ -1,0 +1,12 @@
+{
+ "run_id": "ph029",
+ "input": {
+  "doi": "10.1007/s40593-021-00239-1"
+ },
+ "status": 200,
+ "latency_s": 2.84,
+ "apa": "Holmes, W., Porayska-Pomsta, K., Holstein, K., Sutherland, E., Baker, T., Shum, S. B., Santos, O. C., Rodrigo, M. T., Cukurova, M., Bittencourt, I. I., & Koedinger, K. R. (2022). Ethics of AI in education: Towards a community-wide framework. International Journal of Artificial Intelligence in Education, 32(3), 504–526. https://doi.org/10.1007/s40593-021-00239-1",
+ "mla": "Holmes, Wayne, et al. “Ethics of AI in Education: Towards a Community-Wide Framework.” International Journal of Artificial Intelligence in Education, vol. 32, no. 3, 2022, pp. 504–526, doi:10.1007/s40593-021-00239-1.",
+ "chicago": "Holmes, Wayne, Kaska Porayska-Pomsta, Ken Holstein, Emma Sutherland, Toby Baker, Simon Buckingham Shum, Olga C. Santos, Mercedes T. Rodrigo, Mutlu Cukurova, Ig Ibert Bittencourt, and Kenneth R. Koedinger. 2022. “Ethics of AI in Education: Towards a Community-Wide Framework.” International Journal of Artificial Intelligence in Education 32 (3): 504–526. https://doi.org/10.1007/s40593-021-00239-1.",
+ "attempts": 1
+}

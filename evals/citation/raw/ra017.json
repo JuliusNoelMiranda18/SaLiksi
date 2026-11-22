@@ -1,0 +1,12 @@
+{
+ "run_id": "ra017",
+ "input": {
+  "doi": "10.1016/j.scitotenv.2021.151482"
+ },
+ "status": 200,
+ "latency_s": 2.97,
+ "apa": "Chen, Y., Kelly, R., Genet, H., Lara, M. J., Chipman, M. L., McGuire, A. D., & Hu, F. S. (2022). Resilience and sensitivity of ecosystem carbon stocks to fire-regime change in Alaskan tundra. Science of The Total Environment, 806, 151482. https://doi.org/10.1016/j.scitotenv.2021.151482",
+ "mla": "Chen, Yaping, et al. \"Resilience and sensitivity of ecosystem carbon stocks to fire-regime change in Alaskan tundra.\" Science of The Total Environment, vol. 806, 2022, p. 151482. https://doi.org/10.1016/j.scitotenv.2021.151482",
+ "chicago": "Chen, Yaping, Ryan Kelly, Hélène Genet, Mark Jason Lara, Melissa Lynn Chipman, A. David McGuire, and Feng Sheng Hu. 2022. \"Resilience and sensitivity of ecosystem carbon stocks to fire-regime change in Alaskan tundra.\" Science of The Total Environment 806: 151482. https://doi.org/10.1016/j.scitotenv.2021.151482",
+ "attempts": 1
+}

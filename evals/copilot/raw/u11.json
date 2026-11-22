@@ -1,0 +1,12 @@
+{
+ "run_id": "u11",
+ "id": "u11",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What is the price per kilogram of tawilis at local markets?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.31,
+ "response": "I’m sorry, but none of the sources in the vault provide a specific price per kilogram for tawilis sold in local markets. The value‑chain study (Muyot et al., 2021) discusses the marketing system and actors involved, but it does not report retail or wholesale price figures.",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ra007",
+ "input": {
+  "doi": "10.52230/mrwe8760"
+ },
+ "status": 200,
+ "latency_s": 2.31,
+ "apa": "Nolan, M. (2026). Power to win: The living wage movement in Aotearoa New Zealand. Journal of Australian, Canadian, and Aotearoa New Zealand Studies, 6, 154-155. https://doi.org/10.52230/mrwe8760",
+ "mla": "Nolan, Melanie. \"Power to Win: The Living Wage Movement in Aotearoa New Zealand.\" Journal of Australian, Canadian, and Aotearoa New Zealand Studies, vol. 6, 2026, pp. 154-155. https://doi.org/10.52230/mrwe8760",
+ "chicago": "Nolan, Melanie. \"Power to Win: The Living Wage Movement in Aotearoa New Zealand.\" Journal of Australian, Canadian, and Aotearoa New Zealand Studies 6 (2026): 154-155. https://doi.org/10.52230/mrwe8760",
+ "attempts": 1
+}

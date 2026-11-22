@@ -1,0 +1,12 @@
+{
+ "run_id": "ed012",
+ "input": {
+  "doi": "10.1007/bf02283860"
+ },
+ "status": 200,
+ "latency_s": 1.83,
+ "apa": "Kokoszynska, M. (1970). Wprowadzanie implikacji na kursach logiki uslugowej. Studia Logica, 26(1), 139–145. https://doi.org/10.1007/bf02283860",
+ "mla": "Kokoszynska, Maria. “Wprowadzanie Implikacji na Kursach Logiki Uslugowej.” Studia Logica, vol. 26, no. 1, 1970, pp. 139–45. https://doi.org/10.1007/bf02283860.",
+ "chicago": "Kokoszynska, Maria. “Wprowadzanie Implikacji na Kursach Logiki Uslugowej.” Studia Logica 26, no. 1 (1970): 139–45. https://doi.org/10.1007/bf02283860.",
+ "attempts": 1
+}

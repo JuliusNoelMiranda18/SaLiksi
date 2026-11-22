@@ -1,0 +1,12 @@
+{
+ "run_id": "u12",
+ "id": "u12",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "How many tons of milkfish are produced in Taal Lake per year?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.25,
+ "response": "The sources in the vault do not provide a specific figure for the annual milkfish (bangus) production in Taal Lake. While aquaculture of milkfish is mentioned (e.g., as a predominant activity in the lake) <INLINE_CITATION>(Macandog et al., 2014)</INLINE_CITATION>, none of the listed studies report the total tonnage harvested per year.",
+ "attempts": 1
+}

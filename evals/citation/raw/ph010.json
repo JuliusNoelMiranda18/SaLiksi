@@ -1,0 +1,12 @@
+{
+ "run_id": "ph010",
+ "input": {
+  "doi": "10.1016/s0140-6736(10)60834-3"
+ },
+ "status": 200,
+ "latency_s": 3.68,
+ "apa": "O'Donnell, M. J., Xavier, D., Liu, L., Zhang, H., Chin, S. L., Rao-Melacini, P., Rangarajan, S., Islam, S., Pais, P., McQueen, M. J., Mondo, C., Damasceno, A., Lopez-Jaramillo, P., Hankey, G. J., Dans, A. L., Yusoff, K., Truelsen, T., Diener, H.-C., Sacco, R. L., Ryglewicz, D., Czlonkowska, A., Weimar, C., & Wang, X. (2010). Risk factors for ischaemic and intracerebral haemorrhagic stroke in 22 countries (the INTERSTROKE study): a case‑control study. The Lancet, 376(9735), 112–123. https://doi.org/10.1016/s0140-6736(10)60834-3",
+ "mla": "O'Donnell, Martin J., et al. “Risk Factors for Ischaemic and Intracerebral Haemorrhagic Stroke in 22 Countries (the INTERSTROKE Study): A Case‑Control Study.” The Lancet, vol. 376, no. 9735, 2010, pp. 112–123. doi:10.1016/s0140-6736(10)60834-3",
+ "chicago": "O'Donnell, Martin J., Denis Xavier, Lisheng Liu, Hongye Zhang, Siu Lim Chin, Purnima Rao-Melacini, Sumathy Rangarajan, Shofiqul Islam, Prem Pais, Matthew J. McQueen, Charles Mondo, Albertino Damasceno, Patricio Lopez-Jaramillo, Graeme J. Hankey, Antonio L. Dans, Khalid Yusoff, Thomas Truelsen, Hans-Christoph Diener, Ralph L. Sacco, Danuta Ryglewicz, Anna Czlonkowska, Christian Weimar, Xingyu Wang, and Salim Yusuf. 2010. “Risk Factors for Ischaemic and Intracerebral Haemorrhagic Stroke in 22 Countries (the INTERSTROKE Study): A Case‑Control Study.” The Lancet 376 (9735): 112–123. https://doi.org/10.1016/s0140-6736(10)60834-3",
+ "attempts": 2
+}

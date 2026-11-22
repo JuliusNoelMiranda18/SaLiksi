@@ -1,0 +1,33 @@
+{
+ "id": "ra044",
+ "truth_id": "ra044",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "wrong_cap_rule:mla_sentence_case",
+   "wrong_punctuation:vol",
+   "wrong_punctuation:pp"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "wrong_cap_rule:chicago_sentence_case"
+  ],
+  "variant": "author-date",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

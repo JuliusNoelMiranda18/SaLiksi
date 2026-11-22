@@ -1,0 +1,27 @@
+{
+ "id": "x08",
+ "claims": [
+  {
+   "text": "Tilapia aquaculture since 1975",
+   "supported": true,
+   "cited_source": "src-4",
+   "citation_supports_claim": true,
+   "evidence": "predominant activity in Taal Lake since 1975"
+  },
+  {
+   "text": "Taal supplies well under 5% of national tilapia",
+   "supported": false,
+   "cited_source": "src-4",
+   "citation_supports_claim": false,
+   "evidence": ""
+  }
+ ],
+ "category_pass": false,
+ "grounded": false,
+ "failure_type": "outside_knowledge",
+ "notes": "Gave an estimate from outside reasoning ('most commercial tilapia comes from ... other regions').",
+ "citation_indexes_not_supporting": [
+  2,
+  3
+ ]
+}

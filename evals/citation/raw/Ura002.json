@@ -1,0 +1,12 @@
+{
+ "run_id": "Ura002",
+ "input": {
+  "url": "https://visaemdebate.incqs.fiocruz.br/index.php/visaemdebate/article/view/2285"
+ },
+ "status": 200,
+ "latency_s": 4.5,
+ "apa": "Unknown Author. (n.d.). Unknown Title. Retrieved 2025, from https://visaemdebate.incqs.fiocruz.br/index.php/visaemdebate/article/view/2285",
+ "mla": "Unknown Author. \"Unknown Title.\" Web. n.d. https://visaemdebate.incqs.fiocruz.br/index.php/visaemdebate/article/view/2285. Accessed 2025.",
+ "chicago": "Unknown Author. \"Unknown Title.\" n.d. https://visaemdebate.incqs.fiocruz.br/index.php/visaemdebate/article/view/2285. Accessed 2025.",
+ "attempts": 2
+}

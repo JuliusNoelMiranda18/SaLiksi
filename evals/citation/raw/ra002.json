@@ -1,0 +1,12 @@
+{
+ "run_id": "ra002",
+ "input": {
+  "doi": "10.22239/2317-269x.02285"
+ },
+ "status": 200,
+ "latency_s": 3.69,
+ "apa": "Cardoso, A., & Costa, E. (2025). A produção científica sobre a regulação de medicamentos sem registro no Brasil, nos Estados Unidos e na Europa. Vigilância Sanitária em Debate. https://doi.org/10.22239/2317-269x.02285",
+ "mla": "Cardoso, Amanda Dos Santos Teles, and Ediná Alves Costa. \"A produção científica sobre a regulação de medicamentos sem registro no Brasil, nos Estados Unidos e na Europa.\" Vigilância Sanitária em Debate, Vigilancia Sanitaria em Debate: Sociedade, Ciencia y Tecnologia, 2025, doi:10.22239/2317-269x.02285.",
+ "chicago": "Cardoso, Amanda Dos Santos Teles, and Ediná Alves Costa. \"A produção científica sobre a regulação de medicamentos sem registro no Brasil, nos Estados Unidos e na Europa.\" Vigilância Sanitária em Debate. 2025. https://doi.org/10.22239/2317-269x.02285.",
+ "attempts": 1
+}

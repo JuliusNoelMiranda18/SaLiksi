@@ -1,0 +1,12 @@
+{
+ "run_id": "ra047",
+ "input": {
+  "doi": "10.1097/00003072-198811000-00020"
+ },
+ "status": 200,
+ "latency_s": 3.03,
+ "apa": "Kolla, I., Holt, D., & Taylor, A. (1988). Abnormal Ventilation-Perfusion Scan due to Swallowed DTP A Aerosol and a Paralyzed Hemidiaphragm. Clinical Nuclear Medicine, 13(11), 842-843. https://doi.org/10.1097/00003072-198811000-00020",
+ "mla": "Kolla, Iris, David Holt, and Andrew Taylor. \"Abnormal Ventilation-Perfusion Scan due to Swallowed DTP A Aerosol and a Paralyzed Hemidiaphragm.\" Clinical Nuclear Medicine, vol. 13, no. 11, 1988, pp. 842-843. https://doi.org/10.1097/00003072-198811000-00020",
+ "chicago": "Kolla, Iris, David Holt, and Andrew Taylor. 1988. “Abnormal Ventilation-Perfusion Scan due to Swallowed DTP A Aerosol and a Paralyzed Hemidiaphragm.” Clinical Nuclear Medicine 13, no. 11 (1988): 842-843. https://doi.org/10.1097/00003072-198811000-00020",
+ "attempts": 2
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "a14",
+ "id": "a14",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "How many respondents were surveyed in the tawilis supply and value chain study?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.8,
+ "response": "A semi-structured questionnaire was directed to 189 respondents within and outside Taal Lake (Muyot et al., 2021).",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "a06__rep3",
+ "id": "a06",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "How many phytoplankton genera were found in aquaculture versus non-aquaculture sites of Taal Lake?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.92,
+ "response": "Aquaculture sites harbored **36 phytoplankton genera**, while non‑aquaculture sites contained **30 genera** <INLINE_CITATION>(Mercurio et al., 2016)</INLINE_CITATION>.",
+ "attempts": 1
+}

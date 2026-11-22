@@ -1,0 +1,12 @@
+{
+ "run_id": "ph015",
+ "input": {
+  "doi": "10.3171/2017.10.jns17352"
+ },
+ "status": 200,
+ "latency_s": 3.09,
+ "apa": "Dewan, M. C., Rattani, A., Gupta, S., Baticulon, R. E., Hung, Y.-C., Punchak, M., Agrawal, A., Adeleye, A. O., Shrime, M. G., Rubiano, A. M., Rosenfeld, J. V., & Park, K. B. (2019). Estimating the global incidence of traumatic brain injury. Journal of Neurosurgery, 130(4), 1080-1097. https://doi.org/10.3171/2017.10.jns17352",
+ "mla": "Dewan, Michael C., et al. \"Estimating the global incidence of traumatic brain injury.\" Journal of Neurosurgery, vol. 130, no. 4, 2019, pp. 1080-1097. https://doi.org/10.3171/2017.10.jns17352",
+ "chicago": "Dewan, Michael C., Abbas Rattani, Saksham Gupta, Ronnie E. Baticulon, Ya-Ching Hung, Maria Punchak, Amit Agrawal, Amos O. Adeleye, Mark G. Shrime, Andrés M. Rubiano, Jeffrey V. Rosenfeld, and Kee B. Park. 2019. \"Estimating the Global Incidence of Traumatic Brain Injury.\" Journal of Neurosurgery 130 (4): 1080–1097. https://doi.org/10.3171/2017.10.jns17352",
+ "attempts": 1
+}

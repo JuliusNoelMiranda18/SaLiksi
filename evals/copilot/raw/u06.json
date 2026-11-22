@@ -1,0 +1,12 @@
+{
+ "run_id": "u06",
+ "id": "u06",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What is the IUCN Red List status of Sardinella tawilis and when was it assessed?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.58,
+ "response": "The provided vault sources do not contain information regarding the IUCN Red List status or the assessment date for *Sardinella tawilis*. The available sources focus on fishery resources, water quality, phytoplankton, zooplankton, nutrient transport, value chains, and heavy metal contamination in Taal Lake (Mutia et al., 2018; Querijero & Mercurio, 2016; Mercurio et al., 2016; Macandog et al., 2014; Hilario & Perez, 2013; Papa & Pagulayan, 2007; Muyot et al., 2021; Banta & Salibay, 2023).",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ra008",
+ "input": {
+  "doi": "10.1002/elps.201800284"
+ },
+ "status": 200,
+ "latency_s": 2.93,
+ "apa": "Wang, Y., Wang, J., Meng, J., Ding, G., Shi, Z., Wang, R., & Zhang, X. (2018). Detection of non‑small cell lung cancer cells based on microfluidic polarization microscopic image analysis. Electrophoresis, 40(8), 1202–1211. https://doi.org/10.1002/elps.201800284",
+ "mla": "Wang, Yanjuan, et al. \"Detection of non‑small cell lung cancer cells based on microfluidic polarization microscopic image analysis.\" Electrophoresis, vol. 40, no. 8, 2018, pp. 1202–1211, doi:10.1002/elps.201800284.",
+ "chicago": "Wang, Yanjuan, Junsheng Wang, Jie Meng, Gege Ding, Zhi Shi, Ruoyu Wang, and Xiaohui Zhang. 2018. \"Detection of non‑small cell lung cancer cells based on microfluidic polarization microscopic image analysis.\" Electrophoresis 40 (8): 1202–1211. https://doi.org/10.1002/elps.201800284.",
+ "attempts": 1
+}

@@ -1,0 +1,17 @@
+{
+ "id": "a30",
+ "claims": [
+  {
+   "text": "2020 eruption increased arsenic in soils near the lake (Talisay, Tagaytay)",
+   "supported": true,
+   "cited_source": "src-8",
+   "citation_supports_claim": true,
+   "evidence": "Talisay ... two-fold arsenic increase while ... Tagaytay ... one-fold elevation"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

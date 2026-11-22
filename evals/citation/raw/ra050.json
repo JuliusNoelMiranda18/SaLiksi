@@ -1,0 +1,12 @@
+{
+ "run_id": "ra050",
+ "input": {
+  "doi": "10.1021/acs.jpcb.2c04579"
+ },
+ "status": 200,
+ "latency_s": 1.8,
+ "apa": "Nottoli, M., Mikhalev, A., Stamm, B., & Lipparini, F. (2022). Coarse-graining ddCOSMO through an interface between Tinker and the ddX library. The Journal of Physical Chemistry B, 126(43), 8827–8837. https://doi.org/10.1021/acs.jpcb.2c04579",
+ "mla": "Nottoli, Michele, et al. “Coarse-Graining ddCOSMO through an Interface between Tinker and the ddX Library.” The Journal of Physical Chemistry B, vol. 126, no. 43, 2022, pp. 8827–8837. https://doi.org/10.1021/acs.jpcb.2c04579.",
+ "chicago": "Nottoli, Michele, Aleksandr Mikhalev, Benjamin Stamm, and Filippo Lipparini. “Coarse-Graining ddCOSMO through an Interface between Tinker and the ddX Library.” The Journal of Physical Chemistry B 126, no. 43 (2022): 8827–8837. https://doi.org/10.1021/acs.jpcb.2c04579.",
+ "attempts": 1
+}

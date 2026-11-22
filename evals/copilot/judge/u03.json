@@ -1,0 +1,9 @@
+{
+ "id": "u03",
+ "claims": [],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Declined (inside an odd DOCUMENT_EDIT).",
+ "citation_indexes_not_supporting": []
+}

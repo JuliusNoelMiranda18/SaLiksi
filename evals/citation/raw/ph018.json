@@ -1,0 +1,12 @@
+{
+ "run_id": "ph018",
+ "input": {
+  "doi": "10.1111/j.1467-937x.2005.00353.x"
+ },
+ "status": 200,
+ "latency_s": 1.64,
+ "apa": "Primiceri, G. E. (2005). Time varying structural vector autoregressions and monetary policy. The Review of Economic Studies, 72(3), 821–852. https://doi.org/10.1111/j.1467-937x.2005.00353.x",
+ "mla": "Primiceri, Giorgio E. “Time Varying Structural Vector Autoregressions and Monetary Policy.” The Review of Economic Studies, vol. 72, no. 3, 2005, pp. 821-852. https://doi.org/10.1111/j.1467-937x.2005.00353.x.",
+ "chicago": "Primiceri, Giorgio E. “Time Varying Structural Vector Autoregressions and Monetary Policy.” The Review of Economic Studies 72, no. 3 (2005): 821-852. https://doi.org/10.1111/j.1467-937x.2005.00353.x.",
+ "attempts": 2
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "a25__mla",
+ "id": "a25",
+ "category": "answerable",
+ "format": "MLA",
+ "prompt": "Give me a two-sentence literature review on Taal Lake water quality studies.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.96,
+ "response": "Water quality assessments in Taal Lake indicate that while basic parameters like temperature and pH show no significant difference between aquaculture and non-aquaculture sites, nutrient levels such as nitrates, phosphates, and total dissolved solids are significantly higher in areas with fish cage farming (Querijero and Mercurio). Additionally, the dominance of cyanobacteria in the phytoplankton community across both site types serves as a clear indicator of organic pollution and eutrophication within the lake (Mercurio et al.).",
+ "attempts": 1
+}

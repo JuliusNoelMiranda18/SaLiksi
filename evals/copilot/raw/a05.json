@@ -1,0 +1,12 @@
+{
+ "run_id": "a05",
+ "id": "a05",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "In which months did dissolved oxygen in Taal Lake fall to critical levels, according to my sources?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.07,
+ "response": "The dissolved oxygen (DO) in Taal Lake dropped below the critical threshold of < 4 ppm during **January and February** (Querijero & Mercurio, 2016).",
+ "attempts": 2
+}

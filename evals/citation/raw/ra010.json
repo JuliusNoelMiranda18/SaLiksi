@@ -1,0 +1,12 @@
+{
+ "run_id": "ra010",
+ "input": {
+  "doi": "10.4236/wja.2018.83008"
+ },
+ "status": 200,
+ "latency_s": 2.01,
+ "apa": "Muffih, P. T., Tshimwanga, E. K., Abutu, A., Abongwa, L. E., Awa, J. C., Atanga, P. N., Desembuin, F., Khan, E. M., Bonje, K. E., Emmanuel, N., Chimoun, E. F. T., Welty, T., Fosah, G. T., Lim, J., Duncan, D., Petit, L., Tene, G., Mosoko, J., & Bolu, O. (2018). Outcome evaluation of early implementation of Option B+ in Cameroon: A prospective cohort observational survey in the Northwest and Southwest regions. World Journal of AIDS, 8(3), 90–104. https://doi.org/10.4236/wja.2018.83008",
+ "mla": "Muffih, Pius Tih, et al. “Outcome Evaluation of Early Implementation of Option B+ in Cameroon: A Prospective Cohort Observational Survey in the Northwest and Southwest Regions.” World Journal of AIDS, vol. 8, no. 3, 2018, pp. 90–104, https://doi.org/10.4236/wja.2018.83008.",
+ "chicago": "Muffih, Pius Tih, Edouard Katayi Tshimwanga, Andrew Abutu, Lem Edith Abongwa, Jacques Chirac Awa, Pascal Nji Atanga, Felix Desembuin, Eveline Mboh Khan, Kuni Esther Bonje, Nshom Emmanuel, Ebeny Francois Temgbait Chimoun, Thomas Welty, Gladys Tayong Fosah, Jennifer Lim, Dana Duncan, Leah Petit, Gilbert Tene, Jembia Mosoko, and Omotayo Bolu. “Outcome Evaluation of Early Implementation of Option B+ in Cameroon: A Prospective Cohort Observational Survey in the Northwest and Southwest Regions.” World Journal of AIDS 8, no. 3 (2018): 90–104. https://doi.org/10.4236/wja.2018.83008.",
+ "attempts": 1
+}

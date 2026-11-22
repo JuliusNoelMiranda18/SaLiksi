@@ -1,0 +1,12 @@
+{
+ "run_id": "ra019",
+ "input": {
+  "doi": "10.1515/zfs-2020-2012"
+ },
+ "status": 200,
+ "latency_s": 2.71,
+ "apa": "Fricke, L. (2020). A southern German use of prefield-eses: Evidence from the corpus and an experimental study. Zeitschrift für Sprachwissenschaft, 39(1), 41-77. https://doi.org/10.1515/zfs-2020-2012",
+ "mla": "Fricke, Lea. \"A Southern German Use of Prefield-Eses: Evidence from the Corpus and an Experimental Study.\" Zeitschrift für Sprachwissenschaft, vol. 39, no. 1, 2020, pp. 41-77. https://doi.org/10.1515/zfs-2020-2012",
+ "chicago": "Fricke, Lea. 2020. \"A Southern German Use of Prefield-Eses: Evidence from the Corpus and an Experimental Study.\" Zeitschrift für Sprachwissenschaft 39 (1): 41-77. https://doi.org/10.1515/zfs-2020-2012",
+ "attempts": 1
+}

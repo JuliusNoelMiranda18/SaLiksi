@@ -1,0 +1,12 @@
+{
+ "run_id": "a25",
+ "id": "a25",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Give me a two-sentence literature review on Taal Lake water quality studies.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.92,
+ "response": "Taal Lake water‑quality monitoring has shown that temperature, pH, salinity, transparency and dissolved‑oxygen levels are statistically similar between aquaculture and non‑aquaculture sites, although dissolved oxygen and transparency are consistently lower at cage‑farm stations and critical DO (< 4 ppm) occurs during the winter months <INLINE_CITATION>(Querijero & Mercurio, 2016)</INLINE_CITATION>.  \n\nPhytoplankton assessments indicate markedly higher densities and greater genus richness at aquaculture locations, with cyanobacteria such as Microcystis dominating, a pattern that signals organic pollution and eutrophication driven by nutrient inputs from fish‑cage operations <INLINE_CITATION>(Mercurio, Querijero, & Ching, 2016)</INLINE_CITATION>.",
+ "attempts": 1
+}

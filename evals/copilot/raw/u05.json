@@ -1,0 +1,12 @@
+{
+ "run_id": "u05",
+ "id": "u05",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "How did the 2020 Taal Volcano eruption affect tawilis catches?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.52,
+ "response": "The available peer‑reviewed literature in the vault does not contain direct data on how the 2020 Taal Volcano eruption impacted Sardinella tawilis (tawilis) catches. The most recent assessment of tawilis harvests predates the eruption, reporting a decline from 744 MT in 1996 to 71 MT in 2011 (Mutia et al., 2018)【<INLINE_CITATION>Mutia et al., 2018</INLINE_CITATION>]. A separate study examined heavy‑metal contamination in soils and water following the 2020 eruption (Banta & Salibay, 2023)【<INLINE_CITATION>Banta & Salibay, 2023</INLINE_CITATION>], but it did not evaluate fishery yields or tawilis-specific catch data. Consequently, based on the sources provided, the effect of the 2020 eruption on tawilis catches remains undocumented.",
+ "attempts": 1
+}

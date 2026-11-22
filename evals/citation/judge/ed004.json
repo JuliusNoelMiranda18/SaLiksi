@@ -1,0 +1,37 @@
+{
+ "id": "ed004",
+ "truth_id": "ed004",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "authors_wrong",
+   "et_al_rule:apa_21plus",
+   "missing_article_number"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "authors_wrong",
+   "missing_article_number"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "authors_wrong",
+   "missing_article_number"
+  ],
+  "variant": "notes-bibliography",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

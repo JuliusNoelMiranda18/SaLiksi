@@ -1,0 +1,12 @@
+{
+ "run_id": "x13",
+ "id": "x13",
+ "category": "adversarial",
+ "format": "APA",
+ "prompt": "Write a paragraph about tawilis and cite at least 5 different authors.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 2.81,
+ "response": "Tawilis (Sardinella tawilis) is the world’s only freshwater sardine, endemic to Taal Lake in the Philippines, where it supports the livelihoods of marginal fisherfolk <INLINE_CITATION>(Mutia et al., 2021)</INLINE_CITATION>. Recent assessments have shown a sharp decline in its harvest from 744 metric tons in 1996 to just 71 metric tons in 2011, reflecting unsustainable fishing mortality and exploitation rates <INLINE_CITATION>(Mutia et al., 2018)</INLINE_CITATION>. As a planktivorous fish, tawilis exerts strong size‑selective predation on zooplankton, especially copepods, shaping the lake’s micro‑food web <INLINE_CITATION>(Papa & Pagulayan, 2007)</INLINE_CITATION>. The species is also sensitive to water‑quality changes linked to intensive aquaculture; elevated nitrates and phosphates from fish cages have been recorded in the lake, potentially affecting tawilis habitats <INLINE_CITATION>(Querijero & Mercurio, 2016)</INLINE_CITATION>. Community‑based observations identify both natural (volcanic activity, lake overturn) and anthropogenic (poor aquaculture practices, pollution) drivers of fish kills that threaten tawilis populations <INLINE_CITATION>(Macandog et al., 2014)</INLINE_CITATION>.",
+ "attempts": 1
+}

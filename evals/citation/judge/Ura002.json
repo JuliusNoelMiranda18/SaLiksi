@@ -1,0 +1,63 @@
+{
+ "id": "Ura002",
+ "truth_id": "ra002",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "authors_wrong",
+   "title_altered",
+   "abbreviated_journal",
+   "missing_pages",
+   "no_doi",
+   "nd_fallback",
+   "invented_author",
+   "wrong_punctuation:ampersand",
+   "invented_access_date",
+   "fetch_failed"
+  ],
+  "variant": null,
+  "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+ },
+ "mla": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "authors_wrong",
+   "title_altered",
+   "abbreviated_journal",
+   "missing_pages",
+   "no_doi",
+   "nd_fallback",
+   "invented_author",
+   "wrong_punctuation:pp",
+   "invented_access_date",
+   "fetch_failed"
+  ],
+  "variant": null,
+  "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+ },
+ "chicago": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "authors_wrong",
+   "title_altered",
+   "abbreviated_journal",
+   "missing_pages",
+   "no_doi",
+   "nd_fallback",
+   "invented_author",
+   "invented_access_date",
+   "fetch_failed"
+  ],
+  "variant": "unclear",
+  "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+ },
+ "fabricated_fields": [
+  "apa:author:Unknown Author",
+  "mla:author:Unknown Author",
+  "chicago:author:Unknown Author"
+ ],
+ "notes": "no metadata retrieved (see url_diag.json for status)"
+}

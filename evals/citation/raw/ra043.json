@@ -1,0 +1,12 @@
+{
+ "run_id": "ra043",
+ "input": {
+  "doi": "10.1007/s00276-026-03820-2"
+ },
+ "status": 200,
+ "latency_s": 1.98,
+ "apa": "Cakir, O., Uzel, M., Cankorur, M. A., Kanik, İ., & Keskin, N. (2026). Morphometric analysis of hand sesamoid bones using computed tomography and assessment of sex-related differences. Surgical and Radiologic Anatomy, 48(1). https://doi.org/10.1007/s00276-026-03820-2",
+ "mla": "Cakir, Ozgur, Murat Uzel, Mehmet Akif Cankorur, İdris Kanik, and Necmi Keskin. \"Morphometric analysis of hand sesamoid bones using computed tomography and assessment of sex-related differences.\" Surgical and Radiologic Anatomy, vol. 48, no. 1, 2026, https://doi.org/10.1007/s00276-026-03820-2",
+ "chicago": "Cakir, Ozgur, Murat Uzel, Mehmet Akif Cankorur, İdris Kanik, and Necmi Keskin. 2026. \"Morphometric analysis of hand sesamoid bones using computed tomography and assessment of sex-related differences.\" Surgical and Radiologic Anatomy 48 (1): https://doi.org/10.1007/s00276-026-03820-2",
+ "attempts": 1
+}

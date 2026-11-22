@@ -1,0 +1,12 @@
+{
+ "run_id": "Ura009",
+ "input": {
+  "url": "https://jommid.pasteur.ac.ir/article-1-818-en.html"
+ },
+ "status": 200,
+ "latency_s": 5.16,
+ "apa": "Torkashvand, Haniye; Department of Mycology, Pasteur Institute of Iran, Tehran, Iran; Jahanshiri, Zahra; Department of Mycology, Pasteur Institute of Iran, Tehran, Iran. (2025). Effects of Capsaicin on the Growth and Virulence Factors of Aspergillus fumigatus. Journal of Medical Microbiology and Infectious Diseases. https://doi.org/10.66224/JoMMID.13.4.303.",
+ "mla": "Torkashvand, Haniye; Department of Mycology, Pasteur Institute of Iran, Tehran, Iran; Jahanshiri, Zahra; Department of Mycology, Pasteur Institute of Iran, Tehran, Iran. \"Effects of Capsaicin on the Growth and Virulence Factors of Aspergillus fumigatus.\" Journal of Medical Microbiology and Infectious Diseases, 2025. Web. 2025. https://jommid.pasteur.ac.ir/article-1-818-en.html.",
+ "chicago": "Torkashvand, Haniye; Department of Mycology, Pasteur Institute of Iran, Tehran, Iran; Jahanshiri, Zahra; Department of Mycology, Pasteur Institute of Iran, Tehran, Iran. 2025. \"Effects of Capsaicin on the Growth and Virulence Factors of Aspergillus fumigatus.\" Journal of Medical Microbiology and Infectious Diseases. https://doi.org/10.66224/JoMMID.13.4.303.",
+ "attempts": 1
+}

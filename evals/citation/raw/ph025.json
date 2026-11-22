@@ -1,0 +1,12 @@
+{
+ "run_id": "ph025",
+ "input": {
+  "doi": "10.1016/s1474-4422(17)30299-5"
+ },
+ "status": 200,
+ "latency_s": 4.52,
+ "apa": "Feigin, V. L., Abajobir, A. A., Abate, K. H., Abd-Allah, F., Abdulle, A. M., Abera, S. F., Abyu, G. Y., Ahmed, M. B., Aichour, A. N., Aichour, I., Aichour, M. T. E., Akinyemi, R. O., Alabed, S., Al-Raddadi, R., Alvis-Guzman, N., Amare, A. T., Ansari, H., Anwari, P., Ärnlöv, J., … et al. (2017). Global, regional, and national burden of neurological disorders during 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015. The Lancet Neurology, 16(11), 877–897. https://doi.org/10.1016/s1474-4422(17)30299-5",
+ "mla": "Feigin, Valery L., et al. \"Global, regional, and national burden of neurological disorders during 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015.\" The Lancet Neurology, vol. 16, no. 11, 2017, pp. 877–897. https://doi.org/10.1016/s1474-4422(17)30299-5.",
+ "chicago": "Feigin, Valery L., Amanuel Alemu Abajobir, Kalkidan Hassen Abate, Foad Abd-Allah, Abdishakur M. Abdulle, Semaw Ferede Abera, Gebre Yitayih Abyu, Muktar Beshir Ahmed, Amani Nidhal Aichour, Ibtihel Aichour, Miloud Taki Eddine Aichour, Rufus Olusola Akinyemi, Samer Alabed, Rajaa Al-Raddadi, Nelson Alvis-Guzman, Azmeraw T. Amare, Hossein Ansari, Palwasha Anwari, Johan Ärnlöv, et al. 2017. \"Global, regional, and national burden of neurological disorders during 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015.\" The Lancet Neurology 16, no. 11 (2017): 877–897. https://doi.org/10.1016/s1474-4422(17)30299-5.",
+ "attempts": 1
+}

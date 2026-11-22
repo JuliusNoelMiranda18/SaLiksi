@@ -1,0 +1,12 @@
+{
+ "run_id": "ph001",
+ "input": {
+  "doi": "10.1111/j.1365-3180.1974.tb01084.x"
+ },
+ "status": 200,
+ "latency_s": 2.65,
+ "apa": "Zadoks, J. C., Chang, T. T., & Konzak, C. F. (1974). A decimal code for the growth stages of cereals. Weed Research, 14(6), 415–421. https://doi.org/10.1111/j.1365-3180.1974.tb01084.x",
+ "mla": "Zadoks, J. C., T. T. Chang, and C. F. Konzak. “A Decimal Code for the Growth Stages of Cereals.” Weed Research, vol. 14, no. 6, 1974, pp. 415–421. https://doi.org/10.1111/j.1365-3180.1974.tb01084.x",
+ "chicago": "Zadoks, J. C., T. T. Chang, and C. F. Konzak. 1974. “A Decimal Code for the Growth Stages of Cereals.” Weed Research 14, no. 6: 415–421. https://doi.org/10.1111/j.1365-3180.1974.tb01084.x",
+ "attempts": 1
+}

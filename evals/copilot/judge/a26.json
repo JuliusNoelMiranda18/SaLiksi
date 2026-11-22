@@ -1,0 +1,17 @@
+{
+ "id": "a26",
+ "claims": [
+  {
+   "text": "Cage aquaculture associated with elevated nutrients and lower DO",
+   "supported": true,
+   "cited_source": "src-2",
+   "citation_supports_claim": true,
+   "evidence": "DO ... consistently lower in the aquaculture sampling stations; Nitrates, phosphates ... significantly higher"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

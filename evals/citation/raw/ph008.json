@@ -1,0 +1,12 @@
+{
+ "run_id": "ph008",
+ "input": {
+  "doi": "10.1016/s0140-6736(07)61415-9"
+ },
+ "status": 200,
+ "latency_s": 2.65,
+ "apa": "Moussavi, S., Chatterji, S., Verdes, E., Tandon, A., Patel, V., & Ustun, B. (2007). Depression, chronic diseases, and decrements in health: results from the World Health Surveys. The Lancet, 370(9590), 851–858. https://doi.org/10.1016/s0140-6736(07)61415-9",
+ "mla": "Moussavi, Saba, Somnath Chatterji, Emese Verdes, Ajay Tandon, Vikram Patel, and Bedirhan Ustun. \"Depression, chronic diseases, and decrements in health: results from the World Health Surveys.\" The Lancet, vol. 370, no. 9590, 2007, pp. 851–858. doi:10.1016/s0140-6736(07)61415-9",
+ "chicago": "Moussavi, Saba, Somnath Chatterji, Emese Verdes, Ajay Tandon, Vikram Patel, and Bedirhan Ustun. 2007. \"Depression, chronic diseases, and decrements in health: results from the World Health Surveys.\" The Lancet 370, no. 9590 (2007): 851–858. https://doi.org/10.1016/s0140-6736(07)61415-9",
+ "attempts": 1
+}

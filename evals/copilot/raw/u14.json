@@ -1,0 +1,12 @@
+{
+ "run_id": "u14",
+ "id": "u14",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "Which invasive species was first introduced to Taal Lake and in what year?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.35,
+ "response": "The first invasive (alien) species reported in Taal Lake were the jaguar fish, pangasius, and black‑chinned tilapia, whose presence began to increase markedly in 2009 (Mutia, Muyot, Torres Jr., & Faminialagao, 2018).<INLINE_CITATION>(Mutia et al., 2018)</INLINE_CITATION>",
+ "attempts": 1
+}

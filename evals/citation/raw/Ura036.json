@@ -1,0 +1,12 @@
+{
+ "run_id": "Ura036",
+ "input": {
+  "url": "http://hdl.handle.net/11104/0267056"
+ },
+ "status": 200,
+ "latency_s": 1.65,
+ "apa": "Unknown Author. (n.d.). Making sure you're not a bot! Retrieved February 26, 2025, from http://hdl.handle.net/11104/0267056",
+ "mla": "Unknown Author. “Making Sure You're Not a Bot!” n.d., http://hdl.handle.net/11104/0267056. Accessed 26 Feb. 2025.",
+ "chicago": "Unknown Author. “Making Sure You're Not a Bot!” n.d. Accessed February 26, 2025. http://hdl.handle.net/11104/0267056.",
+ "attempts": 2
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ph024",
+ "input": {
+  "doi": "10.1111/j.1472-4642.2008.00482.x"
+ },
+ "status": 200,
+ "latency_s": 1.35,
+ "apa": "Wisz, M. S., Hijmans, R. J., Li, J., Peterson, A. T., Graham, C. H., & Guisan, A. (2008). Effects of sample size on the performance of species distribution models. Diversity and Distributions, 14(5), 763–773. https://doi.org/10.1111/j.1472-4642.2008.00482.x",
+ "mla": "Wisz, M. S., et al. “Effects of Sample Size on the Performance of Species Distribution Models.” Diversity and Distributions, vol. 14, no. 5, 2008, pp. 763–773. https://doi.org/10.1111/j.1472-4642.2008.00482.x.",
+ "chicago": "Wisz, M. S., R. J. Hijmans, J. Li, A. T. Peterson, C. H. Graham, and A. Guisan. “Effects of Sample Size on the Performance of Species Distribution Models.” Diversity and Distributions 14, no. 5 (2008): 763–773. https://doi.org/10.1111/j.1472-4642.2008.00482.x.",
+ "attempts": 1
+}

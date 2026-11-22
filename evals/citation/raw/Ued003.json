@@ -1,0 +1,12 @@
+{
+ "run_id": "Ued003",
+ "input": {
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4862911/"
+ },
+ "status": 200,
+ "latency_s": 4.76,
+ "apa": "Danek, B. A., Karatasakis, A., Karmpaliotis, D., Alaswad, K., Yeh, R. W., Jaffer, F. A., Patel, M., Bahadorani, J., Lombardi, W. L., Wyman, M. R., Grantham, J. A., Doing, A., Moses, J. W., Kirtane, A., Parikh, M., Ali, Z., Kalra, S., Kandzari, D. E., Lembo, N., ... Brilakis, E. S. (2016). Use of antegrade dissection re-entry in coronary chronic total occlusion percutaneous coronary intervention in a contemporary multicenter registry. International journal of cardiology. https://doi.org/10.1016/j.ijcard.2016.03.215",
+ "mla": "Danek, Barbara Anna, et al. \"Use of Antegrade Dissection Re-entry in Coronary Chronic Total Occlusion Percutaneous Coronary Intervention in a Contemporary Multicenter Registry.\" International Journal of Cardiology, 2016, doi:10.1016/j.ijcard.2016.03.215.",
+ "chicago": "Danek, Barbara Anna, Aris Karatasakis, Dimitri Karmpaliotis, Khaldoon Alaswad, Robert W. Yeh, Farouc A. Jaffer, Mitul Patel, John Bahadorani, William L. Lombardi, Michael R. Wyman, et al. Use of Antegrade Dissection Re-entry in Coronary Chronic Total Occlusion Percutaneous Coronary Intervention in a Contemporary Multicenter Registry. International Journal of Cardiology. https://doi.org/10.1016/j.ijcard.2016.03.215.",
+ "attempts": 1
+}

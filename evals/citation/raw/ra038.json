@@ -1,0 +1,12 @@
+{
+ "run_id": "ra038",
+ "input": {
+  "doi": "10.3991/ijep.v12i2.29283"
+ },
+ "status": 200,
+ "latency_s": 2.45,
+ "apa": "Prevalla, B., Shaidullina, A. R., Ishmuradova, I. I., Larionova, A. A., Kosarenko, N. N., & Andryushchenko, I. S. (2022). Determining University Students’ Availability on Zoom. International Journal of Engineering Pedagogy (iJEP), 12(2), 35–47. https://doi.org/10.3991/ijep.v12i2.29283",
+ "mla": "Prevalla, Blerta, et al. \"Determining University Students’ Availability on Zoom.\" International Journal of Engineering Pedagogy (iJEP), vol. 12, no. 2, 2022, pp. 35–47. https://doi.org/10.3991/ijep.v12i2.29283",
+ "chicago": "Prevalla, Blerta, Albina R. Shaidullina, Izida I. Ishmuradova, Anna A. Larionova, Nikolay N. Kosarenko, and Irina S. Andryushchenko. 2022. \"Determining University Students’ Availability on Zoom.\" International Journal of Engineering Pedagogy (iJEP) 12, no. 2: 35–47. https://doi.org/10.3991/ijep.v12i2.29283",
+ "attempts": 1
+}

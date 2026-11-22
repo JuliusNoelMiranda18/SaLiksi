@@ -1,0 +1,12 @@
+{
+ "run_id": "ed005",
+ "input": {
+  "doi": "10.1051/0004-6361/202555168"
+ },
+ "status": 200,
+ "latency_s": 3.62,
+ "apa": "Ulmer-Moll, S., Gill, S., Brahm, R., Claringbold, A., Lendl, M., Al Moulla, K., Anderson, D., Battley, M., Bayliss, D., Bonfanti, A., Bouchy, F., Briceño, C., Bryant, E. M., Burleigh, M. R., Collins, K. A., Deline, A., Dumusque, X., Eberhardt, J., Espinoza, N., … Helled, R. (2025). Detection and characterisation of a 106-day transiting Jupiter: TOI-2449 b/NGTS-36 b. Astronomy & Astrophysics, 703, A258. https://doi.org/10.1051/0004-6361/202555168",
+ "mla": "Ulmer-Moll, S., Gill, S., Brahm, R., Claringbold, A., Lendl, M., Al Moulla, K., Anderson, D., Battley, M., Bayliss, D., Bonfanti, A., Bouchy, F., Briceño, C., Bryant, E. M., Burleigh, M. R., Collins, K. A., Deline, A., Dumusque, X., Eberhardt, J., Espinoza, N., Falk, B., et al. \"Detection and characterisation of a 106-day transiting Jupiter: TOI-2449 b/NGTS-36 b.\" Astronomy & Astrophysics, vol. 703, 2025, p. A258, https://doi.org/10.1051/0004-6361/202555168",
+ "chicago": "Ulmer-Moll, S., Gill, S., Brahm, R., Claringbold, A., Lendl, M., Al Moulla, K., Anderson, D., Battley, M., Bayliss, D., Bonfanti, A., et al. 2025. \"Detection and characterisation of a 106-day transiting Jupiter: TOI-2449 b/NGTS-36 b.\" Astronomy & Astrophysics 703: A258. https://doi.org/10.1051/0004-6361/202555168",
+ "attempts": 1
+}

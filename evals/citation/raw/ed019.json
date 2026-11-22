@@ -1,0 +1,12 @@
+{
+ "run_id": "ed019",
+ "input": {
+  "doi": "10.1007/s15004-013-0567-2"
+ },
+ "status": 200,
+ "latency_s": 2.93,
+ "apa": "Müller, T. (2013). Erfolg bei metastasierendem Melanom. Info Onkologie, 16(5), 52. https://doi.org/10.1007/s15004-013-0567-2",
+ "mla": "Müller, Thomas. \"Erfolg bei metastasierendem Melanom.\" Info Onkologie, vol. 16, no. 5, 2013, pp. 52. https://doi.org/10.1007/s15004-013-0567-2",
+ "chicago": "Müller, Thomas. 2013. \"Erfolg bei metastasierendem Melanom.\" Info Onkologie 16 (5): 52. https://doi.org/10.1007/s15004-013-0567-2",
+ "attempts": 1
+}

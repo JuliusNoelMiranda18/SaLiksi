@@ -1,0 +1,126 @@
+[
+ {
+  "id": "Ura002",
+  "doi_id": "ra002",
+  "url": "https://visaemdebate.incqs.fiocruz.br/index.php/visaemdebate/article/view/2285",
+  "group": "random"
+ },
+ {
+  "id": "Ura018",
+  "doi_id": "ra018",
+  "url": "https://journalajaees.com/index.php/AJAEES/article/view/2498",
+  "group": "random"
+ },
+ {
+  "id": "Ura024",
+  "doi_id": "ra024",
+  "url": "https://hal.science/hal-04469589",
+  "group": "random"
+ },
+ {
+  "id": "Ura036",
+  "doi_id": "ra036",
+  "url": "http://hdl.handle.net/11104/0267056",
+  "group": "random"
+ },
+ {
+  "id": "Ura043",
+  "doi_id": "ra043",
+  "url": "https://link.springer.com/article/10.1007/s00276-026-03820-2",
+  "group": "random"
+ },
+ {
+  "id": "Uph002",
+  "doi_id": "ph002",
+  "url": "http://hdl.handle.net/1808/1658",
+  "group": "philippine"
+ },
+ {
+  "id": "Uph007",
+  "doi_id": "ph007",
+  "url": "https://hal.science/hal-00886451",
+  "group": "philippine"
+ },
+ {
+  "id": "Uph014",
+  "doi_id": "ph014",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5584412",
+  "group": "philippine"
+ },
+ {
+  "id": "Uph016",
+  "doi_id": "ph016",
+  "url": "https://www.research.ed.ac.uk/en/publications/e0608eec-e270-4095-a7cb-602a16d4547b",
+  "group": "philippine"
+ },
+ {
+  "id": "Uph017",
+  "doi_id": "ph017",
+  "url": "http://hdl.handle.net/11368/2935817",
+  "group": "philippine"
+ },
+ {
+  "id": "Uph021",
+  "doi_id": "ph021",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4500822",
+  "group": "philippine"
+ },
+ {
+  "id": "Uph026",
+  "doi_id": "ph026",
+  "url": "https://repositorio.udes.edu.co/handle/001/3452",
+  "group": "philippine"
+ },
+ {
+  "id": "Uph027",
+  "doi_id": "ph027",
+  "url": "http://europepmc.org/pmc/articles/PMC454199",
+  "group": "philippine"
+ },
+ {
+  "id": "Ued001",
+  "doi_id": "ed001",
+  "url": "http://hdl.handle.net/1959.4/unsworks_51807",
+  "group": "edge"
+ },
+ {
+  "id": "Ued003",
+  "doi_id": "ed003",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4862911/",
+  "group": "edge"
+ },
+ {
+  "id": "Ued016",
+  "doi_id": "ed016",
+  "url": "https://www.research.ed.ac.uk/en/publications/36821dba-4768-4f3e-acd4-4b4f5ee1e6b2",
+  "group": "edge"
+ },
+ {
+  "id": "Ura003",
+  "doi_id": "ra003",
+  "url": "https://link.springer.com/article/10.1186/s13643-025-02906-z",
+  "group": "random",
+  "via": "doi.org redirect"
+ },
+ {
+  "id": "Ura009",
+  "doi_id": "ra009",
+  "url": "https://jommid.pasteur.ac.ir/article-1-818-en.html",
+  "group": "random",
+  "via": "doi.org redirect"
+ },
+ {
+  "id": "Ura010",
+  "doi_id": "ra010",
+  "url": "https://www.scirp.org/journal/paperinformation?paperid=87446",
+  "group": "random",
+  "via": "doi.org redirect"
+ },
+ {
+  "id": "Ura012",
+  "doi_id": "ra012",
+  "url": "https://jsurgmed.com/article/view/992197",
+  "group": "random",
+  "via": "doi.org redirect"
+ }
+]

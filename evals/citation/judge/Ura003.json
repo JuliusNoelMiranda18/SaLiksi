@@ -1,0 +1,33 @@
+{
+ "id": "Ura003",
+ "truth_id": "ra003",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "missing_article_number"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "missing_article_number"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "missing_article_number"
+  ],
+  "variant": "notes-bibliography",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

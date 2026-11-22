@@ -1,0 +1,12 @@
+{
+ "run_id": "ra027",
+ "input": {
+  "doi": "10.65494/pinagpalapublishing.258"
+ },
+ "status": 200,
+ "latency_s": 1.88,
+ "apa": "VITA, JERICHO. (2026). Assessment of the Matatag English Curriculum: Basis for a Proposed Strategic Instructional Plan. World Education Connect Multidisciplinary E-Publication. https://doi.org/10.65494/pinagpalapublishing.258",
+ "mla": "VITA, JERICHO. \"Assessment of the Matatag English Curriculum: Basis for a Proposed Strategic Instructional Plan.\" World Education Connect Multidisciplinary E-Publication, 2026, doi:10.65494/pinagpalapublishing.258.",
+ "chicago": "VITA, JERICHO. 2026. \"Assessment of the Matatag English Curriculum: Basis for a Proposed Strategic Instructional Plan.\" World Education Connect Multidisciplinary E-Publication. https://doi.org/10.65494/pinagpalapublishing.258.",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "Ura012",
+ "input": {
+  "url": "https://jsurgmed.com/article/view/992197"
+ },
+ "status": 200,
+ "latency_s": 2.86,
+ "apa": "Seçinti, İ. E., Gürsoy, D., Beyaz, M. O., & Fansa, İ. (2022). Undifferentiated pleomorphic sarcoma with focal myogenic differentiation mimicking left atrial myxoma. Journal of Surgery and Medicine. https://doi.org/10.28982/josam.992197",
+ "mla": "Seçinti, İlke Evrim, et al. “Undifferentiated Pleomorphic Sarcoma with Focal Myogenic Differentiation Mimicking Left Atrial Myxoma.” Journal of Surgery and Medicine, 2022, https://doi.org/10.28982/josam.992197.",
+ "chicago": "Seçinti, İlke Evrim, Didar Gürsoy, Metin Onur Beyaz, and İyad Fansa. “Undifferentiated Pleomorphic Sarcoma with Focal Myogenic Differentiation Mimicking Left Atrial Myxoma.” Journal of Surgery and Medicine (2022). https://doi.org/10.28982/josam.992197.",
+ "attempts": 2
+}

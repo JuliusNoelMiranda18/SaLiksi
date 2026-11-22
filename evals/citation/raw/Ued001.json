@@ -1,0 +1,12 @@
+{
+ "run_id": "Ued001",
+ "input": {
+  "url": "http://hdl.handle.net/1959.4/unsworks_51807"
+ },
+ "status": 200,
+ "latency_s": 4.52,
+ "apa": "Unknown Author. (n.d.). http://hdl.handle.net/1959.4/unsworks_51807. Retrieved 2025, from http://hdl.handle.net/1959.4/unsworks_51807",
+ "mla": "Unknown Author. \"http://hdl.handle.net/1959.4/unsworks_51807.\" Web. 2025. <http://hdl.handle.net/1959.4/unsworks_51807>.",
+ "chicago": "Unknown Author. n.d. \"http://hdl.handle.net/1959.4/unsworks_51807.\" Accessed 2025. <http://hdl.handle.net/1959.4/unsworks_51807>.",
+ "attempts": 1
+}

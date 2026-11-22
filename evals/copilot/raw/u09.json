@@ -1,0 +1,12 @@
+{
+ "run_id": "u09",
+ "id": "u09",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What was the mercury concentration (in mg/kg) measured in Tagaytay soil samples?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.21,
+ "response": "The study reported that mercury concentrations in the soil (including the Tagaytay samples) were within acceptable levels, but it did not provide a specific numeric value in mg kg⁻¹ for the Tagaytay site【<INLINE_CITATION>Banta & Salibay, 2023</INLINE_CITATION>】.",
+ "attempts": 1
+}

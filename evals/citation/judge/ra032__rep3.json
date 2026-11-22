@@ -1,0 +1,29 @@
+{
+ "id": "ra032__rep3",
+ "truth_id": "ra032",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "invented_access_date"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": "author-date",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

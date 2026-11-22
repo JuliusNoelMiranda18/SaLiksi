@@ -1,0 +1,19 @@
+{
+ "id": "ra026",
+ "apa": {
+  "correct": false,
+  "errors": [
+   "wrong_cap_rule"
+  ]
+ },
+ "mla": {
+  "correct": false,
+  "errors": [
+   "invented_access_date"
+  ]
+ },
+ "chicago": {
+  "correct": true,
+  "errors": []
+ }
+}

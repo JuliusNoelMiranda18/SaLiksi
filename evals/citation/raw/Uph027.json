@@ -1,0 +1,12 @@
+{
+ "run_id": "Uph027",
+ "input": {
+  "url": "http://europepmc.org/pmc/articles/PMC454199"
+ },
+ "status": 200,
+ "latency_s": 2.33,
+ "apa": "Unknown Author. (n.d.). http://europepmc.org/pmc/articles/PMC454199. Retrieved 2025, from http://europepmc.org/pmc/articles/PMC454199",
+ "mla": "Unknown Author. \"http://europepmc.org/pmc/articles/PMC454199.\" Web, n.d., http://europepmc.org/pmc/articles/PMC454199. Accessed 2025.",
+ "chicago": "Unknown Author. \"http://europepmc.org/pmc/articles/PMC454199.\" Web. Accessed 2025. http://europepmc.org/pmc/articles/PMC454199.",
+ "attempts": 2
+}

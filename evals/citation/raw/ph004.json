@@ -1,0 +1,12 @@
+{
+ "run_id": "ph004",
+ "input": {
+  "doi": "10.4193/rhin20.600"
+ },
+ "status": 200,
+ "latency_s": 5.07,
+ "apa": "Fokkens, W. J., Lund, V. J., Hopkins, C., Hellings, P. W., Kern, R., Reitsma, S., Toppila‑Salmi, S., Bernal‑Sprekelsen, M., Mullol, J., Alobid, I., Anselmo‑Lima, W., Bachert, C., Baroody, F., von Buchwald, C., Cervin, A., Cohen, N., Constantinidis, J., De Gabory, L., Desrosiers, M., Diamant, Z., Douglas, R. G., Gevaert, P. H., Hafner, A., Harvey, R. J., Joos, G. F., Kalogjera, L., Knill, A., Kocks, J. H., Landis, B. N., Limpens, J., et al. (2020). European Position Paper on Rhinosinusitis and Nasal Polyps 2020. Rhinology journal, 0(0), 1–464. https://doi.org/10.4193/rhin20.600",
+ "mla": "Fokkens, W. J., Lund, V. J., Hopkins, C., Hellings, P. W., Kern, R., Reitsma, S., Toppila‑Salmi, S., Bernal‑Sprekelsen, M., Mullol, J., Alobid, I., Anselmo‑Lima, W., Bachert, C., Baroody, F., von Buchwald, C., Cervin, A., Cohen, N., Constantinidis, J., De Gabory, L., Desrosiers, M., Diamant, Z., Douglas, R. G., Gevaert, P. H., Hafner, A., Harvey, R. J., Joos, G. F., Kalogjera, L., Knill, A., Kocks, J. H., Landis, B. N., Limpens, J., et al. “European Position Paper on Rhinosinusitis and Nasal Polyps 2020.” Rhinology journal, vol. 0, no. 0, 2020, pp. 1–464, doi:10.4193/rhin20.600.",
+ "chicago": "Fokkens, W. J., Lund, V. J., Hopkins, C., Hellings, P. W., Kern, R., Reitsma, S., Toppila‑Salmi, S., Bernal‑Sprekelsen, M., Mullol, J., Alobid, I., Anselmo‑Lima, W., Bachert, C., Baroody, F., von Buchwald, C., Cervin, A., Cohen, N., Constantinidis, J., De Gabory, L., Desrosiers, M., Diamant, Z., Douglas, R. G., Gevaert, P. H., Hafner, A., Harvey, R. J., Joos, G. F., Kalogjera, L., Knill, A., Kocks, J. H., Landis, B. N., Limpens, J., et al. (2020). “European Position Paper on Rhinosinusitis and Nasal Polyps 2020.” Rhinology journal 0 (0): 1–464. https://doi.org/10.4193/rhin20.600",
+ "attempts": 1
+}

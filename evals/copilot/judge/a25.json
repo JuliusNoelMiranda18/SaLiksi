@@ -1,0 +1,34 @@
+{
+ "id": "a25",
+ "claims": [
+  {
+   "text": "Critical DO occurs in winter months",
+   "supported": false,
+   "cited_source": "src-2",
+   "citation_supports_claim": false,
+   "evidence": "abstract: January and February; 'winter' is the model's label"
+  },
+  {
+   "text": "Higher phytoplankton density/richness, Microcystis dominant",
+   "supported": true,
+   "cited_source": "src-3",
+   "citation_supports_claim": true,
+   "evidence": "36 genera ... 30 genera; significantly higher"
+  },
+  {
+   "text": "Pattern driven by fish-cage nutrient inputs",
+   "supported": false,
+   "cited_source": "src-3",
+   "citation_supports_claim": false,
+   "evidence": "src-3 does not attribute cause to cage nutrients"
+  }
+ ],
+ "category_pass": false,
+ "grounded": false,
+ "failure_type": "unsupported_claim",
+ "notes": "APA format error on 3-author cite.",
+ "citation_indexes_not_supporting": [
+  0,
+  1
+ ]
+}

@@ -1,0 +1,2332 @@
+{
+ "doi_all": {
+  "n": 100,
+  "paper_correct": 20,
+  "paper_accuracy": 20.0,
+  "wilson95": [
+   13.3,
+   28.9
+  ],
+  "apa_accuracy": 50.0,
+  "apa_wilson95": [
+   40.4,
+   59.6
+  ],
+  "apa_fields_ok": 77.0,
+  "apa_style_ok": 57.0,
+  "mla_accuracy": 49.0,
+  "mla_wilson95": [
+   39.4,
+   58.7
+  ],
+  "mla_fields_ok": 95.0,
+  "mla_style_ok": 51.0,
+  "chicago_accuracy": 49.0,
+  "chicago_wilson95": [
+   39.4,
+   58.7
+  ],
+  "chicago_fields_ok": 90.0,
+  "chicago_style_ok": 54.0,
+  "per_field": {
+   "authors": {
+    "pass": 267,
+    "of": 300,
+    "pct": 89.0
+   },
+   "year": {
+    "pass": 300,
+    "of": 300,
+    "pct": 100.0
+   },
+   "title": {
+    "pass": 297,
+    "of": 300,
+    "pct": 99.0
+   },
+   "journal": {
+    "pass": 300,
+    "of": 300,
+    "pct": 100.0
+   },
+   "volume": {
+    "pass": 285,
+    "of": 285,
+    "pct": 100.0
+   },
+   "issue": {
+    "pass": 249,
+    "of": 252,
+    "pct": 98.8
+   },
+   "pages": {
+    "pass": 261,
+    "of": 270,
+    "pct": 96.7
+   },
+   "doi": {
+    "pass": 300,
+    "of": 300,
+    "pct": 100.0
+   }
+  },
+  "fabricated_citation_rate": {
+   "citations_with_fabrication": 0,
+   "of": 300,
+   "pct": 0.0
+  },
+  "latency_avg_s": 2.72,
+  "latency_max_s": 5.26,
+  "error_tags": [
+   {
+    "tag": "wrong_cap_rule:mla_sentence_case",
+    "count": 30,
+    "examples": [
+     [
+      "ra003",
+      "mla"
+     ],
+     [
+      "ra005",
+      "mla"
+     ],
+     [
+      "ra008",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:chicago_sentence_case",
+    "count": 28,
+    "examples": [
+     [
+      "ra005",
+      "chicago"
+     ],
+     [
+      "ra008",
+      "chicago"
+     ],
+     [
+      "ra014",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "missing_article_number",
+    "count": 18,
+    "examples": [
+     [
+      "ra003",
+      "apa"
+     ],
+     [
+      "ra004",
+      "apa"
+     ],
+     [
+      "ra043",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:apa_title_case",
+    "count": 18,
+    "examples": [
+     [
+      "ra009",
+      "apa"
+     ],
+     [
+      "ra015",
+      "apa"
+     ],
+     [
+      "ra016",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:apa_21plus",
+    "count": 16,
+    "examples": [
+     [
+      "ph003",
+      "apa"
+     ],
+     [
+      "ph004",
+      "apa"
+     ],
+     [
+      "ph005",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "author_truncated",
+    "count": 16,
+    "examples": [
+     [
+      "ph003",
+      "apa"
+     ],
+     [
+      "ph004",
+      "apa"
+     ],
+     [
+      "ph009",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:mla",
+    "count": 15,
+    "examples": [
+     [
+      "ra011",
+      "mla"
+     ],
+     [
+      "ra015",
+      "mla"
+     ],
+     [
+      "ra018",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "authors_wrong",
+    "count": 12,
+    "examples": [
+     [
+      "ra002",
+      "apa"
+     ],
+     [
+      "ph005",
+      "apa"
+     ],
+     [
+      "ph022",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "invented_access_date",
+    "count": 10,
+    "examples": [
+     [
+      "ra014",
+      "mla"
+     ],
+     [
+      "ra022",
+      "mla"
+     ],
+     [
+      "ra026",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "missing_pages",
+    "count": 9,
+    "examples": [
+     [
+      "ra002",
+      "apa"
+     ],
+     [
+      "ra041",
+      "apa"
+     ],
+     [
+      "ra048",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:apa_after_colon",
+    "count": 9,
+    "examples": [
+     [
+      "ra003",
+      "apa"
+     ],
+     [
+      "ra041",
+      "apa"
+     ],
+     [
+      "ph007",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:chicago_10plus",
+    "count": 9,
+    "examples": [
+     [
+      "ra010",
+      "chicago"
+     ],
+     [
+      "ph010",
+      "chicago"
+     ],
+     [
+      "ph014",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_name_order",
+    "count": 8,
+    "examples": [
+     [
+      "ra021",
+      "chicago"
+     ],
+     [
+      "ph004",
+      "chicago"
+     ],
+     [
+      "ph006",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:pp",
+    "count": 4,
+    "examples": [
+     [
+      "ra002",
+      "mla"
+     ],
+     [
+      "ra029",
+      "mla"
+     ],
+     [
+      "ra041",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "title_altered",
+    "count": 3,
+    "examples": [
+     [
+      "ra007",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:vol",
+    "count": 3,
+    "examples": [
+     [
+      "ra022",
+      "mla"
+     ],
+     [
+      "ra029",
+      "mla"
+     ],
+     [
+      "ra044",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "missing_issue",
+    "count": 3,
+    "examples": [
+     [
+      "ra041",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:vol_issue",
+    "count": 3,
+    "examples": [
+     [
+      "ph005",
+      "apa"
+     ],
+     [
+      "ph030",
+      "apa"
+     ],
+     [
+      "ed001",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "diacritics_dropped",
+    "count": 3,
+    "examples": [
+     [
+      "ed012",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:title_quotes",
+    "count": 2,
+    "examples": [
+     [
+      "ra003",
+      "chicago"
+     ],
+     [
+      "ra046",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:empty_slot",
+    "count": 2,
+    "examples": [
+     [
+      "ra004",
+      "chicago"
+     ],
+     [
+      "ra043",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "initials_wrong",
+    "count": 2,
+    "examples": [
+     [
+      "ra025",
+      "apa"
+     ],
+     [
+      "ra027",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "invented_container",
+    "count": 1,
+    "examples": [
+     [
+      "ra002",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:no",
+    "count": 1,
+    "examples": [
+     [
+      "ra041",
+      "mla"
+     ]
+    ]
+   }
+  ],
+  "chicago_variants": {
+   "notes-bibliography": 45,
+   "unclear": 1,
+   "author-date": 54
+  },
+  "status_counts": {
+   "200": 100
+  }
+ },
+ "url_all": {
+  "n": 20,
+  "paper_correct": 0,
+  "paper_accuracy": 0.0,
+  "wilson95": [
+   0,
+   16.1
+  ],
+  "apa_accuracy": 0.0,
+  "apa_wilson95": [
+   0,
+   16.1
+  ],
+  "apa_fields_ok": 10.0,
+  "apa_style_ok": 5.0,
+  "mla_accuracy": 0.0,
+  "mla_wilson95": [
+   0,
+   16.1
+  ],
+  "mla_fields_ok": 10.0,
+  "mla_style_ok": 0.0,
+  "chicago_accuracy": 0.0,
+  "chicago_wilson95": [
+   0,
+   16.1
+  ],
+  "chicago_fields_ok": 10.0,
+  "chicago_style_ok": 15.0,
+  "per_field": {
+   "authors": {
+    "pass": 20,
+    "of": 60,
+    "pct": 33.3
+   },
+   "year": {
+    "pass": 23,
+    "of": 60,
+    "pct": 38.3
+   },
+   "title": {
+    "pass": 18,
+    "of": 60,
+    "pct": 30.0
+   },
+   "journal": {
+    "pass": 21,
+    "of": 60,
+    "pct": 35.0
+   },
+   "pages": {
+    "pass": 0,
+    "of": 54,
+    "pct": 0.0
+   },
+   "doi": {
+    "pass": 20,
+    "of": 60,
+    "pct": 33.3
+   },
+   "volume": {
+    "pass": 6,
+    "of": 57,
+    "pct": 10.5
+   },
+   "issue": {
+    "pass": 6,
+    "of": 54,
+    "pct": 11.1
+   }
+  },
+  "fabricated_citation_rate": {
+   "citations_with_fabrication": 38,
+   "of": 60,
+   "pct": 63.3
+  },
+  "latency_avg_s": 3.3,
+  "latency_max_s": 6.18,
+  "error_tags": [
+   {
+    "tag": "missing_pages",
+    "count": 54,
+    "examples": [
+     [
+      "Ura002",
+      "apa"
+     ],
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "missing_volume",
+    "count": 51,
+    "examples": [
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ],
+     [
+      "Ura036",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "missing_issue",
+    "count": 48,
+    "examples": [
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ],
+     [
+      "Ura036",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "title_altered",
+    "count": 42,
+    "examples": [
+     [
+      "Ura002",
+      "apa"
+     ],
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "no_doi",
+    "count": 40,
+    "examples": [
+     [
+      "Ura002",
+      "apa"
+     ],
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "authors_wrong",
+    "count": 39,
+    "examples": [
+     [
+      "Ura002",
+      "apa"
+     ],
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "abbreviated_journal",
+    "count": 39,
+    "examples": [
+     [
+      "Ura002",
+      "apa"
+     ],
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "invented_author",
+    "count": 38,
+    "examples": [
+     [
+      "Ura002",
+      "apa"
+     ],
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_year",
+    "count": 37,
+    "examples": [
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ],
+     [
+      "Ura036",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "nd_fallback",
+    "count": 32,
+    "examples": [
+     [
+      "Ura002",
+      "apa"
+     ],
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "invented_access_date",
+    "count": 31,
+    "examples": [
+     [
+      "Ura002",
+      "apa"
+     ],
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "fetch_failed",
+    "count": 21,
+    "examples": [
+     [
+      "Ura002",
+      "apa"
+     ],
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Uph002",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "cited_bot_wall_page",
+    "count": 18,
+    "examples": [
+     [
+      "Ura024",
+      "apa"
+     ],
+     [
+      "Ura036",
+      "apa"
+     ],
+     [
+      "Uph007",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:vol",
+    "count": 17,
+    "examples": [
+     [
+      "Ura018",
+      "mla"
+     ],
+     [
+      "Ura024",
+      "mla"
+     ],
+     [
+      "Ura036",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:pp",
+    "count": 16,
+    "examples": [
+     [
+      "Ura002",
+      "mla"
+     ],
+     [
+      "Ura018",
+      "mla"
+     ],
+     [
+      "Ura024",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:vol_issue",
+    "count": 16,
+    "examples": [
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ],
+     [
+      "Ura036",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:no",
+    "count": 16,
+    "examples": [
+     [
+      "Ura018",
+      "mla"
+     ],
+     [
+      "Ura024",
+      "mla"
+     ],
+     [
+      "Ura036",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:mla",
+    "count": 11,
+    "examples": [
+     [
+      "Ura018",
+      "mla"
+     ],
+     [
+      "Ura036",
+      "mla"
+     ],
+     [
+      "Uph002",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:ampersand",
+    "count": 9,
+    "examples": [
+     [
+      "Ura002",
+      "apa"
+     ],
+     [
+      "Ura018",
+      "apa"
+     ],
+     [
+      "Ura024",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:mla_sentence_case",
+    "count": 7,
+    "examples": [
+     [
+      "Ura018",
+      "mla"
+     ],
+     [
+      "Ura024",
+      "mla"
+     ],
+     [
+      "Uph007",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:chicago_sentence_case",
+    "count": 7,
+    "examples": [
+     [
+      "Ura018",
+      "chicago"
+     ],
+     [
+      "Ura024",
+      "chicago"
+     ],
+     [
+      "Uph007",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "missing_article_number",
+    "count": 6,
+    "examples": [
+     [
+      "Ura043",
+      "apa"
+     ],
+     [
+      "Ura003",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:apa_21plus",
+    "count": 6,
+    "examples": [
+     [
+      "Uph014",
+      "apa"
+     ],
+     [
+      "Uph016",
+      "apa"
+     ],
+     [
+      "Uph017",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:chicago_10plus",
+    "count": 6,
+    "examples": [
+     [
+      "Uph014",
+      "chicago"
+     ],
+     [
+      "Uph017",
+      "chicago"
+     ],
+     [
+      "Uph021",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "invented_year",
+    "count": 5,
+    "examples": [
+     [
+      "Uph002",
+      "mla"
+     ],
+     [
+      "Uph007",
+      "mla"
+     ],
+     [
+      "Uph017",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:title_quotes",
+    "count": 3,
+    "examples": [
+     [
+      "Ued003",
+      "chicago"
+     ],
+     [
+      "Ura010",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_name_order",
+    "count": 2,
+    "examples": [
+     [
+      "Ura009",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:apa_title_case",
+    "count": 1,
+    "examples": [
+     [
+      "Ura009",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "initials_wrong",
+    "count": 1,
+    "examples": [
+     [
+      "Ura009",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "invented_number",
+    "count": 1,
+    "examples": [
+     [
+      "Ura010",
+      "mla"
+     ]
+    ]
+   }
+  ],
+  "chicago_variants": {
+   "unclear": 13,
+   "notes-bibliography": 5,
+   "author-date": 2
+  },
+  "status_counts": {
+   "200": 20
+  }
+ },
+ "doi_random": {
+  "n": 50,
+  "paper_correct": 11,
+  "paper_accuracy": 22.0,
+  "wilson95": [
+   12.8,
+   35.2
+  ],
+  "apa_accuracy": 56.0,
+  "apa_wilson95": [
+   42.3,
+   68.8
+  ],
+  "apa_fields_ok": 90.0,
+  "apa_style_ok": 62.0,
+  "mla_accuracy": 50.0,
+  "mla_wilson95": [
+   36.6,
+   63.4
+  ],
+  "mla_fields_ok": 92.0,
+  "mla_style_ok": 54.0,
+  "chicago_accuracy": 60.0,
+  "chicago_wilson95": [
+   46.2,
+   72.4
+  ],
+  "chicago_fields_ok": 92.0,
+  "chicago_style_ok": 66.0,
+  "per_field": {
+   "authors": {
+    "pass": 142,
+    "of": 150,
+    "pct": 94.7
+   },
+   "year": {
+    "pass": 150,
+    "of": 150,
+    "pct": 100.0
+   },
+   "title": {
+    "pass": 147,
+    "of": 150,
+    "pct": 98.0
+   },
+   "journal": {
+    "pass": 150,
+    "of": 150,
+    "pct": 100.0
+   },
+   "volume": {
+    "pass": 135,
+    "of": 135,
+    "pct": 100.0
+   },
+   "issue": {
+    "pass": 123,
+    "of": 126,
+    "pct": 97.6
+   },
+   "pages": {
+    "pass": 123,
+    "of": 132,
+    "pct": 93.2
+   },
+   "doi": {
+    "pass": 150,
+    "of": 150,
+    "pct": 100.0
+   }
+  },
+  "fabricated_citation_rate": {
+   "citations_with_fabrication": 0,
+   "of": 150,
+   "pct": 0.0
+  },
+  "latency_avg_s": 2.51,
+  "latency_max_s": 4.35,
+  "error_tags": [
+   {
+    "tag": "wrong_cap_rule:apa_title_case",
+    "count": 15,
+    "examples": [
+     [
+      "ra009",
+      "apa"
+     ],
+     [
+      "ra015",
+      "apa"
+     ],
+     [
+      "ra016",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:mla_sentence_case",
+    "count": 13,
+    "examples": [
+     [
+      "ra003",
+      "mla"
+     ],
+     [
+      "ra005",
+      "mla"
+     ],
+     [
+      "ra008",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:chicago_sentence_case",
+    "count": 12,
+    "examples": [
+     [
+      "ra005",
+      "chicago"
+     ],
+     [
+      "ra008",
+      "chicago"
+     ],
+     [
+      "ra014",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "missing_pages",
+    "count": 9,
+    "examples": [
+     [
+      "ra002",
+      "apa"
+     ],
+     [
+      "ra041",
+      "apa"
+     ],
+     [
+      "ra048",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "missing_article_number",
+    "count": 9,
+    "examples": [
+     [
+      "ra003",
+      "apa"
+     ],
+     [
+      "ra004",
+      "apa"
+     ],
+     [
+      "ra043",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:mla",
+    "count": 7,
+    "examples": [
+     [
+      "ra011",
+      "mla"
+     ],
+     [
+      "ra015",
+      "mla"
+     ],
+     [
+      "ra018",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:pp",
+    "count": 4,
+    "examples": [
+     [
+      "ra002",
+      "mla"
+     ],
+     [
+      "ra029",
+      "mla"
+     ],
+     [
+      "ra041",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "invented_access_date",
+    "count": 4,
+    "examples": [
+     [
+      "ra014",
+      "mla"
+     ],
+     [
+      "ra022",
+      "mla"
+     ],
+     [
+      "ra026",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "authors_wrong",
+    "count": 3,
+    "examples": [
+     [
+      "ra002",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "title_altered",
+    "count": 3,
+    "examples": [
+     [
+      "ra007",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:vol",
+    "count": 3,
+    "examples": [
+     [
+      "ra022",
+      "mla"
+     ],
+     [
+      "ra029",
+      "mla"
+     ],
+     [
+      "ra044",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "missing_issue",
+    "count": 3,
+    "examples": [
+     [
+      "ra041",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:apa_after_colon",
+    "count": 2,
+    "examples": [
+     [
+      "ra003",
+      "apa"
+     ],
+     [
+      "ra041",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:title_quotes",
+    "count": 2,
+    "examples": [
+     [
+      "ra003",
+      "chicago"
+     ],
+     [
+      "ra046",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:empty_slot",
+    "count": 2,
+    "examples": [
+     [
+      "ra004",
+      "chicago"
+     ],
+     [
+      "ra043",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "initials_wrong",
+    "count": 2,
+    "examples": [
+     [
+      "ra025",
+      "apa"
+     ],
+     [
+      "ra027",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "invented_container",
+    "count": 1,
+    "examples": [
+     [
+      "ra002",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:chicago_10plus",
+    "count": 1,
+    "examples": [
+     [
+      "ra010",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_name_order",
+    "count": 1,
+    "examples": [
+     [
+      "ra021",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:no",
+    "count": 1,
+    "examples": [
+     [
+      "ra041",
+      "mla"
+     ]
+    ]
+   }
+  ],
+  "chicago_variants": {
+   "notes-bibliography": 24,
+   "unclear": 1,
+   "author-date": 25
+  },
+  "status_counts": {
+   "200": 50
+  }
+ },
+ "doi_philippine": {
+  "n": 30,
+  "paper_correct": 5,
+  "paper_accuracy": 16.7,
+  "wilson95": [
+   7.3,
+   33.6
+  ],
+  "apa_accuracy": 36.7,
+  "apa_wilson95": [
+   21.9,
+   54.5
+  ],
+  "apa_fields_ok": 50.0,
+  "apa_style_ok": 46.7,
+  "mla_accuracy": 60.0,
+  "mla_wilson95": [
+   42.3,
+   75.4
+  ],
+  "mla_fields_ok": 100.0,
+  "mla_style_ok": 60.0,
+  "chicago_accuracy": 43.3,
+  "chicago_wilson95": [
+   27.4,
+   60.8
+  ],
+  "chicago_fields_ok": 86.7,
+  "chicago_style_ok": 50.0,
+  "per_field": {
+   "authors": {
+    "pass": 71,
+    "of": 90,
+    "pct": 78.9
+   },
+   "year": {
+    "pass": 90,
+    "of": 90,
+    "pct": 100.0
+   },
+   "title": {
+    "pass": 90,
+    "of": 90,
+    "pct": 100.0
+   },
+   "journal": {
+    "pass": 90,
+    "of": 90,
+    "pct": 100.0
+   },
+   "volume": {
+    "pass": 90,
+    "of": 90,
+    "pct": 100.0
+   },
+   "issue": {
+    "pass": 87,
+    "of": 87,
+    "pct": 100.0
+   },
+   "pages": {
+    "pass": 90,
+    "of": 90,
+    "pct": 100.0
+   },
+   "doi": {
+    "pass": 90,
+    "of": 90,
+    "pct": 100.0
+   }
+  },
+  "fabricated_citation_rate": {
+   "citations_with_fabrication": 0,
+   "of": 90,
+   "pct": 0.0
+  },
+  "latency_avg_s": 3.03,
+  "latency_max_s": 5.26,
+  "error_tags": [
+   {
+    "tag": "author_truncated",
+    "count": 14,
+    "examples": [
+     [
+      "ph003",
+      "apa"
+     ],
+     [
+      "ph004",
+      "apa"
+     ],
+     [
+      "ph009",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:apa_21plus",
+    "count": 12,
+    "examples": [
+     [
+      "ph003",
+      "apa"
+     ],
+     [
+      "ph004",
+      "apa"
+     ],
+     [
+      "ph005",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:mla_sentence_case",
+    "count": 9,
+    "examples": [
+     [
+      "ph007",
+      "mla"
+     ],
+     [
+      "ph008",
+      "mla"
+     ],
+     [
+      "ph015",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:chicago_sentence_case",
+    "count": 8,
+    "examples": [
+     [
+      "ph007",
+      "chicago"
+     ],
+     [
+      "ph008",
+      "chicago"
+     ],
+     [
+      "ph016",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:apa_after_colon",
+    "count": 6,
+    "examples": [
+     [
+      "ph007",
+      "apa"
+     ],
+     [
+      "ph008",
+      "apa"
+     ],
+     [
+      "ph010",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:mla",
+    "count": 5,
+    "examples": [
+     [
+      "ph001",
+      "mla"
+     ],
+     [
+      "ph002",
+      "mla"
+     ],
+     [
+      "ph007",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_name_order",
+    "count": 5,
+    "examples": [
+     [
+      "ph004",
+      "chicago"
+     ],
+     [
+      "ph006",
+      "chicago"
+     ],
+     [
+      "ph007",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "authors_wrong",
+    "count": 5,
+    "examples": [
+     [
+      "ph005",
+      "apa"
+     ],
+     [
+      "ph022",
+      "apa"
+     ],
+     [
+      "ph028",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:chicago_10plus",
+    "count": 5,
+    "examples": [
+     [
+      "ph010",
+      "chicago"
+     ],
+     [
+      "ph014",
+      "chicago"
+     ],
+     [
+      "ph015",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "invented_access_date",
+    "count": 3,
+    "examples": [
+     [
+      "ph002",
+      "mla"
+     ],
+     [
+      "ph019",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:apa_title_case",
+    "count": 2,
+    "examples": [
+     [
+      "ph002",
+      "apa"
+     ],
+     [
+      "ph004",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:vol_issue",
+    "count": 2,
+    "examples": [
+     [
+      "ph005",
+      "apa"
+     ],
+     [
+      "ph030",
+      "apa"
+     ]
+    ]
+   }
+  ],
+  "chicago_variants": {
+   "author-date": 17,
+   "notes-bibliography": 13
+  },
+  "status_counts": {
+   "200": 30
+  }
+ },
+ "doi_edge": {
+  "n": 20,
+  "paper_correct": 4,
+  "paper_accuracy": 20.0,
+  "wilson95": [
+   8.1,
+   41.6
+  ],
+  "apa_accuracy": 55.0,
+  "apa_wilson95": [
+   34.2,
+   74.2
+  ],
+  "apa_fields_ok": 85.0,
+  "apa_style_ok": 60.0,
+  "mla_accuracy": 30.0,
+  "mla_wilson95": [
+   14.5,
+   51.9
+  ],
+  "mla_fields_ok": 95.0,
+  "mla_style_ok": 30.0,
+  "chicago_accuracy": 30.0,
+  "chicago_wilson95": [
+   14.5,
+   51.9
+  ],
+  "chicago_fields_ok": 90.0,
+  "chicago_style_ok": 30.0,
+  "per_field": {
+   "authors": {
+    "pass": 54,
+    "of": 60,
+    "pct": 90.0
+   },
+   "year": {
+    "pass": 60,
+    "of": 60,
+    "pct": 100.0
+   },
+   "title": {
+    "pass": 60,
+    "of": 60,
+    "pct": 100.0
+   },
+   "journal": {
+    "pass": 60,
+    "of": 60,
+    "pct": 100.0
+   },
+   "volume": {
+    "pass": 60,
+    "of": 60,
+    "pct": 100.0
+   },
+   "issue": {
+    "pass": 39,
+    "of": 39,
+    "pct": 100.0
+   },
+   "pages": {
+    "pass": 48,
+    "of": 48,
+    "pct": 100.0
+   },
+   "doi": {
+    "pass": 60,
+    "of": 60,
+    "pct": 100.0
+   }
+  },
+  "fabricated_citation_rate": {
+   "citations_with_fabrication": 0,
+   "of": 60,
+   "pct": 0.0
+  },
+  "latency_avg_s": 2.76,
+  "latency_max_s": 4.97,
+  "error_tags": [
+   {
+    "tag": "missing_article_number",
+    "count": 9,
+    "examples": [
+     [
+      "ed004",
+      "apa"
+     ],
+     [
+      "ed006",
+      "apa"
+     ],
+     [
+      "ed010",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:mla_sentence_case",
+    "count": 8,
+    "examples": [
+     [
+      "ed001",
+      "mla"
+     ],
+     [
+      "ed003",
+      "mla"
+     ],
+     [
+      "ed005",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:chicago_sentence_case",
+    "count": 8,
+    "examples": [
+     [
+      "ed001",
+      "chicago"
+     ],
+     [
+      "ed003",
+      "chicago"
+     ],
+     [
+      "ed005",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:apa_21plus",
+    "count": 4,
+    "examples": [
+     [
+      "ed001",
+      "apa"
+     ],
+     [
+      "ed002",
+      "apa"
+     ],
+     [
+      "ed003",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "authors_wrong",
+    "count": 4,
+    "examples": [
+     [
+      "ed001",
+      "chicago"
+     ],
+     [
+      "ed004",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:chicago_10plus",
+    "count": 3,
+    "examples": [
+     [
+      "ed002",
+      "chicago"
+     ],
+     [
+      "ed003",
+      "chicago"
+     ],
+     [
+      "ed008",
+      "chicago"
+     ]
+    ]
+   },
+   {
+    "tag": "invented_access_date",
+    "count": 3,
+    "examples": [
+     [
+      "ed009",
+      "mla"
+     ],
+     [
+      "ed011",
+      "mla"
+     ],
+     [
+      "ed018",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "diacritics_dropped",
+    "count": 3,
+    "examples": [
+     [
+      "ed012",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "et_al_rule:mla",
+    "count": 3,
+    "examples": [
+     [
+      "ed013",
+      "mla"
+     ],
+     [
+      "ed014",
+      "mla"
+     ],
+     [
+      "ed016",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "author_truncated",
+    "count": 2,
+    "examples": [
+     [
+      "ed001",
+      "apa"
+     ],
+     [
+      "ed005",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_name_order",
+    "count": 2,
+    "examples": [
+     [
+      "ed009",
+      "mla"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_punctuation:vol_issue",
+    "count": 1,
+    "examples": [
+     [
+      "ed001",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:apa_after_colon",
+    "count": 1,
+    "examples": [
+     [
+      "ed001",
+      "apa"
+     ]
+    ]
+   },
+   {
+    "tag": "wrong_cap_rule:apa_title_case",
+    "count": 1,
+    "examples": [
+     [
+      "ed011",
+      "apa"
+     ]
+    ]
+   }
+  ],
+  "chicago_variants": {
+   "author-date": 12,
+   "notes-bibliography": 8
+  },
+  "status_counts": {
+   "200": 20
+  }
+ },
+ "url_vs_paired_doi": {
+  "doi_paper_accuracy_same_20": 10.0
+ },
+ "repeat_variance": {
+  "items": [
+   {
+    "id": "ed002",
+    "paper_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "apa_ok": [
+     false,
+     true,
+     false,
+     false
+    ],
+    "mla_ok": [
+     true,
+     false,
+     true,
+     true
+    ],
+    "chicago_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "apa_distinct_strings": 2,
+    "mla_distinct_strings": 3,
+    "chicago_distinct_strings": 2
+   },
+   {
+    "id": "ed007",
+    "paper_ok": [
+     false,
+     false,
+     false,
+     true
+    ],
+    "apa_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "mla_ok": [
+     false,
+     false,
+     false,
+     true
+    ],
+    "chicago_ok": [
+     false,
+     false,
+     false,
+     true
+    ],
+    "apa_distinct_strings": 3,
+    "mla_distinct_strings": 3,
+    "chicago_distinct_strings": 3
+   },
+   {
+    "id": "ed015",
+    "paper_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "apa_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "mla_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "chicago_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "apa_distinct_strings": 2,
+    "mla_distinct_strings": 3,
+    "chicago_distinct_strings": 3
+   },
+   {
+    "id": "ra004",
+    "paper_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "apa_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "mla_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "chicago_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "apa_distinct_strings": 4,
+    "mla_distinct_strings": 4,
+    "chicago_distinct_strings": 4
+   },
+   {
+    "id": "ra014",
+    "paper_ok": [
+     false,
+     false,
+     true,
+     false
+    ],
+    "apa_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "mla_ok": [
+     false,
+     false,
+     true,
+     false
+    ],
+    "chicago_ok": [
+     false,
+     false,
+     true,
+     false
+    ],
+    "apa_distinct_strings": 2,
+    "mla_distinct_strings": 3,
+    "chicago_distinct_strings": 4
+   },
+   {
+    "id": "ra015",
+    "paper_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "apa_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "mla_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "chicago_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "apa_distinct_strings": 4,
+    "mla_distinct_strings": 2,
+    "chicago_distinct_strings": 4
+   },
+   {
+    "id": "ra018",
+    "paper_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "apa_ok": [
+     true,
+     true,
+     false,
+     false
+    ],
+    "mla_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "chicago_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "apa_distinct_strings": 2,
+    "mla_distinct_strings": 3,
+    "chicago_distinct_strings": 3
+   },
+   {
+    "id": "ra029",
+    "paper_ok": [
+     false,
+     false,
+     false,
+     true
+    ],
+    "apa_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "mla_ok": [
+     false,
+     false,
+     false,
+     true
+    ],
+    "chicago_ok": [
+     true,
+     false,
+     false,
+     true
+    ],
+    "apa_distinct_strings": 2,
+    "mla_distinct_strings": 4,
+    "chicago_distinct_strings": 4
+   },
+   {
+    "id": "ra032",
+    "paper_ok": [
+     true,
+     true,
+     true,
+     false
+    ],
+    "apa_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "mla_ok": [
+     true,
+     true,
+     true,
+     false
+    ],
+    "chicago_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "apa_distinct_strings": 1,
+    "mla_distinct_strings": 3,
+    "chicago_distinct_strings": 2
+   },
+   {
+    "id": "ra036",
+    "paper_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "apa_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "mla_ok": [
+     false,
+     false,
+     false,
+     false
+    ],
+    "chicago_ok": [
+     true,
+     true,
+     true,
+     true
+    ],
+    "apa_distinct_strings": 1,
+    "mla_distinct_strings": 2,
+    "chicago_distinct_strings": 2
+   }
+  ],
+  "items_whose_paper_verdict_flips": 4,
+  "of": 10,
+  "paper_accuracy_over_all_40_runs": 25.0,
+  "paper_accuracy_first_run_only": 20.0
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "Ura018",
+ "input": {
+  "url": "https://journalajaees.com/index.php/AJAEES/article/view/2498"
+ },
+ "status": 200,
+ "latency_s": 2.87,
+ "apa": "Unknown Author. (n.d.). https://journalajaees.com/index.php/AJAEES/article/view/2498. Retrieved 2025, from https://journalajaees.com/index.php/AJAEES/article/view/2498.",
+ "mla": "Unknown Author. “https://journalajaees.com/index.php/AJAEES/article/view/2498.” Journal AJAEE, n.d., https://journalajaees.com/index.php/AJAEES/article/view/2498. Accessed 2025.",
+ "chicago": "Unknown Author. n.d. “https://journalajaees.com/index.php/AJAEES/article/view/2498.” Journal AJAEE. Accessed 2025. https://journalajaees.com/index.php/AJAEES/article/view/2498.",
+ "attempts": 1
+}

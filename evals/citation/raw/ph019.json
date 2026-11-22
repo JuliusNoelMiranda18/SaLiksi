@@ -1,0 +1,12 @@
+{
+ "run_id": "ph019",
+ "input": {
+  "doi": "10.1177/002224296903300103"
+ },
+ "status": 200,
+ "latency_s": 2.77,
+ "apa": "Kotler, P., & Levy, S. J. (1969). Broadening the Concept of Marketing. Journal of Marketing, 33(1), 10-15. https://doi.org/10.1177/002224296903300103",
+ "mla": "Kotler, Philip, and Sidney J. Levy. \"Broadening the Concept of Marketing.\" Journal of Marketing, vol. 33, no. 1, 1969, pp. 10-15. https://doi.org/10.1177/002224296903300103. Accessed 2025.",
+ "chicago": "Kotler, Philip, and Sidney J. Levy. 1969. \"Broadening the Concept of Marketing.\" Journal of Marketing 33, no. 1: 10-15. https://doi.org/10.1177/002224296903300103. Accessed 2025.",
+ "attempts": 2
+}

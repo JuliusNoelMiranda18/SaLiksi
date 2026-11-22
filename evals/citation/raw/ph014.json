@@ -1,0 +1,12 @@
+{
+ "run_id": "ph014",
+ "input": {
+  "doi": "10.1073/pnas.1701762114"
+ },
+ "status": 200,
+ "latency_s": 2.09,
+ "apa": "Zhao, C., Liu, B., Piao, S., Wang, X., Lobell, D. B., Huang, Y., Huang, M., Yao, Y., Bassu, S., Ciais, P., Durand, J.-L., Elliott, J., Ewert, F., Janssens, I. A., Li, T., Lin, E., Liu, Q., Martre, P., Müller, C., Peng, S., Peñuelas, J., Ruane, A. C., Wallach, D., Wang, T., Wu, D., Liu, Z., Zhu, Y., Zhu, Z., & Asseng, S. (2017). Temperature increase reduces global yields of major crops in four independent estimates. Proceedings of the National Academy of Sciences, 114(35), 9326–9331. https://doi.org/10.1073/pnas.1701762114",
+ "mla": "Zhao, Chuang, et al. “Temperature Increase Reduces Global Yields of Major Crops in Four Independent Estimates.” Proceedings of the National Academy of Sciences, vol. 114, no. 35, 2017, pp. 9326–31. https://doi.org/10.1073/pnas.1701762114.",
+ "chicago": "Zhao, Chuang, Bing Liu, Shilong Piao, Xuhui Wang, David B. Lobell, Yao Huang, Mengtian Huang, Yitong Yao, Simona Bassu, Philippe Ciais, Jean-Louis Durand, Joshua Elliott, Frank Ewert, Ivan A. Janssens, Tao Li, Erda Lin, Qiang Liu, Pierre Martre, Christoph Müller, Shushi Peng, Josep Peñuelas, Alex C. Ruane, Daniel Wallach, Tao Wang, Donghai Wu, Zhuo Liu, Yan Zhu, Zaichun Zhu, and Senthold Asseng. “Temperature Increase Reduces Global Yields of Major Crops in Four Independent Estimates.” Proceedings of the National Academy of Sciences 114, no. 35 (2017): 9326–31. https://doi.org/10.1073/pnas.1701762114.",
+ "attempts": 1
+}

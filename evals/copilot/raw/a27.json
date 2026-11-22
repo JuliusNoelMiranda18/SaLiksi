@@ -1,0 +1,12 @@
+{
+ "run_id": "a27",
+ "id": "a27",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Expand this sentence into two sentences with evidence from my sources.",
+ "documentContent": "Tawilis catches have gone down a lot.",
+ "status": 200,
+ "latency_s": 1.96,
+ "response": "<DOCUMENT_EDIT>\n<REPLACE_TEXT>Tawilis catches have gone down a lot.</REPLACE_TEXT>\n<NEW_TEXT>The annual catch of the endemic freshwater sardine, Sardinella tawilis, dropped dramatically from 744 metric tons in 1996 to just 71 metric tons by 2011, reflecting a severe decline in its population (<INLINE_CITATION>Mutia et al., 2018</INLINE_CITATION>). This reduction mirrors a broader decrease in total fish harvests in Taal Lake, which fell from 1,420 metric tons to 460 metric tons over the same period, indicating unsustainable fishing practices (<INLINE_CITATION>Mutia et al., 2018</INLINE_CITATION>).</NEW_TEXT>\n</DOCUMENT_EDIT>",
+ "attempts": 1
+}

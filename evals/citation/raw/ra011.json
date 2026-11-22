@@ -1,0 +1,12 @@
+{
+ "run_id": "ra011",
+ "input": {
+  "doi": "10.1177/096721099900700512"
+ },
+ "status": 200,
+ "latency_s": 3.73,
+ "apa": "Pêgo-Fernandes, P. M., Stolf, N. A. G., Hervoso, C. M., Silva, J. M., Arteaga, E., & Jatene, A. D. (1999). Management of aortic dissection that involves the right coronary artery. Cardiovascular Surgery, 7(5), 545-546. https://doi.org/10.1177/096721099900700512",
+ "mla": "Pêgo-Fernandes, P. M., N. A. G. Stolf, C. M. Hervoso, J. M. Silva, E. Arteaga, and A. D. Jatene. \"Management of Aortic Dissection That Involves the Right Coronary Artery.\" Cardiovascular Surgery, vol. 7, no. 5, 1999, pp. 545-546. https://doi.org/10.1177/096721099900700512",
+ "chicago": "Pêgo-Fernandes, P. M., N. A. G. Stolf, C. M. Hervoso, J. M. Silva, E. Arteaga, and A. D. Jatene. \"Management of Aortic Dissection That Involves the Right Coronary Artery.\" Cardiovascular Surgery 7, no. 5 (1999): 545-546. https://doi.org/10.1177/096721099900700512",
+ "attempts": 1
+}

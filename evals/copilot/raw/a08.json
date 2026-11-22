@@ -1,0 +1,12 @@
+{
+ "run_id": "a08",
+ "id": "a08",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "What causes of fishkill in Taal Lake did local communities identify?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.36,
+ "response": "Local communities identified a range of both environmental and anthropogenic factors that they believed contributed to fishkill events in Taal Lake. These include:\n\n* **Environmental (climatic and volcanic) factors** – oxygen depletion, volcanic activity, lake overturn, sudden changes in water colour, seasonal changes, wind, and hydrothermal vents.  \n* **Anthropogenic factors** – poor water quality, improper aquaculture practices, and various pollution‑generating activities (e.g., waste from domestic, industrial, poultry, and piggery sources).  \n\nThese perceptions were gathered through Participatory Rural Appraisal (PRA) interviews with residents of the four municipalities surrounding the lake <INLINE_CITATION>Macandog et al., 2014</INLINE_CITATION>.",
+ "attempts": 2
+}

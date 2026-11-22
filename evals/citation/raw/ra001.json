@@ -1,0 +1,12 @@
+{
+ "run_id": "ra001",
+ "input": {
+  "doi": "10.3917/mediu.016.0007"
+ },
+ "status": 200,
+ "latency_s": 3.09,
+ "apa": "Debray, R. (2008). 1,17 euro. Médium, 16-17(3), 7–40. https://doi.org/10.3917/mediu.016.0007",
+ "mla": "Debray, Régis. \"1,17 euro.\" Médium, vol. 16-17, no. 3, 2008, pp. 7-40. https://doi.org/10.3917/mediu.016.0007",
+ "chicago": "Debray, Régis. \"1,17 euro.\" Médium 16-17, no. 3 (2008): 7-40. https://doi.org/10.3917/mediu.016.0007",
+ "attempts": 1
+}

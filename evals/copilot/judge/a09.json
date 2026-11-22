@@ -1,0 +1,17 @@
+{
+ "id": "a09",
+ "claims": [
+  {
+   "text": "Used Participatory Rural Appraisal",
+   "supported": true,
+   "cited_source": "src-4",
+   "citation_supports_claim": true,
+   "evidence": "Participatory Rural Appraisal (PRA) was conducted"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

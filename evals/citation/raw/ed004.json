@@ -1,0 +1,12 @@
+{
+ "run_id": "ed004",
+ "input": {
+  "doi": "10.1007/jhep10(2020)005"
+ },
+ "status": 200,
+ "latency_s": 2.97,
+ "apa": "Aad, G., Abbott, B., Abbott, D. C., Abed Abud, A., Abeling, K., Abhayasinghe, D. K., Abidi, S. H., AbouZeid, O. S., Abraham, N. L., Abramowicz, H., Abreu, H., Abulaiti, Y., Acharya, B. S., Achkar, B., Adachi, S., Adam, L., Adam Bourdarios, C., Adamczyk, L., Adamek, L., Adelman, J., Adersberger, M., Adiguzel, A., Adorni, S., Adye, T., Affolder, A. A., Afik, Y., Agapopoulou, C., Agaras, M. N., Aggarwal, A., et al. (2020). Search for direct production of electroweakinos in final states with missing transverse momentum and a Higgs boson decaying into photons in pp collisions at $$ \\sqrt{s} $$ = 13 TeV with the ATLAS detector. Journal of High Energy Physics, 2020(10). https://doi.org/10.1007/jhep10(2020)005",
+ "mla": "Aad, G., et al. “Search for Direct Production of Electroweakinos in Final States with Missing Transverse Momentum and a Higgs Boson Decaying into Photons in pp Collisions at $$ \\sqrt{s} $$ = 13 TeV with the ATLAS Detector.” Journal of High Energy Physics, vol. 2020, no. 10, 2020, https://doi.org/10.1007/jhep10(2020)005.",
+ "chicago": "Aad, G., B. Abbott, D. C. Abbott, A. Abed Abud, K. Abeling, D. K. Abhayasinghe, S. H. Abidi, O. S. AbouZeid, N. L. Abraham, H. Abramowicz, H. Abreu, Y. Abulaiti, B. S. Acharya, B. Achkar, S. Adachi, L. Adam, C. Adam Bourdarios, L. Adamczyk, L. Adamek, J. Adelman, M. Adersberger, A. Adiguzel, S. Adorni, T. Adye, A. A. Affolder, Y. Afik, C. Agapopoulou, M. N. Agaras, A. Aggarwal, et al. “Search for Direct Production of Electroweakinos in Final States with Missing Transverse Momentum and a Higgs Boson Decaying into Photons in pp Collisions at $$ \\sqrt{s} $$ = 13 TeV with the ATLAS Detector.” Journal of High Energy Physics 2020, no. 10 (2020). https://doi.org/10.1007/jhep10(2020)005.",
+ "attempts": 2
+}

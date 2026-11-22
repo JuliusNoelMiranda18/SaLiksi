@@ -1,0 +1,12 @@
+{
+ "run_id": "ra013",
+ "input": {
+  "doi": "10.7759/cureus.93202"
+ },
+ "status": 200,
+ "latency_s": 1.18,
+ "apa": "Singh, R., Mistry, G., Kini, A., Ansari, R., Kailaje, V., & Kapoor, S. (2025). Accuracy and clinical performance of intraoral scanners compared to conventional and extraoral impressions: An umbrella review. Cureus. https://doi.org/10.7759/cureus.93202",
+ "mla": "Singh, Rajeev, et al. “Accuracy and Clinical Performance of Intraoral Scanners Compared to Conventional and Extraoral Impressions: An Umbrella Review.” Cureus, 2025, doi:10.7759/cureus.93202.",
+ "chicago": "Singh, Rajeev, Gaurang Mistry, Ashwini Kini, Rasha Ansari, Vibha Kailaje, and Shresth Kapoor. “Accuracy and Clinical Performance of Intraoral Scanners Compared to Conventional and Extraoral Impressions: An Umbrella Review.” Cureus (2025). https://doi.org/10.7759/cureus.93202.",
+ "attempts": 1
+}

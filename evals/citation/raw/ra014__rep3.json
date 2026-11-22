@@ -1,0 +1,12 @@
+{
+ "run_id": "ra014__rep3",
+ "input": {
+  "doi": "10.22271/maths.2026.v11.i7c.2649"
+ },
+ "status": 200,
+ "latency_s": 1.99,
+ "apa": "Nawaf, A. J. (2026). Some topological indices of the prime graph of commutative ring zpq. International Journal of Statistics and Applied Mathematics, 11(7), 250-256. https://doi.org/10.22271/maths.2026.v11.i7c.2649",
+ "mla": "Nawaf, Alaa J. \"Some topological indices of the prime graph of commutative ring zpq.\" International Journal of Statistics and Applied Mathematics, vol. 11, no. 7, 2026, pp. 250-256. https://doi.org/10.22271/maths.2026.v11.i7c.2649",
+ "chicago": "Nawaf, Alaa J. 'Some topological indices of the prime graph of commutative ring zpq.' International Journal of Statistics and Applied Mathematics 11, no. 7 (2026): 250-256. https://doi.org/10.22271/maths.2026.v11.i7c.2649",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ra049",
+ "input": {
+  "doi": "10.3390/agronomy14010130"
+ },
+ "status": 200,
+ "latency_s": 2.99,
+ "apa": "Oliver-Manera, J., García-Tejera, O., Mata, M., & Girona, J. (2024). Long-Term Study of the Crop Forcing Technique on cv. Tempranillo (Vitis vinifera L.) Vines and Suggested Irrigation Strategies to Improve Water Use Efficiency of Forced Vines. Agronomy, 14(1), 130. https://doi.org/10.3390/agronomy14010130",
+ "mla": "Oliver-Manera, Jordi, et al. \"Long-Term Study of the Crop Forcing Technique on cv. Tempranillo (Vitis vinifera L.) Vines and Suggested Irrigation Strategies to Improve Water Use Efficiency of Forced Vines.\" Agronomy, vol. 14, no. 1, 2024, p. 130. https://doi.org/10.3390/agronomy14010130",
+ "chicago": "Oliver-Manera, Jordi, Omar García-Tejera, Mercè Mata, and Joan Girona. 2024. \"Long-Term Study of the Crop Forcing Technique on cv. Tempranillo (Vitis vinifera L.) Vines and Suggested Irrigation Strategies to Improve Water Use Efficiency of Forced Vines.\" Agronomy 14 (1): 130. https://doi.org/10.3390/agronomy14010130",
+ "attempts": 2
+}

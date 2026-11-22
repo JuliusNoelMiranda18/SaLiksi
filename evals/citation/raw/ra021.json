@@ -1,0 +1,12 @@
+{
+ "run_id": "ra021",
+ "input": {
+  "doi": "10.11648/j.wros.20140306.12"
+ },
+ "status": 200,
+ "latency_s": 2.63,
+ "apa": "Mananga, M.-J., Kana Sop, M. M., Nguidjol, E., & Gouado, I. (2014). Quality of packaged drinking water marketed in Douala - Cameroon. Journal of Water Resources and Ocean Science, 3(6), 74–79. https://doi.org/10.11648/j.wros.20140306.12",
+ "mla": "Mananga, Marlyne-Josephine, et al. “Quality of Packaged Drinking Water Marketed in Douala - Cameroon.” Journal of Water Resources and Ocean Science, vol. 3, no. 6, 2014, pp. 74–79, https://doi.org/10.11648/j.wros.20140306.12.",
+ "chicago": "Mananga, Marlyne-Josephine, Kana Sop, Marie Modestine, Nguidjol, Etienne, and Gouado, Inocent. “Quality of Packaged Drinking Water Marketed in Douala - Cameroon.” Journal of Water Resources and Ocean Science 3, no. 6 (2014): 74–79. https://doi.org/10.11648/j.wros.20140306.12.",
+ "attempts": 1
+}

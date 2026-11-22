@@ -1,0 +1,24 @@
+{
+ "id": "a08",
+ "claims": [
+  {
+   "text": "Factors: oxygen depletion, volcanic activity, lake overturn, ... improper aquaculture, pollution",
+   "supported": true,
+   "cited_source": "src-4",
+   "citation_supports_claim": true,
+   "evidence": "Oxygen depletion, volcanic activity, lake overturn, sudden changes in water color ... were cited"
+  },
+  {
+   "text": "Gathered via PRA in four municipalities",
+   "supported": true,
+   "cited_source": "src-4",
+   "citation_supports_claim": true,
+   "evidence": "Participatory Rural Appraisal (PRA) was conducted"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Model's environmental/anthropogenic split is its own grouping but lists match the abstract.",
+ "citation_indexes_not_supporting": []
+}

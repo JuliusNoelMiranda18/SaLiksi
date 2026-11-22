@@ -1,0 +1,12 @@
+{
+ "run_id": "ph007",
+ "input": {
+  "doi": "10.1051/agro:2008021"
+ },
+ "status": 200,
+ "latency_s": 3.09,
+ "apa": "Farooq, M., Wahid, A., Kobayashi, N., Fujita, D., & Basra, S. M. A. (2009). Plant drought stress: effects, mechanisms and management. Agronomy for Sustainable Development, 29(1), 185–212. https://doi.org/10.1051/agro:2008021",
+ "mla": "Farooq, M., Wahid, A., Kobayashi, N., Fujita, D., and Basra, S. M. A. \"Plant drought stress: effects, mechanisms and management.\" Agronomy for Sustainable Development, vol. 29, no. 1, 2009, pp. 185–212. https://doi.org/10.1051/agro:2008021",
+ "chicago": "Farooq, M., Wahid, A., Kobayashi, N., Fujita, D., and Basra, S. M. A. 2009. \"Plant drought stress: effects, mechanisms and management.\" Agronomy for Sustainable Development 29 (1): 185–212. https://doi.org/10.1051/agro:2008021",
+ "attempts": 2
+}

@@ -1,0 +1,38 @@
+{
+ "id": "a21",
+ "claims": [
+  {
+   "text": "PAMB conservation measures recommended",
+   "supported": true,
+   "cited_source": "src-1",
+   "citation_supports_claim": true,
+   "evidence": "Conservation and management measures ... recommended for ... PAMB"
+  },
+  {
+   "text": "Reduce/arrange cages, stocking density, waste management",
+   "supported": true,
+   "cited_source": "src-4",
+   "citation_supports_claim": true,
+   "evidence": "continuous reduction and systematic arrangement of fish cages"
+  },
+  {
+   "text": "Upgrading strategies for tawilis industry",
+   "supported": true,
+   "cited_source": "src-7",
+   "citation_supports_claim": true,
+   "evidence": "improvement on the fishing operations, upgrading of fishing gear"
+  },
+  {
+   "text": "Multi-sectoral planning, regulation and licensing",
+   "supported": true,
+   "cited_source": "src-2",
+   "citation_supports_claim": true,
+   "evidence": "participative, multi-sectoral action planning ... regulation and licensing"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

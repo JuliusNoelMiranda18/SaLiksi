@@ -1,0 +1,17 @@
+{
+ "id": "a01",
+ "claims": [
+  {
+   "text": "Open-fishery harvest fell 1,420 MT (1996) to 460 MT (2011)",
+   "supported": true,
+   "cited_source": "src-1",
+   "citation_supports_claim": true,
+   "evidence": "decreasing fish harvest in the open fisheries from 1,420 MT to 460 MT in 1996 to 2011"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

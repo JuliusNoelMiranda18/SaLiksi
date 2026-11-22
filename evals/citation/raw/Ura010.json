@@ -1,0 +1,12 @@
+{
+ "run_id": "Ura010",
+ "input": {
+  "url": "https://www.scirp.org/journal/paperinformation?paperid=87446"
+ },
+ "status": 200,
+ "latency_s": 2.28,
+ "apa": "Unknown Author. (n.d.). Retrieved February 26, 2025, from https://www.scirp.org/journal/paperinformation?paperid=87446",
+ "mla": "Unknown Author. n.d. Web. 26 Feb. 2025. https://www.scirp.org/journal/paperinformation?paperid=87446.",
+ "chicago": "Unknown Author. n.d. Accessed February 26, 2025. https://www.scirp.org/journal/paperinformation?paperid=87446.",
+ "attempts": 1
+}

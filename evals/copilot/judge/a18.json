@@ -1,0 +1,31 @@
+{
+ "id": "a18",
+ "claims": [
+  {
+   "text": "Tawilis harvest 744 to 71 MT",
+   "supported": true,
+   "cited_source": "src-1",
+   "citation_supports_claim": true,
+   "evidence": "its harvest also declined from 744 to 71 mt"
+  },
+  {
+   "text": "Diet 90% Copepoda",
+   "supported": true,
+   "cited_source": "src-6",
+   "citation_supports_claim": true,
+   "evidence": "90% Copepoda"
+  },
+  {
+   "text": "Fishers lowest value-added in lean season",
+   "supported": true,
+   "cited_source": "src-7",
+   "citation_supports_claim": true,
+   "evidence": "fishers and small-scale fish buyers have the lowest value-added during lean and peak season, respectively"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

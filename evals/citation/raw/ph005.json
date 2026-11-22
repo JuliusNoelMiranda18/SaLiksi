@@ -1,0 +1,12 @@
+{
+ "run_id": "ph005",
+ "input": {
+  "doi": "10.1126/science.aaz1776"
+ },
+ "status": 200,
+ "latency_s": 2.55,
+ "apa": "Aguet, F., Anand, S., Ardlie, K. G., Gabriel, S., Getz, G. A., Graubert, A., Hadley, K., Handsaker, R. E., Huang, K. H., Kashin, S., Li, X., MacArthur, D. G., Meier, S. R., Nedzel, J. L., Nguyen, D. T., Segrè, A. V., Todres, E., Balliu, B., Barbeira, A. N., Battle, A., Bonazzola, R., Brown, A., Brown, C. D., Castel, S. E., Conrad, D. F., Cotter, D. J., Cox, N., Das, S., de Goede, O. M., et al. (2020). The GTEx Consortium atlas of genetic regulatory effects across human tissues. *Science, 369*(6509), 1318–1330. https://doi.org/10.1126/science.aaz1776",
+ "mla": "Aguet, François, et al. “The GTEx Consortium Atlas of Genetic Regulatory Effects across Human Tissues.” *Science*, vol. 369, no. 6509, 2020, pp. 1318–30. https://doi.org/10.1126/science.aaz1776.",
+ "chicago": "Aguet, François, Shankara Anand, Kristin G. Ardlie, Stacey Gabriel, Gad A. Getz, Aaron Graubert, Kane Hadley, Robert E. Handsaker, Katherine H. Huang, Seva Kashin, Xiao Li, Daniel G. MacArthur, Samuel R. Meier, Jared L. Nedzel, Duyen T. Nguyen, Ayellet V. Segrè, Ellen Todres, Brunilda Balliu, Alvaro N. Barbeira, Alexis Battle, Rodrigo Bonazzola, Andrew Brown, Christopher D. Brown, Stephane E. Castel, Donald F. Conrad, Daniel J. Cotter, Nancy Cox, Sayantan Das, Olivia M. de Goede, et al. “The GTEx Consortium Atlas of Genetic Regulatory Effects across Human Tissues.” *Science* 369, no. 6509 (2020): 1318–30. https://doi.org/10.1126/science.aaz1776.",
+ "attempts": 3
+}

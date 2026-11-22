@@ -1,0 +1,12 @@
+{
+ "run_id": "ra030",
+ "input": {
+  "doi": "10.1016/j.ipl.2010.05.003"
+ },
+ "status": 200,
+ "latency_s": 1.71,
+ "apa": "Xiao, M. (2010). Finding minimum 3-way cuts in hypergraphs. Information Processing Letters, 110(14-15), 554-558. https://doi.org/10.1016/j.ipl.2010.05.003",
+ "mla": "Xiao, Mingyu. \"Finding minimum 3-way cuts in hypergraphs.\" Information Processing Letters, vol. 110, no. 14-15, 2010, pp. 554-558. https://doi.org/10.1016/j.ipl.2010.05.003",
+ "chicago": "Xiao, Mingyu. 2010. \"Finding minimum 3-way cuts in hypergraphs.\" Information Processing Letters 110 (14-15): 554-558. https://doi.org/10.1016/j.ipl.2010.05.003",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "u01",
+ "id": "u01",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What is the maximum depth of Taal Lake in meters?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.84,
+ "response": "The maximum depth of Taal Lake is not reported in any of the sources listed in the vault.",
+ "attempts": 1
+}

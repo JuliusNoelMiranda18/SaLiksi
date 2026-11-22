@@ -1,0 +1,26 @@
+{
+ "id": "a15",
+ "claims": [
+  {
+   "text": "Arsenic in Talisay soil two-fold increase",
+   "supported": true,
+   "cited_source": "src-8",
+   "citation_supports_claim": true,
+   "evidence": "The soil from Talisay, Batangas had two-fold arsenic increase"
+  },
+  {
+   "text": "Increase is compared with pre-eruption levels",
+   "supported": false,
+   "cited_source": "src-8",
+   "citation_supports_claim": false,
+   "evidence": ""
+  }
+ ],
+ "category_pass": false,
+ "grounded": false,
+ "failure_type": "unsupported_claim",
+ "notes": "Abstract compares to DENR standard values; no pre-eruption baseline is mentioned.",
+ "citation_indexes_not_supporting": [
+  0
+ ]
+}

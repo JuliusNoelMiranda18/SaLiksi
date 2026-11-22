@@ -1,0 +1,12 @@
+{
+ "run_id": "a15__rep3",
+ "id": "a15",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "What happened to arsenic levels in Talisay soil after the 2020 Taal Volcano eruption?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.81,
+ "response": "The arsenic concentration in soil from Talisay, Batangas roughly doubled after the 2020 Taal Volcano eruption (<INLINE_CITATION>(Banta & Salibay, 2023)</INLINE_CITATION>).",
+ "attempts": 1
+}

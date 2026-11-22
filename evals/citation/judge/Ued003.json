@@ -1,0 +1,40 @@
+{
+ "id": "Ued003",
+ "truth_id": "ed003",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": true,
+  "errors": [
+   "missing_volume",
+   "missing_pages"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "missing_volume",
+   "missing_pages",
+   "wrong_punctuation:vol",
+   "wrong_punctuation:pp"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "wrong_year",
+   "missing_volume",
+   "missing_pages",
+   "wrong_punctuation:title_quotes"
+  ],
+  "variant": "author-date",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

@@ -1,0 +1,17 @@
+{
+ "id": "x15",
+ "claims": [
+  {
+   "text": "Summary of vault findings",
+   "supported": true,
+   "cited_source": "multiple",
+   "citation_supports_claim": true,
+   "evidence": ""
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Refused news, summarized vault; truncated at 1024 tokens mid-sentence.",
+ "citation_indexes_not_supporting": []
+}

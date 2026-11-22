@@ -1,0 +1,12 @@
+{
+ "run_id": "ed002__rep1",
+ "input": {
+  "doi": "10.1007/s00586-025-09524-2"
+ },
+ "status": 200,
+ "latency_s": 4.69,
+ "apa": "Khalifé, M., Mohamed, A., Ben-Israel, D., Bunch, J. T., Daniels, A. H., Diebo, B. G., Eastlack, R., Fessler, R. G., Gupta, M. C., Hamilton, K., Hostin, R., Kim, H. J., Klineberg, E. O., Lenke, L. G., Mullin, J., Mummaneni, P. V., Nunley, P., Park, P., Passias, P. G., ... International Spine Study Group, ISSG. (2025). Can proximal junctional failure be predicted after adult spinal deformity surgery by experienced deformity surgeons based on patient, surgical and radiographic parameters? European Spine Journal, 35(5), 2295-2305. https://doi.org/10.1007/s00586-025-09524-2",
+ "mla": "Khalifé, Marc, et al. \"Can proximal junctional failure be predicted after adult spinal deformity surgery by experienced deformity surgeons based on patient, surgical and radiographic parameters?\" European Spine Journal, vol. 35, no. 5, 2025, pp. 2295-2305. https://doi.org/10.1007/s00586-025-09524-2",
+ "chicago": "Khalifé, Marc, Ayman Mohamed, David Ben-Israel, Joshua T. Bunch, Alan H. Daniels, Bassel G. Diebo, Robert Eastlack, Richard G. Fessler, Munish C. Gupta, Kojo Hamilton, et al. 2025. \"Can proximal junctional failure be predicted after adult spinal deformity surgery by experienced deformity surgeons based on patient, surgical and radiographic parameters?\" European Spine Journal 35 (5): 2295-2305. https://doi.org/10.1007/s00586-025-09524-2",
+ "attempts": 1
+}

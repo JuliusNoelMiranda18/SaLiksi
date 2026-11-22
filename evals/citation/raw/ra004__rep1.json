@@ -1,0 +1,12 @@
+{
+ "run_id": "ra004__rep1",
+ "input": {
+  "doi": "10.1002/cctc.202301684"
+ },
+ "status": 200,
+ "latency_s": 2.28,
+ "apa": "Hu, S., Lei, Y., Zhang, X., Zhang, F., Qiao, P., Ye, J., & Wang, D. (2024). Recent Advances in Carbon Nitride Supported Single‑Atom Catalysts: Synthesis, Characterization, and Applications for CO2 Photoreduction. ChemCatChem, 16(15). https://doi.org/10.1002/cctc.202301684",
+ "mla": "Hu, Shan, et al. \"Recent Advances in Carbon Nitride Supported Single‑Atom Catalysts: Synthesis, Characterization, and Applications for CO2 Photoreduction.\" ChemCatChem, vol. 16, no. 15, 2024, https://doi.org/10.1002/cctc.202301684",
+ "chicago": "Hu, Shan, Yiming Lei, Xueli Zhang, Fangyuan Zhang, Panzhe Qiao, Jinhua Ye, and Defa Wang. 2024. \"Recent Advances in Carbon Nitride Supported Single‑Atom Catalysts: Synthesis, Characterization, and Applications for CO2 Photoreduction.\" ChemCatChem 16 (15). https://doi.org/10.1002/cctc.202301684",
+ "attempts": 1
+}

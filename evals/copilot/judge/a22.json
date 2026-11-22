@@ -1,0 +1,43 @@
+{
+ "id": "a22",
+ "claims": [
+  {
+   "text": "Volcanic eruptions trigger fishkill via oxygen depletion, overturn, poor water quality from volcanic inputs",
+   "supported": false,
+   "cited_source": "src-4",
+   "citation_supports_claim": false,
+   "evidence": "abstract lists these as separate factors, not volcanic mechanisms"
+  },
+  {
+   "text": "Volcanic component is primary environmental trigger",
+   "supported": false,
+   "cited_source": "src-4",
+   "citation_supports_claim": false,
+   "evidence": ""
+  },
+  {
+   "text": "Arsenic two-fold Talisay, one-fold Tagaytay",
+   "supported": true,
+   "cited_source": "src-8",
+   "citation_supports_claim": true,
+   "evidence": "two-fold arsenic increase ... one-fold elevation"
+  },
+  {
+   "text": "Arsenic due to wind, ashfall, groundwater",
+   "supported": true,
+   "cited_source": "src-8",
+   "citation_supports_claim": true,
+   "evidence": "probably due to the direction of the wind during the eruption, the amount of ashfall and groundwater"
+  }
+ ],
+ "category_pass": false,
+ "grounded": false,
+ "failure_type": "unsupported_claim",
+ "notes": "Over-attributes all fishkill factors to volcanism.",
+ "citation_indexes_not_supporting": [
+  0,
+  1,
+  2,
+  3
+ ]
+}

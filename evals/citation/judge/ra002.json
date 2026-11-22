@@ -1,0 +1,38 @@
+{
+ "id": "ra002",
+ "truth_id": "ra002",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": true,
+  "errors": [
+   "authors_wrong",
+   "missing_pages"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "authors_wrong",
+   "missing_pages",
+   "wrong_punctuation:pp",
+   "invented_container"
+  ],
+  "variant": null,
+  "note": "Portuguese title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct. Adds a second container 'Vigilancia Sanitaria em Debate: Sociedade, Ciencia y Tecnologia' not in the record."
+ },
+ "chicago": {
+  "fields_ok": false,
+  "style_ok": true,
+  "errors": [
+   "authors_wrong",
+   "missing_pages"
+  ],
+  "variant": "unclear",
+  "note": "Portuguese title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct."
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

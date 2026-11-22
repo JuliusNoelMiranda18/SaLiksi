@@ -1,0 +1,12 @@
+{
+ "run_id": "a18",
+ "id": "a18",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Summarize the evidence that Sardinella tawilis is under pressure, combining the fishery and value-chain studies.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.24,
+ "response": "<DOCUMENT_EDIT>\n<INSERT_AFTER>START</INSERT_AFTER>\n<NEW_TEXT>Evidence from fishery assessments indicates that Sardinella tawilis is under significant pressure due to declining harvests and unsustainable fishing practices. The harvest of S. tawilis in Taal Lake decreased from 744 metric tons in 1996 to 71 metric tons in 2011 (Mutia et al., 2018). This decline is accompanied by high fishing mortality and exploitation rates, which indicate unsustainable fishing practices in the lake (Mutia et al., 2018). Additionally, the species exerts intensive size-selective predation on zooplankton, with its diet composed of 90% Copepoda, further influencing the lake's ecosystem dynamics (Papa & Pagulayan, 2007). From an economic perspective, the value chain analysis reveals that fishers, who are the first link in the supply chain, have the lowest value-added during the lean season, highlighting the vulnerability of the marginal fisherfolk who depend on this resource for their livelihood (Muyot et al., 2021).\n</NEW_TEXT>\n</DOCUMENT_EDIT>",
+ "attempts": 1
+}

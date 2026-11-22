@@ -1,0 +1,12 @@
+{
+ "run_id": "ra023",
+ "input": {
+  "doi": "10.29228/inesjournal.75977"
+ },
+ "status": 200,
+ "latency_s": 3.51,
+ "apa": "EMECAN, B. İ. (2024). İki Kere Özel Öğrenciler: Öğretmen Adaylarına Yönelik Farkındalık Eğitim Programının Etkililiği. The Journal of International Educational Sciences, 39(39), 77-99. https://doi.org/10.29228/inesjournal.75977",
+ "mla": "EMECAN, Banu İLHAN. \"İki Kere Özel Öğrenciler: Öğretmen Adaylarına Yönelik Farkındalık Eğitim Programının Etkililiği.\" The Journal of International Educational Sciences, vol. 39, no. 39, 2024, pp. 77-99. https://doi.org/10.29228/inesjournal.75977.",
+ "chicago": "EMECAN, Banu İLHAN. 2024. \"İki Kere Özel Öğrenciler: Öğretmen Adaylarına Yönelik Farkındalık Eğitim Programının Etkililiği.\" The Journal of International Educational Sciences 39 (39): 77-99. https://doi.org/10.29228/inesjournal.75977.",
+ "attempts": 1
+}

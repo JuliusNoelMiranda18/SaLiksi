@@ -1,0 +1,12 @@
+{
+ "run_id": "a09",
+ "id": "a09",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "What method did the fishkill study use to collect local ecological knowledge?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.25,
+ "response": "The fishkill study employed **Participatory Rural Appraisal (PRA)** to gather local ecological knowledge and community perceptions (Macandog et al., 2014).",
+ "attempts": 2
+}

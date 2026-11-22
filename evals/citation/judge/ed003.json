@@ -1,0 +1,34 @@
+{
+ "id": "ed003",
+ "truth_id": "ed003",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "et_al_rule:apa_21plus"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "wrong_cap_rule:mla_sentence_case"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "wrong_cap_rule:chicago_sentence_case",
+   "et_al_rule:chicago_10plus"
+  ],
+  "variant": "author-date",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

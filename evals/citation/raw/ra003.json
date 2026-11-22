@@ -1,0 +1,12 @@
+{
+ "run_id": "ra003",
+ "input": {
+  "doi": "10.1186/s13643-025-02906-z"
+ },
+ "status": 200,
+ "latency_s": 3.43,
+ "apa": "Fenta, E. T., Endeshaw, D., Adal, O., Tareke, A. A., Kebede, N., Delie, A. M., Bogale, E. K., Anagaw, T. F., & Tiruneh, M. G. (2025). Determinants of antenatal care dropout among pregnant women in Africa: a systematic review and meta-analysis. Systematic Reviews, 14(1). https://doi.org/10.1186/s13643-025-02906-z",
+ "mla": "Fenta, Eneyew Talie, et al. \"Determinants of antenatal care dropout among pregnant women in Africa: a systematic review and meta-analysis.\" Systematic Reviews, vol. 14, no. 1, 2025, https://doi.org/10.1186/s13643-025-02906-z.",
+ "chicago": "Fenta, Eneyew Talie, Destaw Endeshaw, Ousman Adal, Abiyu Abadi Tareke, Natnael Kebede, Amare Mebrat Delie, Eyob Ketema Bogale, Tadele Fentabel Anagaw, and Misganaw Guadie Tiruneh. 2025. Determinants of antenatal care dropout among pregnant women in Africa: a systematic review and meta-analysis. Systematic Reviews 14 (1). https://doi.org/10.1186/s13643-025-02906-z",
+ "attempts": 1
+}

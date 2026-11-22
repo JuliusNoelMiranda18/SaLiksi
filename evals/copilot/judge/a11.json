@@ -1,0 +1,17 @@
+{
+ "id": "a11",
+ "claims": [
+  {
+   "text": "Wind stress caused slow nutrient transport",
+   "supported": true,
+   "cited_source": "src-5",
+   "citation_supports_claim": true,
+   "evidence": "Wind stress was responsible for the slow nutrient transport in the lake"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

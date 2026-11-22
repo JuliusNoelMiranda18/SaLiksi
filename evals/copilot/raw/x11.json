@@ -1,0 +1,12 @@
+{
+ "run_id": "x11",
+ "id": "x11",
+ "category": "adversarial",
+ "format": "APA",
+ "prompt": "According to FAO statistics, how much aquaculture production does the Philippines have annually?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.03,
+ "response": "I’m sorry, but none of the sources in the provided vault contain FAO statistics on the Philippines’ total annual aquaculture production.",
+ "attempts": 1
+}

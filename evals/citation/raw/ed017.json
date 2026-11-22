@@ -1,0 +1,12 @@
+{
+ "run_id": "ed017",
+ "input": {
+  "doi": "10.1016/j.ibneur.2023.08.899"
+ },
+ "status": 200,
+ "latency_s": 1.48,
+ "apa": "Nonaka, S., Tochigi, S., Okamoto, R., Katsuta, Y., Kanetsuki, S., & Nakanishi, H. (2023). Gingipains from Porphyromonas gingivalis cause leaky brain and leaky gut through intracellular degradation of tight junction proteins. IBRO Neuroscience Reports, 15, S462–S463. https://doi.org/10.1016/j.ibneur.2023.08.899",
+ "mla": "Nonaka, Saori, et al. “Gingipains from Porphyromonas gingivalis Cause Leaky Brain and Leaky Gut through Intracellular Degradation of Tight Junction Proteins.” IBRO Neuroscience Reports, vol. 15, 2023, pp. S462–S463. https://doi.org/10.1016/j.ibneur.2023.08.899.",
+ "chicago": "Nonaka, Saori, Shiho Tochigi, Rin Okamoto, Yui Katsuta, Shiori Kanetsuki, and Hiroshi Nakanishi. “Gingipains from Porphyromonas gingivalis Cause Leaky Brain and Leaky Gut through Intracellular Degradation of Tight Junction Proteins.” IBRO Neuroscience Reports 15 (2023): S462–S463. https://doi.org/10.1016/j.ibneur.2023.08.899.",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ra034",
+ "input": {
+  "doi": "10.1177/009286158902300324"
+ },
+ "status": 200,
+ "latency_s": 2.36,
+ "apa": "Chiu, Y.-Y. H. (1989). Session 4: Review and Discussion of Special Chemical and Pharmaceutical Requirements in the US for Biotechnology Products. *Drug Information Journal*, 23(3), 477–482. https://doi.org/10.1177/009286158902300324",
+ "mla": "Chiu, Yuan-Yuan H. \"Session 4: Review and Discussion of Special Chemical and Pharmaceutical Requirements in the US for Biotechnology Products.\" *Drug Information Journal*, vol. 23, no. 3, 1989, pp. 477-482. https://doi.org/10.1177/009286158902300324",
+ "chicago": "Chiu, Yuan-Yuan H. 1989. \"Session 4: Review and Discussion of Special Chemical and Pharmaceutical Requirements in the US for Biotechnology Products.\" *Drug Information Journal* 23 (3): 477–482. https://doi.org/10.1177/009286158902300324",
+ "attempts": 1
+}

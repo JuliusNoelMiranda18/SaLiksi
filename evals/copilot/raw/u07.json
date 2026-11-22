@@ -1,0 +1,12 @@
+{
+ "run_id": "u07",
+ "id": "u07",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What closed fishing season has BFAR implemented for tawilis?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.61,
+ "response": "The sources in the vault do not specify the exact closed‑season dates that BFAR has established for the freshwater sardine (Sardinella tawilis). None of the eight listed references mention a particular seasonal closure (e.g., “November to March” or any other period). Therefore, based on the available vault content, I cannot provide a citation‑supported answer to that question.",
+ "attempts": 1
+}

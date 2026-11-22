@@ -1,0 +1,26 @@
+{
+ "id": "a27",
+ "claims": [
+  {
+   "text": "Tawilis catch 744 to 71 MT, reflecting severe population decline",
+   "supported": false,
+   "cited_source": "src-1",
+   "citation_supports_claim": false,
+   "evidence": "harvest decline is stated; population decline is not"
+  },
+  {
+   "text": "Total harvest 1,420 to 460 MT",
+   "supported": true,
+   "cited_source": "src-1",
+   "citation_supports_claim": true,
+   "evidence": "from 1,420 MT to 460 MT"
+  }
+ ],
+ "category_pass": false,
+ "grounded": false,
+ "failure_type": "unsupported_claim",
+ "notes": "Borderline: catch decline restated as population decline.",
+ "citation_indexes_not_supporting": [
+  0
+ ]
+}

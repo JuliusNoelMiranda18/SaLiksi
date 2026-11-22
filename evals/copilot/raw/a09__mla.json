@@ -1,0 +1,12 @@
+{
+ "run_id": "a09__mla",
+ "id": "a09",
+ "category": "answerable",
+ "format": "MLA",
+ "prompt": "What method did the fishkill study use to collect local ecological knowledge?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.21,
+ "response": "The study utilized Participatory Rural Appraisal (PRA) to collect and synthesize indigenous knowledge and perceptions regarding environmental conditions and fishkills in Taal Lake (Macandog et al.).",
+ "attempts": 1
+}

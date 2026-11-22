@@ -1,0 +1,12 @@
+{
+ "run_id": "a01",
+ "id": "a01",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "How much did the open-fishery harvest in Taal Lake decline between 1996 and 2011?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.49,
+ "response": "The open‑fishery harvest fell from 1,420 metric tons in 1996 to 460 metric tons in 2011, a decline of 960 metric tons.<INLINE_CITATION>(Mutia et al., 2018)</INLINE_CITATION>",
+ "attempts": 1
+}

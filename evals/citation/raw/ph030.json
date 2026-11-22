@@ -1,0 +1,12 @@
+{
+ "run_id": "ph030",
+ "input": {
+  "doi": "10.1056/nejmoa1709118"
+ },
+ "status": 200,
+ "latency_s": 2.41,
+ "apa": "Eikelboom, J. W., Connolly, S. J., Bosch, J., Dagenais, G. R., Hart, R. G., Shestakovska, O., Diaz, R., Alings, M., Lonn, E. M., Anand, S. S., Widimsky, P., Hori, M., Avezum, A., Piegas, L. S., Branch, K. R. H., Probstfield, J., Bhatt, D. L., Zhu, J., Liang, Y., Maggioni, A. P., Lopez-Jaramillo, P., O’Donnell, M., Kakkar, A. K., Fox, K. A. A., Parkhomenko, A. N., Ertl, G., Störk, S., Keltai, M., Ryden, L., Pogosova, N., et al. (2017). Rivaroxaban with or without aspirin in stable cardiovascular disease. *New England Journal of Medicine*, *377*(14), 1319–1330. https://doi.org/10.1056/nejmoa1709118",
+ "mla": "Eikelboom, John W., et al. “Rivaroxaban with or without Aspirin in Stable Cardiovascular Disease.” *New England Journal of Medicine*, vol. 377, no. 14, 2017, pp. 1319–1330. doi:10.1056/nejmoa1709118.",
+ "chicago": "Eikelboom, John W., Stuart J. Connolly, Jackie Bosch, Gilles R. Dagenais, Robert G. Hart, Olga Shestakovska, Rafael Diaz, Marco Alings, Eva M. Lonn, Sonia S. Anand, Petr Widimsky, Masatsugu Hori, Alvaro Avezum, Leopoldo S. Piegas, Kelley R. H. Branch, Jeffrey Probstfield, Deepak L. Bhatt, Jun Zhu, Yan Liang, Aldo P. Maggioni, Patricio Lopez-Jaramillo, Martin O’Donnell, Ajay K. Kakkar, Keith A. A. Fox, Alexander N. Parkhomenko, Georg Ertl, Stefan Störk, Matyas Keltai, Lars Ryden, Nana Pogosova, et al. “Rivaroxaban with or without Aspirin in Stable Cardiovascular Disease.” *New England Journal of Medicine* 377, no. 14 (2017): 1319–1330. https://doi.org/10.1056/nejmoa1709118.",
+ "attempts": 2
+}

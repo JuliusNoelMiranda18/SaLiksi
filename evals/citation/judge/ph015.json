@@ -1,0 +1,31 @@
+{
+ "id": "ph015",
+ "truth_id": "ph015",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "wrong_cap_rule:mla_sentence_case"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "et_al_rule:chicago_10plus"
+  ],
+  "variant": "author-date",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

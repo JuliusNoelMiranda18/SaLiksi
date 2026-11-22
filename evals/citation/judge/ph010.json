@@ -1,0 +1,33 @@
+{
+ "id": "ph010",
+ "truth_id": "ph010",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "author_truncated",
+   "et_al_rule:apa_21plus",
+   "wrong_cap_rule:apa_after_colon"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "et_al_rule:chicago_10plus"
+  ],
+  "variant": "author-date",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

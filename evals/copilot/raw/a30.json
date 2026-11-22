@@ -1,0 +1,12 @@
+{
+ "run_id": "a30",
+ "id": "a30",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Make this sentence more formal and cite it.",
+ "documentContent": "The volcano eruption in 2020 put more arsenic in the soil near the lake.",
+ "status": 200,
+ "latency_s": 1.03,
+ "response": "<DOCUMENT_EDIT>\n<INSERT_AFTER>START</INSERT_AFTER>\n<REPLACE_TEXT>The volcano eruption in 2020 put more arsenic in the soil near the lake.</REPLACE_TEXT>\n<NEW_TEXT>The 2020 Taal Volcano eruption resulted in increased arsenic concentrations in agricultural soil samples collected from areas near the lake, such as Talisay, Batangas, and Tagaytay City, Cavite (Banta & Salibay, 2023).</NEW_TEXT>\n</DOCUMENT_EDIT>",
+ "attempts": 1
+}

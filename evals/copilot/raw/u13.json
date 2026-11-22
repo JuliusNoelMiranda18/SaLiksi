@@ -1,0 +1,12 @@
+{
+ "run_id": "u13",
+ "id": "u13",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What climate change projections exist for Taal Lake surface temperature?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.24,
+ "response": "The sources in the EvalVault do not include any studies that model or project future climate‑change impacts on Taal Lake’s surface temperature. Existing research (e.g., Querijero & Mercurio, 2016) reports observed water‑temperature measurements but does not provide forward‑looking climate projections. <INLINE_CITATION>(Querijero & Mercurio, 2016)</INLINE_CITATION>",
+ "attempts": 1
+}

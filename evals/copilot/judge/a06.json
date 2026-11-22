@@ -1,0 +1,17 @@
+{
+ "id": "a06",
+ "claims": [
+  {
+   "text": "36 genera aquaculture vs 30 non-aquaculture",
+   "supported": true,
+   "cited_source": "src-3",
+   "citation_supports_claim": true,
+   "evidence": "36 genera were observed from the aquaculture sites while only 30 genera from the non-aquaculture sites"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

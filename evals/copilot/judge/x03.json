@@ -1,0 +1,26 @@
+{
+ "id": "x03",
+ "claims": [
+  {
+   "text": "World's only freshwater sardine",
+   "supported": true,
+   "cited_source": "src-1",
+   "citation_supports_claim": false,
+   "evidence": "this is from src-7 (Muyot), cited to src-1"
+  },
+  {
+   "text": "FiSAT parameters",
+   "supported": true,
+   "cited_source": "src-1",
+   "citation_supports_claim": true,
+   "evidence": "L∞ of 15.40 to 16.36 cm and K value ranged from 0.53 to 0.73"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Stayed in vault. One wrong-source citation; APA format errors.",
+ "citation_indexes_not_supporting": [
+  0
+ ]
+}

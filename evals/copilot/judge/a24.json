@@ -1,0 +1,31 @@
+{
+ "id": "a24",
+ "claims": [
+  {
+   "text": "Fisheries incl. tawilis",
+   "supported": true,
+   "cited_source": "src-1",
+   "citation_supports_claim": true,
+   "evidence": ""
+  },
+  {
+   "text": "Tawilis provides livelihood to marginal fisherfolk",
+   "supported": true,
+   "cited_source": "src-7",
+   "citation_supports_claim": true,
+   "evidence": "provides livelihood to the marginal fisherfolk"
+  },
+  {
+   "text": "Tilapia/milkfish aquaculture and farming",
+   "supported": true,
+   "cited_source": "src-4",
+   "citation_supports_claim": true,
+   "evidence": "depend on agricultural farming and fish-based activities"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

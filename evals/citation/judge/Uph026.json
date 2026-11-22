@@ -1,0 +1,72 @@
+{
+ "id": "Uph026",
+ "truth_id": "ph026",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "authors_wrong",
+   "wrong_year",
+   "title_altered",
+   "abbreviated_journal",
+   "missing_volume",
+   "missing_issue",
+   "missing_pages",
+   "no_doi",
+   "nd_fallback",
+   "invented_author",
+   "et_al_rule:apa_21plus",
+   "wrong_punctuation:vol_issue",
+   "cited_bot_wall_page"
+  ],
+  "variant": null,
+  "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+ },
+ "mla": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "authors_wrong",
+   "wrong_year",
+   "title_altered",
+   "abbreviated_journal",
+   "missing_volume",
+   "missing_issue",
+   "missing_pages",
+   "no_doi",
+   "nd_fallback",
+   "et_al_rule:mla",
+   "wrong_punctuation:vol",
+   "wrong_punctuation:no",
+   "wrong_punctuation:pp",
+   "cited_bot_wall_page"
+  ],
+  "variant": null,
+  "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+ },
+ "chicago": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "authors_wrong",
+   "wrong_year",
+   "title_altered",
+   "abbreviated_journal",
+   "missing_volume",
+   "missing_issue",
+   "missing_pages",
+   "no_doi",
+   "nd_fallback",
+   "invented_author",
+   "et_al_rule:chicago_10plus",
+   "cited_bot_wall_page"
+  ],
+  "variant": "unclear",
+  "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+ },
+ "fabricated_fields": [
+  "apa:author:Unknown Author",
+  "chicago:author:Unknown Author"
+ ],
+ "notes": "fetch blocked by bot wall; citation built from the challenge page"
+}

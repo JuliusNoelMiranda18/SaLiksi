@@ -1,0 +1,33 @@
+{
+ "id": "ra007",
+ "truth_id": "ra007",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": true,
+  "errors": [
+   "title_altered"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": false,
+  "style_ok": true,
+  "errors": [
+   "title_altered"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": false,
+  "style_ok": true,
+  "errors": [
+   "title_altered"
+  ],
+  "variant": "notes-bibliography",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ra028",
+ "input": {
+  "doi": "10.5815/ijisa.2017.01.02"
+ },
+ "status": 200,
+ "latency_s": 2.47,
+ "apa": "Alotaibi, M. B. (2017). Modelling Electronic Sharing (E-Sharing) Behaviour: A Perspective on Location-aware Technology. International Journal of Intelligent Systems and Applications, 9(1), 20–29. https://doi.org/10.5815/ijisa.2017.01.02",
+ "mla": "Alotaibi, Mutlaq B. \"Modelling Electronic Sharing (E-Sharing) Behaviour: A Perspective on Location-aware Technology.\" International Journal of Intelligent Systems and Applications, vol. 9, no. 1, 2017, pp. 20-29. https://doi.org/10.5815/ijisa.2017.01.02",
+ "chicago": "Alotaibi, Mutlaq B. 2017. \"Modelling Electronic Sharing (E-Sharing) Behaviour: A Perspective on Location-aware Technology.\" International Journal of Intelligent Systems and Applications 9 (1): 20–29. https://doi.org/10.5815/ijisa.2017.01.02",
+ "attempts": 1
+}

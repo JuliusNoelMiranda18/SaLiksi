@@ -1,0 +1,17 @@
+{
+ "id": "a14",
+ "claims": [
+  {
+   "text": "189 respondents",
+   "supported": true,
+   "cited_source": "src-7",
+   "citation_supports_claim": true,
+   "evidence": "directed to 189 respondents"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

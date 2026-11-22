@@ -1,0 +1,12 @@
+{
+ "run_id": "a13",
+ "id": "a13",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Who are the key actors in the tawilis value chain, and who has the highest value added?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.54,
+ "response": "The key actors in the freshwater sardine (Sardinella tawilis) value chain in Taal Lake are:\n\n- **Fishers** (the first link, harvesting the sardines)\n- **Fish buyers** (wholesalers, retailers, peddlers, and contracted buyers who purchase the catch)\n- **Processors** (who perform post‑harvest handling, preservation, and value‑adding transformations)\n- **Consumers** (the end users of the product)\n\nAmong these actors, **processors** contribute the highest value added because they add value through place, form, and time transformation of the product (e.g., fresh, processed, or packaged sardines) (Muyot, Balunan & Mutia, 2021).",
+ "attempts": 1
+}

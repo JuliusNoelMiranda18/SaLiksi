@@ -1,0 +1,12 @@
+{
+ "run_id": "ra020",
+ "input": {
+  "doi": "10.2320/jinstmet1952.49.9_801"
+ },
+ "status": 200,
+ "latency_s": 1.73,
+ "apa": "Odawara, O., & Ikeuchi, J. (1985). Effect of centrifugal force in the production of composite pipes by a centrifugal-thermit process. Journal of the Japan Institute of Metals, 49(9), 801–805. https://doi.org/10.2320/jinstmet1952.49.9_801",
+ "mla": "Odawara, Osamu, and Jun Ikeuchi. “Effect of Centrifugal Force in the Production of Composite Pipes by a Centrifugal-Thermit Process.” Journal of the Japan Institute of Metals, vol. 49, no. 9, 1985, pp. 801–805. https://doi.org/10.2320/jinstmet1952.49.9_801.",
+ "chicago": "Odawara, Osamu, and Jun Ikeuchi. “Effect of Centrifugal Force in the Production of Composite Pipes by a Centrifugal-Thermit Process.” Journal of the Japan Institute of Metals 49, no. 9 (1985): 801–805. https://doi.org/10.2320/jinstmet1952.49.9_801.",
+ "attempts": 1
+}

@@ -1,0 +1,17 @@
+{
+ "id": "a04",
+ "claims": [
+  {
+   "text": "Nitrates, phosphates, TDS significantly higher at cage site",
+   "supported": true,
+   "cited_source": "src-2",
+   "citation_supports_claim": true,
+   "evidence": "Nitrates, phosphates and TDS were significantly higher in the area with fish cage farming"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Citation emitted inside tag without parentheses (format).",
+ "citation_indexes_not_supporting": []
+}

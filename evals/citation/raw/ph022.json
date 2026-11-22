@@ -1,0 +1,12 @@
+{
+ "run_id": "ph022",
+ "input": {
+  "doi": "10.1016/s1470-2045(10)70230-8"
+ },
+ "status": 200,
+ "latency_s": 3.46,
+ "apa": "de Sanjose, S., et al. (2010). Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study. The Lancet Oncology, 11(11), 1048–1056. https://doi.org/10.1016/s1470-2045(10)70230-8",
+ "mla": "de Sanjose, Silvia, Wim GV Quint, Laia Alemany, et al. \"Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study.\" The Lancet Oncology, vol. 11, no. 11, 2010, pp. 1048-1056. doi:10.1016/s1470-2045(10)70230-8.",
+ "chicago": "de Sanjose, Silvia, et al. 2010. \"Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study.\" The Lancet Oncology 11, no. 11 (2010): 1048-1056. https://doi.org/10.1016/s1470-2045(10)70230-8.",
+ "attempts": 2
+}

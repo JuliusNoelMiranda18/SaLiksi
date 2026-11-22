@@ -1,0 +1,12 @@
+{
+ "run_id": "u02",
+ "id": "u02",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "How many fish cages were operating in Taal Lake in 2020?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.54,
+ "response": "The sources in the vault do not provide a specific count of fish cages operating in Taal Lake in 2020. While studies discuss the presence and impacts of cage aquaculture (e.g., Querijero & Mercurio, 2016), none report the exact number of cages for that year. <INLINE_CITATION>(Querijero & Mercurio, 2016)</INLINE_CITATION>",
+ "attempts": 1
+}

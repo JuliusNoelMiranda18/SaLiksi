@@ -1,0 +1,12 @@
+{
+ "run_id": "ph012",
+ "input": {
+  "doi": "10.1177/002224297103500302"
+ },
+ "status": 200,
+ "latency_s": 1.2,
+ "apa": "Kotler, P., & Zaltman, G. (1971). Social marketing: An approach to planned social change. Journal of Marketing, 35(3), 3–12. https://doi.org/10.1177/002224297103500302",
+ "mla": "Kotler, Philip, and Gerald Zaltman. “Social Marketing: An Approach to Planned Social Change.” Journal of Marketing, vol. 35, no. 3, 1971, pp. 3–12. https://doi.org/10.1177/002224297103500302.",
+ "chicago": "Kotler, Philip, and Gerald Zaltman. “Social Marketing: An Approach to Planned Social Change.” Journal of Marketing 35, no. 3 (1971): 3–12. https://doi.org/10.1177/002224297103500302.",
+ "attempts": 1
+}

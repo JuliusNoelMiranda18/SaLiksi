@@ -1,0 +1,17 @@
+{
+ "id": "a28",
+ "claims": [
+  {
+   "text": "Microcystis dominates phytoplankton",
+   "supported": true,
+   "cited_source": "src-3",
+   "citation_supports_claim": true,
+   "evidence": "most dominant phytoplankton ... was Microcystis"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

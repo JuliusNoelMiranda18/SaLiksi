@@ -1,0 +1,27 @@
+{
+ "id": "ed019",
+ "truth_id": "ed019",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": "German title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct."
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": "author-date",
+  "note": "German title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct."
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

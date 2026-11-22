@@ -1,0 +1,12 @@
+{
+ "run_id": "a14__rep3",
+ "id": "a14",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "How many respondents were surveyed in the tawilis supply and value chain study?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.1,
+ "response": "The study surveyed **189 respondents** in total.<INLINE_CITATION>(Muyot et al., 2021)</INLINE_CITATION>",
+ "attempts": 1
+}

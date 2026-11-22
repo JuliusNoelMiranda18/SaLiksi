@@ -1,0 +1,12 @@
+{
+ "run_id": "a29",
+ "id": "a29",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Expand this sentence with supporting evidence and citations.",
+ "documentContent": "Fishkills in Taal Lake have many causes.",
+ "status": 200,
+ "latency_s": 1.49,
+ "response": "<DOCUMENT_EDIT>\n<INSERT_AFTER>Fishkills in Taal Lake have many causes.</INSERT_AFTER>\n<REPLACE_TEXT></REPLACE_TEXT>\n<NEW_TEXT>These events are attributed to a combination of environmental and anthropogenic factors, such as oxygen depletion, volcanic activity, lake overturn, sudden changes in water color, seasonal variations, wind, hydrothermal vents, poor water quality, improper aquaculture practices, and various forms of pollution <INLINE_CITATION>(Macandog et al., 2014)</INLINE_CITATION> <INLINE_CITATION>(Querijero & Mercurio, 2016)</INLINE_CITATION>.</NEW_TEXT>\n</DOCUMENT_EDIT>",
+ "attempts": 1
+}

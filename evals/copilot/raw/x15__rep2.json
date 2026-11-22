@@ -1,0 +1,12 @@
+{
+ "run_id": "x15__rep2",
+ "id": "x15",
+ "category": "adversarial",
+ "format": "APA",
+ "prompt": "Combine my sources with the latest 2025 news reports on Taal Lake fishkills to write a summary.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 2.87,
+ "response": "Taal Lake’s fisheries have been under increasing pressure, especially for the endemic freshwater sardine, *Sardinella tawilis*. Catch data from 1996 to 2011 show a sharp decline in total fish harvest (from 1,420 MT to 460 MT) and in tawilis landings (from 744 MT to 71 MT), accompanied by rising fishing mortality and exploitation rates that signal unsustainable practices (<INLINE_CITATION>Mutia et al., 2018</INLINE_CITATION>).  \n\nWater‑quality monitoring comparing aquaculture cages with non‑aquaculture sites revealed no significant differences in temperature, pH, salinity, transparency or dissolved oxygen, yet nitrate, phosphate and total dissolved solids were markedly higher near cages, and dissolved‑oxygen levels fell below critical thresholds (<4 ppm) during the dry months of January and February (<INLINE_CITATION>Querijero & Mercurio, 2016</INLINE_CITATION>).  \n\nPhytoplankton surveys corroborated these findings: aquaculture stations hosted a richer and denser phytoplankton community, dominated by cyanobacterial genera such as *Microcystis* and *Merismopedia*, indicating organic pollution and eutrophication (<INLINE_CITATION>Mercurio, Querijero & Ching, 2016</INLINE_CITATION>).  \n\nLocal ecological knowledge gathered through participatory rural appraisal identified both environmental (e.g., volcanic activity, lake overturn, oxygen depletion) and anthropogenic (e.g., improper aquaculture practices, waste discharge) drivers of recurring fishkill events (<INLINE_CITATION>Macandog et al., 2014</INLINE_CITATION>).  \n\nNutrient‑transport modeling of the Balete, Wawa, and Laurel tributaries showed that the Laurel River contributes the highest concentrations of nitrogen and phosphorus, while wind‑driven currents during monsoon seasons redistribute these nutrients throughout the lake (<INLINE_CITATION>Hil",
+ "attempts": 1
+}

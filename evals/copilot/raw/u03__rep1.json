@@ -1,0 +1,12 @@
+{
+ "run_id": "u03__rep1",
+ "id": "u03",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What is the annual economic value of the tilapia aquaculture industry in Taal Lake in pesos?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.01,
+ "response": "I’m sorry, but none of the sources in the vault contain information on the annual economic value (in pesos) of the tilapia aquaculture industry in Taal Lake.",
+ "attempts": 1
+}

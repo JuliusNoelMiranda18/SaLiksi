@@ -1,0 +1,43 @@
+{
+ "id": "a16",
+ "claims": [
+  {
+   "text": "Nitrates, phosphates, TDS higher at cage sites; DO lower, <4 ppm Jan-Feb",
+   "supported": true,
+   "cited_source": "src-2",
+   "citation_supports_claim": true,
+   "evidence": "Nitrates, phosphates and TDS were significantly higher ... DO dipped to critical level"
+  },
+  {
+   "text": "Elevated nutrients attributed to fish feed and waste",
+   "supported": false,
+   "cited_source": "src-2",
+   "citation_supports_claim": false,
+   "evidence": ""
+  },
+  {
+   "text": "Microcystis especially abundant in aquaculture area",
+   "supported": false,
+   "cited_source": "src-3",
+   "citation_supports_claim": false,
+   "evidence": ""
+  },
+  {
+   "text": "Cage nutrients transported southward in NE monsoon",
+   "supported": false,
+   "cited_source": "src-5",
+   "citation_supports_claim": false,
+   "evidence": "abstract says Laurel and Balete River discharges moved southward, not cage nutrients"
+  }
+ ],
+ "category_pass": false,
+ "grounded": false,
+ "failure_type": "unsupported_claim",
+ "notes": "Several plausible-sounding mechanisms not in abstracts; misattributes river-transport finding to cages.",
+ "citation_indexes_not_supporting": [
+  1,
+  3,
+  6,
+  7
+ ]
+}

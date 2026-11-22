@@ -1,0 +1,892 @@
+{
+ "nodes": [
+  {
+   "id": "g1",
+   "type": "group",
+   "label": "UI: pages & components",
+   "x": -40,
+   "y": -80,
+   "width": 340,
+   "height": 1160,
+   "color": "1"
+  },
+  {
+   "id": "g2",
+   "type": "group",
+   "label": "API routes (server)",
+   "x": 460,
+   "y": -80,
+   "width": 340,
+   "height": 1680,
+   "color": "2"
+  },
+  {
+   "id": "page-researcher",
+   "type": "file",
+   "file": "10 Pages/page-researcher.md",
+   "x": 0,
+   "y": 0,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "page-topic-generator",
+   "type": "file",
+   "file": "10 Pages/page-topic-generator.md",
+   "x": 0,
+   "y": 90,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "comp-GenerateResearchModal",
+   "type": "file",
+   "file": "40 Components/comp-GenerateResearchModal.md",
+   "x": 0,
+   "y": 180,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "page-library",
+   "type": "file",
+   "file": "10 Pages/page-library.md",
+   "x": 0,
+   "y": 270,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "comp-WriterEditor",
+   "type": "file",
+   "file": "40 Components/comp-WriterEditor.md",
+   "x": 0,
+   "y": 360,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "comp-VaultCopilot",
+   "type": "file",
+   "file": "40 Components/comp-VaultCopilot.md",
+   "x": 0,
+   "y": 450,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "comp-CitationsPanel",
+   "type": "file",
+   "file": "40 Components/comp-CitationsPanel.md",
+   "x": 0,
+   "y": 540,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "page-credibility",
+   "type": "file",
+   "file": "10 Pages/page-credibility.md",
+   "x": 0,
+   "y": 630,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "page-aitools",
+   "type": "file",
+   "file": "10 Pages/page-aitools.md",
+   "x": 0,
+   "y": 720,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "page-citation",
+   "type": "file",
+   "file": "10 Pages/page-citation.md",
+   "x": 0,
+   "y": 810,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "page-defenders",
+   "type": "file",
+   "file": "10 Pages/page-defenders.md",
+   "x": 0,
+   "y": 900,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "lib-devModeContext",
+   "type": "file",
+   "file": "30 Lib/lib-devModeContext.md",
+   "x": 0,
+   "y": 990,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-suggestions",
+   "type": "file",
+   "file": "20 API/api-suggestions.md",
+   "x": 500,
+   "y": 0,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-research",
+   "type": "file",
+   "file": "20 API/api-research.md",
+   "x": 500,
+   "y": 80,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-layman",
+   "type": "file",
+   "file": "20 API/api-layman.md",
+   "x": 500,
+   "y": 160,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-citation",
+   "type": "file",
+   "file": "20 API/api-citation.md",
+   "x": 500,
+   "y": 240,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-generate-problem-topics",
+   "type": "file",
+   "file": "20 API/api-generate-problem-topics.md",
+   "x": 500,
+   "y": 320,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-generate-gap-topics",
+   "type": "file",
+   "file": "20 API/api-generate-gap-topics.md",
+   "x": 500,
+   "y": 400,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-generate-context",
+   "type": "file",
+   "file": "20 API/api-generate-context.md",
+   "x": 500,
+   "y": 480,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-generate-topics",
+   "type": "file",
+   "file": "20 API/api-generate-topics.md",
+   "x": 500,
+   "y": 560,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-pdf-info",
+   "type": "file",
+   "file": "20 API/api-pdf-info.md",
+   "x": 500,
+   "y": 640,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-writer-autocomplete",
+   "type": "file",
+   "file": "20 API/api-writer-autocomplete.md",
+   "x": 500,
+   "y": 720,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-writer",
+   "type": "file",
+   "file": "20 API/api-writer.md",
+   "x": 500,
+   "y": 800,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-bibliography",
+   "type": "file",
+   "file": "20 API/api-bibliography.md",
+   "x": 500,
+   "y": 880,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-credibility",
+   "type": "file",
+   "file": "20 API/api-credibility.md",
+   "x": 500,
+   "y": 960,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-synthesis",
+   "type": "file",
+   "file": "20 API/api-synthesis.md",
+   "x": 500,
+   "y": 1040,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-gaps",
+   "type": "file",
+   "file": "20 API/api-gaps.md",
+   "x": 500,
+   "y": 1120,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-graph",
+   "type": "file",
+   "file": "20 API/api-graph.md",
+   "x": 500,
+   "y": 1200,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-extract-pdf",
+   "type": "file",
+   "file": "20 API/api-extract-pdf.md",
+   "x": 500,
+   "y": 1280,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-defenders-question",
+   "type": "file",
+   "file": "20 API/api-defenders-question.md",
+   "x": 500,
+   "y": 1360,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-defenders-evaluate",
+   "type": "file",
+   "file": "20 API/api-defenders-evaluate.md",
+   "x": 500,
+   "y": 1440,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "api-dev-trace",
+   "type": "file",
+   "file": "20 API/api-dev-trace.md",
+   "x": 500,
+   "y": 1520,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "g3",
+   "type": "group",
+   "label": "Server lib",
+   "x": 920,
+   "y": 300,
+   "width": 340,
+   "height": 260,
+   "color": "4"
+  },
+  {
+   "id": "lib-groq",
+   "type": "file",
+   "file": "30 Lib/lib-groq.md",
+   "x": 960,
+   "y": 360,
+   "width": 260,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "lib-credibility",
+   "type": "file",
+   "file": "30 Lib/lib-credibility.md",
+   "x": 960,
+   "y": 460,
+   "width": 260,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "g4",
+   "type": "group",
+   "label": "External services",
+   "x": 1380,
+   "y": -80,
+   "width": 340,
+   "height": 620,
+   "color": "6"
+  },
+  {
+   "id": "ext-groq",
+   "type": "file",
+   "file": "50 External/ext-groq.md",
+   "x": 1420,
+   "y": 0,
+   "width": 260,
+   "height": 60,
+   "color": "6"
+  },
+  {
+   "id": "ext-openalex",
+   "type": "file",
+   "file": "50 External/ext-openalex.md",
+   "x": 1420,
+   "y": 90,
+   "width": 260,
+   "height": 60,
+   "color": "6"
+  },
+  {
+   "id": "ext-semantic-scholar",
+   "type": "file",
+   "file": "50 External/ext-semantic-scholar.md",
+   "x": 1420,
+   "y": 180,
+   "width": 260,
+   "height": 60,
+   "color": "6"
+  },
+  {
+   "id": "ext-philjol",
+   "type": "file",
+   "file": "50 External/ext-philjol.md",
+   "x": 1420,
+   "y": 270,
+   "width": 260,
+   "height": 60,
+   "color": "6"
+  },
+  {
+   "id": "ext-crossref",
+   "type": "file",
+   "file": "50 External/ext-crossref.md",
+   "x": 1420,
+   "y": 360,
+   "width": 260,
+   "height": 60,
+   "color": "6"
+  },
+  {
+   "id": "ext-nominatim",
+   "type": "file",
+   "file": "50 External/ext-nominatim.md",
+   "x": 1420,
+   "y": 450,
+   "width": 260,
+   "height": 60,
+   "color": "6"
+  },
+  {
+   "id": "g5",
+   "type": "group",
+   "label": "Client state (browser)",
+   "x": -480,
+   "y": -80,
+   "width": 340,
+   "height": 420,
+   "color": "3"
+  },
+  {
+   "id": "lib-libraryContext",
+   "type": "file",
+   "file": "30 Lib/lib-libraryContext.md",
+   "x": -440,
+   "y": 0,
+   "width": 260,
+   "height": 60,
+   "color": "3"
+  },
+  {
+   "id": "lib-libraryStore",
+   "type": "file",
+   "file": "30 Lib/lib-libraryStore.md",
+   "x": -440,
+   "y": 90,
+   "width": 260,
+   "height": 60,
+   "color": "3"
+  },
+  {
+   "id": "lib-writerStorage",
+   "type": "file",
+   "file": "30 Lib/lib-writerStorage.md",
+   "x": -440,
+   "y": 180,
+   "width": 260,
+   "height": 60,
+   "color": "3"
+  },
+  {
+   "id": "lib-idb",
+   "type": "file",
+   "file": "30 Lib/lib-idb.md",
+   "x": -440,
+   "y": 270,
+   "width": 260,
+   "height": 60,
+   "color": "3"
+  },
+  {
+   "id": "data-storage-keys",
+   "type": "file",
+   "file": "00 Overview/data-storage-keys.md",
+   "x": -440,
+   "y": 360,
+   "width": 260,
+   "height": 60,
+   "color": "3"
+  },
+  {
+   "id": "home",
+   "type": "file",
+   "file": "00 Home.md",
+   "x": 500,
+   "y": -300,
+   "width": 340,
+   "height": 120,
+   "color": "5"
+  }
+ ],
+ "edges": [
+  {
+   "id": "e1",
+   "fromNode": "page-researcher",
+   "toNode": "api-suggestions",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e2",
+   "fromNode": "page-researcher",
+   "toNode": "api-research",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e3",
+   "fromNode": "page-researcher",
+   "toNode": "api-layman",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e4",
+   "fromNode": "page-researcher",
+   "toNode": "api-citation",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e5",
+   "fromNode": "page-topic-generator",
+   "toNode": "api-generate-problem-topics",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e6",
+   "fromNode": "page-topic-generator",
+   "toNode": "api-generate-gap-topics",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e7",
+   "fromNode": "comp-GenerateResearchModal",
+   "toNode": "api-generate-context",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e8",
+   "fromNode": "comp-GenerateResearchModal",
+   "toNode": "api-generate-topics",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e9",
+   "fromNode": "page-library",
+   "toNode": "api-pdf-info",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e10",
+   "fromNode": "comp-WriterEditor",
+   "toNode": "api-writer-autocomplete",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e11",
+   "fromNode": "comp-VaultCopilot",
+   "toNode": "api-writer",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e12",
+   "fromNode": "comp-CitationsPanel",
+   "toNode": "api-bibliography",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e13",
+   "fromNode": "page-credibility",
+   "toNode": "api-credibility",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e14",
+   "fromNode": "page-aitools",
+   "toNode": "api-synthesis",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e15",
+   "fromNode": "page-aitools",
+   "toNode": "api-gaps",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e16",
+   "fromNode": "page-aitools",
+   "toNode": "api-graph",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e17",
+   "fromNode": "page-citation",
+   "toNode": "api-citation",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e18",
+   "fromNode": "page-defenders",
+   "toNode": "api-extract-pdf",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e19",
+   "fromNode": "page-defenders",
+   "toNode": "api-defenders-question",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e20",
+   "fromNode": "page-defenders",
+   "toNode": "api-defenders-evaluate",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e21",
+   "fromNode": "lib-devModeContext",
+   "toNode": "api-dev-trace",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e22",
+   "fromNode": "api-suggestions",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e23",
+   "fromNode": "api-research",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e24",
+   "fromNode": "api-layman",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e25",
+   "fromNode": "api-citation",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e26",
+   "fromNode": "api-generate-problem-topics",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e27",
+   "fromNode": "api-generate-gap-topics",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e28",
+   "fromNode": "api-generate-context",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e29",
+   "fromNode": "api-generate-topics",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e30",
+   "fromNode": "api-pdf-info",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e31",
+   "fromNode": "api-writer-autocomplete",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e32",
+   "fromNode": "api-writer",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e33",
+   "fromNode": "api-bibliography",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e34",
+   "fromNode": "api-credibility",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e35",
+   "fromNode": "api-synthesis",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e36",
+   "fromNode": "api-gaps",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e37",
+   "fromNode": "api-graph",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e38",
+   "fromNode": "api-defenders-question",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e39",
+   "fromNode": "api-defenders-evaluate",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e40",
+   "fromNode": "api-dev-trace",
+   "toNode": "ext-groq",
+   "fromSide": "right",
+   "toSide": "left",
+   "label": "direct stream"
+  },
+  {
+   "id": "e41",
+   "fromNode": "api-research",
+   "toNode": "lib-credibility",
+   "fromSide": "right",
+   "toSide": "left",
+   "label": "score \u00d710"
+  },
+  {
+   "id": "e42",
+   "fromNode": "api-credibility",
+   "toNode": "lib-credibility",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e43",
+   "fromNode": "lib-credibility",
+   "toNode": "lib-groq",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e44",
+   "fromNode": "lib-groq",
+   "toNode": "ext-groq",
+   "fromSide": "right",
+   "toSide": "left",
+   "label": "4-model cascade"
+  },
+  {
+   "id": "e45",
+   "fromNode": "api-research",
+   "toNode": "ext-openalex",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e46",
+   "fromNode": "api-research",
+   "toNode": "ext-philjol",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e47",
+   "fromNode": "api-research",
+   "toNode": "ext-semantic-scholar",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e48",
+   "fromNode": "api-citation",
+   "toNode": "ext-crossref",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e49",
+   "fromNode": "api-citation",
+   "toNode": "ext-semantic-scholar",
+   "fromSide": "right",
+   "toSide": "left"
+  },
+  {
+   "id": "e50",
+   "fromNode": "comp-GenerateResearchModal",
+   "toNode": "ext-nominatim",
+   "fromSide": "bottom",
+   "toSide": "top",
+   "label": "browser fetch"
+  },
+  {
+   "id": "e51",
+   "fromNode": "lib-libraryContext",
+   "toNode": "lib-libraryStore",
+   "fromSide": "bottom",
+   "toSide": "top"
+  },
+  {
+   "id": "e52",
+   "fromNode": "lib-writerStorage",
+   "toNode": "data-storage-keys",
+   "fromSide": "bottom",
+   "toSide": "top",
+   "label": "direct write"
+  },
+  {
+   "id": "e53",
+   "fromNode": "lib-libraryStore",
+   "toNode": "data-storage-keys",
+   "fromSide": "bottom",
+   "toSide": "top"
+  },
+  {
+   "id": "e54",
+   "fromNode": "page-researcher",
+   "toNode": "lib-libraryContext",
+   "fromSide": "left",
+   "toSide": "right",
+   "color": "3"
+  },
+  {
+   "id": "e55",
+   "fromNode": "page-library",
+   "toNode": "lib-libraryContext",
+   "fromSide": "left",
+   "toSide": "right",
+   "color": "3"
+  },
+  {
+   "id": "e56",
+   "fromNode": "page-credibility",
+   "toNode": "lib-libraryContext",
+   "fromSide": "left",
+   "toSide": "right",
+   "color": "3"
+  },
+  {
+   "id": "e57",
+   "fromNode": "comp-WriterEditor",
+   "toNode": "lib-libraryContext",
+   "fromSide": "left",
+   "toSide": "right",
+   "color": "3"
+  }
+ ]
+}

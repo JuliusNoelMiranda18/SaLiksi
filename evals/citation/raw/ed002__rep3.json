@@ -1,0 +1,12 @@
+{
+ "run_id": "ed002__rep3",
+ "input": {
+  "doi": "10.1007/s00586-025-09524-2"
+ },
+ "status": 200,
+ "latency_s": 1.8,
+ "apa": "Khalifé, M., Mohamed, A., Ben-Israel, D., Bunch, J. T., Daniels, A. H., Diebo, B. G., Eastlack, R., Fessler, R. G., Gupta, M. C., Hamilton, K., Hostin, R., Kim, H. J., Klineberg, E. O., Lenke, L. G., Mullin, J., Mummaneni, P. V., Nunley, P., Park, P., Passias, P. G., Smith, J. S., Theologis, A. A., Yagi, M., Lafage, R., Schwab, F. J., Lafage, V., & International Spine Study Group, ISSG. (2025). Can proximal junctional failure be predicted after adult spinal deformity surgery by experienced deformity surgeons based on patient, surgical and radiographic parameters? European Spine Journal, 35(5), 2295–2305. https://doi.org/10.1007/s00586-025-09524-2",
+ "mla": "Khalifé, Marc, et al. “Can Proximal Junctional Failure Be Predicted After Adult Spinal Deformity Surgery by Experienced Deformity Surgeons Based on Patient, Surgical and Radiographic Parameters?” European Spine Journal, vol. 35, no. 5, 2025, pp. 2295–2305. https://doi.org/10.1007/s00586-025-09524-2.",
+ "chicago": "Khalifé, Marc, Ayman Mohamed, David Ben-Israel, Joshua T. Bunch, Alan H. Daniels, Bassel G. Diebo, Robert Eastlack, Richard G. Fessler, Munish C. Gupta, Kojo Hamilton, Richard Hostin, Han Jo Kim, Eric O. Klineberg, Lawrence G. Lenke, Jeffrey Mullin, Praveen V. Mummaneni, Pierce Nunley, Paul Park, Peter G. Passias, Justin S. Smith, Alekos A. Theologis, Mitsuru Yagi, Renaud Lafage, Frank J. Schwab, Virginie Lafage, and International Spine Study Group, ISSG. “Can Proximal Junctional Failure Be Predicted After Adult Spinal Deformity Surgery by Experienced Deformity Surgeons Based on Patient, Surgical and Radiographic Parameters?” European Spine Journal 35, no. 5 (2025): 2295–2305. https://doi.org/10.1007/s00586-025-09524-2.",
+ "attempts": 1
+}

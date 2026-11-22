@@ -1,0 +1,20 @@
+{
+ "id": "ed018",
+ "apa": {
+  "correct": true,
+  "errors": []
+ },
+ "mla": {
+  "correct": false,
+  "errors": [
+   "wrong_cap_rule",
+   "invented_access_date"
+  ]
+ },
+ "chicago": {
+  "correct": false,
+  "errors": [
+   "wrong_cap_rule"
+  ]
+ }
+}

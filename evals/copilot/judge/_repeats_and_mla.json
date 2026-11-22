@@ -1,0 +1,59 @@
+{
+ "repeat_grounded": {
+  "a02": [
+   1,
+   1,
+   1
+  ],
+  "a03": [
+   0,
+   0,
+   1
+  ],
+  "a06": [
+   1,
+   1,
+   1
+  ],
+  "a14": [
+   1,
+   1,
+   1
+  ],
+  "a15": [
+   1,
+   1,
+   1
+  ],
+  "a28": [
+   1,
+   1,
+   1
+  ],
+  "u03": [
+   1,
+   1,
+   1
+  ],
+  "u08": [
+   1,
+   1,
+   1
+  ],
+  "u09": [
+   1,
+   1,
+   1
+  ],
+  "x15": [
+   1,
+   0,
+   1
+  ]
+ },
+ "notes": {
+  "a03": "rep1/rep2 add outside thresholds (E>0.5, F≈M) not in abstract -> outside_knowledge",
+  "x15": "rep2 silently ignored the news request and claims F/E were 'rising' (unsupported)"
+ },
+ "mla_notes": "MLA runs judged for citation format only. Observed: invented page number '1' in a18/a21 (Mutia et al. 1); APA-style '(Querijero & Mercurio 2016)' in a05; tag without parentheses in a04."
+}

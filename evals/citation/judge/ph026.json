@@ -1,0 +1,30 @@
+{
+ "id": "ph026",
+ "truth_id": "ph026",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "author_truncated",
+   "et_al_rule:apa_21plus"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": "notes-bibliography",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

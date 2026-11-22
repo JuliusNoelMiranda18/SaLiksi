@@ -1,0 +1,12 @@
+{
+ "run_id": "ra016",
+ "input": {
+  "doi": "10.1016/s0272-5231(21)00420-2"
+ },
+ "status": 200,
+ "latency_s": 3.32,
+ "apa": "Marin, M. G., & Culp, D. J. (1986). Isolation and Culture of Submucosal Gland Cells. Clinics in Chest Medicine, 7(2), 239-245. https://doi.org/10.1016/s0272-5231(21)00420-2",
+ "mla": "Marin, Matthew G., and David J. Culp. \"Isolation and Culture of Submucosal Gland Cells.\" Clinics in Chest Medicine, vol. 7, no. 2, 1986, pp. 239-245. https://doi.org/10.1016/s0272-5231(21)00420-2",
+ "chicago": "Marin, Matthew G., and David J. Culp. 1986. \"Isolation and Culture of Submucosal Gland Cells.\" Clinics in Chest Medicine 7 (2): 239-245. https://doi.org/10.1016/s0272-5231(21)00420-2",
+ "attempts": 1
+}

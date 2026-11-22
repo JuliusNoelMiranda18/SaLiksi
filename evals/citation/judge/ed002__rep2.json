@@ -1,0 +1,31 @@
+{
+ "id": "ed002__rep2",
+ "truth_id": "ed002",
+ "apa": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "et_al_rule:apa_21plus"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": true,
+  "style_ok": false,
+  "errors": [
+   "et_al_rule:chicago_10plus"
+  ],
+  "variant": "notes-bibliography",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

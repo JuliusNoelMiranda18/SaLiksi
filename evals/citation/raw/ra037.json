@@ -1,0 +1,12 @@
+{
+ "run_id": "ra037",
+ "input": {
+  "doi": "10.1016/j.jafr.2020.100084"
+ },
+ "status": 200,
+ "latency_s": 2.47,
+ "apa": "Nobari Azar, F. A., Pezeshki, A., Ghanbarzadeh, B., Hamishehkar, H., & Mohammadi, M. (2020). Nanostructured lipid carriers: Promising delivery systems for encapsulation of food ingredients. Journal of Agriculture and Food Research, 2, 100084. https://doi.org/10.1016/j.jafr.2020.100084",
+ "mla": "Nobari Azar, Farnaz Ahmadzadeh, et al. \"Nanostructured lipid carriers: Promising delivery systems for encapsulation of food ingredients.\" Journal of Agriculture and Food Research, vol. 2, 2020, p. 100084, doi:10.1016/j.jafr.2020.100084.",
+ "chicago": "Nobari Azar, Farnaz Ahmadzadeh, Akram Pezeshki, Babak Ghanbarzadeh, Hamed Hamishehkar, and Maryam Mohammadi. 2020. \"Nanostructured lipid carriers: Promising delivery systems for encapsulation of food ingredients.\" Journal of Agriculture and Food Research 2: 100084. https://doi.org/10.1016/j.jafr.2020.100084.",
+ "attempts": 1
+}

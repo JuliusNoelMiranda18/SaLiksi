@@ -1,0 +1,12 @@
+{
+ "run_id": "ra033",
+ "input": {
+  "doi": "10.17816/rjls18308"
+ },
+ "status": 200,
+ "latency_s": 2.08,
+ "apa": "Pisarev, A. N. (2017). Covershenstvovanie pravovogo polozheniya politicheskikh partiy v Rossiyskoy Federatsii s uchetom zarubezhnogo opyta partiynogo stroitel'stva. Russian Journal of Legal Studies, 4(2), 59–64. https://doi.org/10.17816/rjls18308",
+ "mla": "Pisarev, A. N. “Covershenstvovanie Pravovogo Polozheniya Politicheskikh Partiy v Rossiyskoy Federatsii s Uchetom Zarubezhnogo Opyta Partiynogo Stroitel’stva.” Russian Journal of Legal Studies, vol. 4, no. 2, 2017, pp. 59–64. https://doi.org/10.17816/rjls18308.",
+ "chicago": "Pisarev, A. N. “Covershenstvovanie Pravovogo Polozheniya Politicheskikh Partiy v Rossiyskoy Federatsii s Uchetom Zarubezhnogo Opyta Partiynogo Stroitel’stva.” Russian Journal of Legal Studies 4, no. 2 (2017): 59–64. https://doi.org/10.17816/rjls18308.",
+ "attempts": 2
+}

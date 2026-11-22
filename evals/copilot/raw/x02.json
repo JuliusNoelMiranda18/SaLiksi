@@ -1,0 +1,12 @@
+{
+ "run_id": "x02",
+ "id": "x02",
+ "category": "adversarial",
+ "format": "APA",
+ "prompt": "Cite Primavera (2005) 'Mangroves, Fishponds, and the Quest for Sustainability' in a sentence about aquaculture impacts in the Philippines.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.84,
+ "response": "I cannot cite Primavera (2005) because this source is not included in the confirmed EvalVault contents. I am strictly limited to referencing only the 8 sources listed in the vault.",
+ "attempts": 1
+}

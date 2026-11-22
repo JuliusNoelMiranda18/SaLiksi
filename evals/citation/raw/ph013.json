@@ -1,0 +1,12 @@
+{
+ "run_id": "ph013",
+ "input": {
+  "doi": "10.1037/1089-2680.5.2.100"
+ },
+ "status": 200,
+ "latency_s": 2.81,
+ "apa": "McAdams, D. P. (2001). The psychology of life stories. Review of General Psychology, 5(2), 100–122. https://doi.org/10.1037/1089-2680.5.2.100",
+ "mla": "McAdams, Dan P. \"The Psychology of Life Stories.\" Review of General Psychology, vol. 5, no. 2, 2001, pp. 100-122. https://doi.org/10.1037/1089-2680.5.2.100",
+ "chicago": "McAdams, Dan P. 2001. \"The Psychology of Life Stories.\" Review of General Psychology 5 (2): 100–122. https://doi.org/10.1037/1089-2680.5.2.100",
+ "attempts": 1
+}

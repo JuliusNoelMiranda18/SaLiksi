@@ -1,0 +1,12 @@
+{
+ "run_id": "u08",
+ "id": "u08",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What microplastic concentrations have been found in Taal Lake?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.08,
+ "response": "Based on the provided vault contents, there is no information regarding microplastic concentrations in Taal Lake. The available sources discuss water quality parameters such as dissolved oxygen, nitrates, and phosphates (Querijero & Mercurio, 2016), heavy metal contamination such as arsenic, cadmium, and mercury (Banta & Salibay, 2023), and biological factors like fishery resources and plankton communities (Mutia et al., 2018; Papa & Pagulayan, 2007), but do not mention microplastics.",
+ "attempts": 1
+}

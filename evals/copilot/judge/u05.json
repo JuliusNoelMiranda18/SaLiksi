@@ -1,0 +1,9 @@
+{
+ "id": "u05",
+ "claims": [],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Declined; correctly notes harvest data predates eruption.",
+ "citation_indexes_not_supporting": []
+}

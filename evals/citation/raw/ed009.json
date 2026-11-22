@@ -1,0 +1,12 @@
+{
+ "run_id": "ed009",
+ "input": {
+  "doi": "10.29057/esat.v7i14.6038"
+ },
+ "status": 200,
+ "latency_s": 3.23,
+ "apa": "Hernández Mendoza, J. M., & Hernández Mendoza, S. L. (2020). Los mapas conceptuales. Boletín Científico de la Escuela Superior Atotonilco de Tula, 7(14), 24–26. https://doi.org/10.29057/esat.v7i14.6038",
+ "mla": "Hernández Mendoza, Jorge Martín, and Hernández Mendoza, Sandra Luz. \"Los mapas conceptuales.\" Boletín Científico de la Escuela Superior Atotonilco de Tula, vol. 7, no. 14, 2020, pp. 24-26. https://doi.org/10.29057/esat.v7i14.6038. Accessed 2025.",
+ "chicago": "Hernández Mendoza, Jorge Martín, and Hernández Mendoza, Sandra Luz. 2020. \"Los mapas conceptuales.\" Boletín Científico de la Escuela Superior Atotonilco de Tula 7 (14): 24–26. https://doi.org/10.29057/esat.v7i14.6038",
+ "attempts": 2
+}

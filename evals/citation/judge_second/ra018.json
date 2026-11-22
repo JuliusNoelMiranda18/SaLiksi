@@ -1,0 +1,17 @@
+{
+ "id": "ra018",
+ "apa": {
+  "correct": true,
+  "errors": []
+ },
+ "mla": {
+  "correct": false,
+  "errors": [
+   "et_al_rule"
+  ]
+ },
+ "chicago": {
+  "correct": true,
+  "errors": []
+ }
+}

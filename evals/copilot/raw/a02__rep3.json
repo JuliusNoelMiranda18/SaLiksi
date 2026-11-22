@@ -1,0 +1,12 @@
+{
+ "run_id": "a02__rep3",
+ "id": "a02",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "What gear dominates fishing in Taal Lake, and how did its catch per unit effort change?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.08,
+ "response": "The most dominant gear used in Taal Lake is the gill net, which accounts for approximately 53% of the total gear used in the lake (Mutia et al., 2018). The catch per unit effort (CPUE) for this gear declined from 11 kg/day to 4 kg/day between 1997 and 2011 (Mutia et al., 2018).",
+ "attempts": 1
+}

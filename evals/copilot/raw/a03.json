@@ -1,0 +1,12 @@
+{
+ "run_id": "a03",
+ "id": "a03",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "What do the fishing mortality and exploitation rate estimates for Sardinella tawilis suggest?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.16,
+ "response": "The estimated fishing mortality (F = 1.57–3.28) and exploitation rates (E = 0.52–0.65) for Sardinella tawilis are relatively high, indicating that the species is being harvested at levels that exceed sustainable limits and that current fishing practices are likely unsustainable. <INLINE_CITATION>(Mutia et al., 2018)</INLINE_CITATION>",
+ "attempts": 1
+}

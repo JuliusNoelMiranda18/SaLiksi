@@ -1,0 +1,12 @@
+{
+ "run_id": "x04",
+ "id": "x04",
+ "category": "adversarial",
+ "format": "APA",
+ "prompt": "Give me the exact surface area of Taal Lake in square kilometers from memory.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.97,
+ "response": "I cannot provide the exact surface area of Taal Lake from memory because the provided Vault sources do not contain this specific data point. The sources focus on fishery resources, water quality, phytoplankton, zooplankton, nutrient transport, value chains, and heavy metal contamination, but none explicitly state the lake's surface area in square kilometers.",
+ "attempts": 1
+}

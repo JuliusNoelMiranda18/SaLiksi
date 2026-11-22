@@ -1,0 +1,12 @@
+{
+ "run_id": "ph002",
+ "input": {
+  "doi": "10.1080/00273170701341316"
+ },
+ "status": 200,
+ "latency_s": 3.36,
+ "apa": "Preacher, K. J., Rucker, D. D., & Hayes, A. F. (2007). Addressing Moderated Mediation Hypotheses: Theory, Methods, and Prescriptions. Multivariate Behavioral Research, 42(1), 185–227. https://doi.org/10.1080/00273170701341316",
+ "mla": "Preacher, Kristopher J., Derek D. Rucker, and Andrew F. Hayes. \"Addressing Moderated Mediation Hypotheses: Theory, Methods, and Prescriptions.\" Multivariate Behavioral Research, vol. 42, no. 1, 2007, pp. 185-227. https://doi.org/10.1080/00273170701341316. Accessed 2025",
+ "chicago": "Preacher, Kristopher J., Derek D. Rucker, and Andrew F. Hayes. 2007. \"Addressing Moderated Mediation Hypotheses: Theory, Methods, and Prescriptions.\" Multivariate Behavioral Research 42 (1): 185–227. https://doi.org/10.1080/00273170701341316",
+ "attempts": 2
+}

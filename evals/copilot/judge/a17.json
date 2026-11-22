@@ -1,0 +1,24 @@
+{
+ "id": "a17",
+ "claims": [
+  {
+   "text": "Laurel significant P and N; Balete & Wawa ~85 kg/d NO3-N",
+   "supported": true,
+   "cited_source": "src-5",
+   "citation_supports_claim": true,
+   "evidence": "Balete and Wawa Rivers contributed high mean discharges of 85 kg d-1 nitrate-nitrogen"
+  },
+  {
+   "text": "Nitrate, phosphate, TDS significantly higher at cage site",
+   "supported": true,
+   "cited_source": "src-2",
+   "citation_supports_claim": true,
+   "evidence": "significantly higher in the area with fish cage farming"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "'highest' concentrations is a slight overstatement of 'significant'.",
+ "citation_indexes_not_supporting": []
+}

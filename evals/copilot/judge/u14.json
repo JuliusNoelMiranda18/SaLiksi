@@ -1,0 +1,20 @@
+{
+ "id": "u14",
+ "claims": [
+  {
+   "text": "First invasive species were jaguar fish, pangasius, black-chinned tilapia, starting 2009",
+   "supported": false,
+   "cited_source": "src-1",
+   "citation_supports_claim": false,
+   "evidence": "abstract: presence 'amplified in 2009' - not first introduction"
+  }
+ ],
+ "category_pass": false,
+ "grounded": false,
+ "failure_type": "no_refusal",
+ "notes": "Answered an unanswerable question by reframing 'amplified' as 'first introduced'.",
+ "citation_indexes_not_supporting": [
+  0,
+  1
+ ]
+}

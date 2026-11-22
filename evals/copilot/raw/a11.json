@@ -1,0 +1,12 @@
+{
+ "run_id": "a11",
+ "id": "a11",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "What factor was responsible for slow nutrient transport in Taal Lake?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.87,
+ "response": "Wind stress was responsible for the slow nutrient transport in Taal Lake (Hilario & Perez, 2013).",
+ "attempts": 1
+}

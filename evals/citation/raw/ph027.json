@@ -1,0 +1,12 @@
+{
+ "run_id": "ph027",
+ "input": {
+  "doi": "10.1073/pnas.0403720101"
+ },
+ "status": 200,
+ "latency_s": 2.42,
+ "apa": "Peng, S., Huang, J., Sheehy, J. E., Laza, R. C., Visperas, R. M., Zhong, X., Centeno, G. S., Khush, G. S., & Cassman, K. G. (2004). Rice yields decline with higher night temperature from global warming. Proceedings of the National Academy of Sciences, 101(27), 9971–9975. https://doi.org/10.1073/pnas.0403720101",
+ "mla": "Peng, Shaobing, Jianliang Huang, John E. Sheehy, et al. \"Rice yields decline with higher night temperature from global warming.\" Proceedings of the National Academy of Sciences, vol. 101, no. 27, 2004, pp. 9971–9975. https://doi.org/10.1073/pnas.0403720101",
+ "chicago": "Peng, Shaobing, Jianliang Huang, John E. Sheehy, Rebecca C. Laza, Romeo M. Visperas, Xuhua Zhong, Grace S. Centeno, Gurdev S. Khush, and Kenneth G. Cassman. 2004. \"Rice yields decline with higher night temperature from global warming.\" Proceedings of the National Academy of Sciences 101 (27): 9971–9975. https://doi.org/10.1073/pnas.0403720101",
+ "attempts": 1
+}

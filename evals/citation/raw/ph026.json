@@ -1,0 +1,12 @@
+{
+ "run_id": "ph026",
+ "input": {
+  "doi": "10.1016/s0140-6736(16)30506-2"
+ },
+ "status": 200,
+ "latency_s": 4.52,
+ "apa": "O'Donnell, M. J., Chin, S. L., Rangarajan, S., Xavier, D., Liu, L., Zhang, H., Rao-Melacini, P., Zhang, X., Pais, P., Agapay, S., Lopez-Jaramillo, P., Damasceno, A., Langhorne, P., McQueen, M. J., Rosengren, A., Dehghan, M., Hankey, G. J., Dans, A. L., Elsayed, A., Avezum, A., Mondo, C., Diener, H.-C., Ryglewicz, D., Czlonkowska, A., Pogosova, N., Weimar, C., Iqbal, R., Diaz, R., Yusoff, K., Yusufali, A., et al. (2016). Global and regional effects of potentially modifiable risk factors associated with acute stroke in 32 countries (INTERSTROKE): A case-control study. The Lancet, 388(10046), 761–775. https://doi.org/10.1016/s0140-6736(16)30506-2",
+ "mla": "O'Donnell, Martin J., et al. “Global and Regional Effects of Potentially Modifiable Risk Factors Associated with Acute Stroke in 32 Countries (INTERSTROKE): A Case-Control Study.” The Lancet, vol. 388, no. 10046, 2016, pp. 761–775. https://doi.org/10.1016/s0140-6736(16)30506-2.",
+ "chicago": "O'Donnell, Martin J., Siu Lim Chin, Sumathy Rangarajan, Denis Xavier, Lisheng Liu, Hongye Zhang, Purnima Rao-Melacini, Xiaohe Zhang, Prem Pais, Steven Agapay, Patricio Lopez-Jaramillo, Albertino Damasceno, Peter Langhorne, Matthew J. McQueen, Annika Rosengren, Mahshid Dehghan, Graeme J. Hankey, Antonio L. Dans, Ahmed Elsayed, Alvaro Avezum, Charles Mondo, Hans-Christoph Diener, Danuta Ryglewicz, Anna Czlonkowska, Nana Pogosova, Christian Weimar, Romaina Iqbal, Rafael Diaz, Khalid Yusoff, Afzalhussein Yusufali, et al. “Global and Regional Effects of Potentially Modifiable Risk Factors Associated with Acute Stroke in 32 Countries (INTERSTROKE): A Case-Control Study.” The Lancet 388, no. 10046 (2016): 761–775. https://doi.org/10.1016/s0140-6736(16)30506-2.",
+ "attempts": 3
+}

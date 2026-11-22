@@ -1,0 +1,12 @@
+{
+ "run_id": "ed020",
+ "input": {
+  "doi": "10.1016/j.geoderma.2024.116840"
+ },
+ "status": 200,
+ "latency_s": 2.07,
+ "apa": "Zhang, M.-W., Sun, X.-L., Wang, X.-Q., Yang, H.-L., Wang, H.-L., Huang, Z.-G., Jiang, D.-H., & Wu, Y.-J. (2024). The roles of sampling depth, lateral profile density and vertical sampling density in 3D digital soil mapping of soil organic carbon. Geoderma, 445, 116840. https://doi.org/10.1016/j.geoderma.2024.116840",
+ "mla": "Zhang, Mei-Wei, et al. “The Roles of Sampling Depth, Lateral Profile Density and Vertical Sampling Density in 3D Digital Soil Mapping of Soil Organic Carbon.” Geoderma, vol. 445, 2024, p. 116840, https://doi.org/10.1016/j.geoderma.2024.116840.",
+ "chicago": "Zhang, Mei-Wei, Xiao-Lin Sun, Xiao-Qing Wang, Hua-Lei Yang, Hui-Li Wang, Zhi-Gang Huang, Dai-Hua Jiang, and Yun-Jin Wu. “The Roles of Sampling Depth, Lateral Profile Density and Vertical Sampling Density in 3D Digital Soil Mapping of Soil Organic Carbon.” Geoderma 445 (2024): 116840. https://doi.org/10.1016/j.geoderma.2024.116840.",
+ "attempts": 1
+}

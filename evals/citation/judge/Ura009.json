@@ -1,0 +1,49 @@
+{
+ "id": "Ura009",
+ "truth_id": "ra009",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "initials_wrong",
+   "missing_volume",
+   "missing_issue",
+   "missing_pages",
+   "wrong_punctuation:ampersand",
+   "wrong_cap_rule:apa_title_case",
+   "wrong_punctuation:vol_issue"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "missing_volume",
+   "missing_issue",
+   "missing_pages",
+   "no_doi",
+   "wrong_punctuation:vol",
+   "wrong_punctuation:no",
+   "wrong_punctuation:pp",
+   "wrong_name_order"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "missing_volume",
+   "missing_issue",
+   "missing_pages",
+   "wrong_name_order"
+  ],
+  "variant": "author-date",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

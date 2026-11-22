@@ -1,0 +1,33 @@
+{
+ "id": "ra048",
+ "truth_id": "ra048",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": true,
+  "errors": [
+   "missing_pages"
+  ],
+  "variant": null,
+  "note": "Arabic names romanized; accepted as transliteration."
+ },
+ "mla": {
+  "fields_ok": false,
+  "style_ok": true,
+  "errors": [
+   "missing_pages"
+  ],
+  "variant": null,
+  "note": "Arabic title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct. Arabic names romanized; accepted as transliteration."
+ },
+ "chicago": {
+  "fields_ok": false,
+  "style_ok": true,
+  "errors": [
+   "missing_pages"
+  ],
+  "variant": "notes-bibliography",
+  "note": "Arabic title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct. Arabic names romanized; accepted as transliteration."
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

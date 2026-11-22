@@ -1,0 +1,12 @@
+{
+ "run_id": "ed003",
+ "input": {
+  "doi": "10.1016/j.ijcard.2016.03.215"
+ },
+ "status": 200,
+ "latency_s": 3.36,
+ "apa": "Danek, B. A., Karatasakis, A., Karmpaliotis, D., Alaswad, K., Yeh, R. W., Jaffer, F. A., Patel, M., Bahadorani, J., Lombardi, W. L., Wyman, M. R., Grantham, J. A., Doing, A., Moses, J. W., Kirtane, A., Parikh, M., Ali, Z. A., Kalra, S., Kandzari, D. E., Lembo, N., Garcia, S., Rangan, B. V., Thompson, C. A., Banerjee, S., & Brilakis, E. S. (2016). Use of antegrade dissection re-entry in coronary chronic total occlusion percutaneous coronary intervention in a contemporary multicenter registry. International Journal of Cardiology, 214, 428–437. https://doi.org/10.1016/j.ijcard.2016.03.215",
+ "mla": "Danek, Barbara Anna, et al. \"Use of antegrade dissection re-entry in coronary chronic total occlusion percutaneous coronary intervention in a contemporary multicenter registry.\" International Journal of Cardiology, vol. 214, 2016, pp. 428–437. https://doi.org/10.1016/j.ijcard.2016.03.215",
+ "chicago": "Danek, Barbara Anna, Aris Karatasakis, Dimitri Karmpaliotis, Khaldoon Alaswad, Robert W. Yeh, Farouc A. Jaffer, Mitul Patel, John Bahadorani, William L. Lombardi, Michael R. Wyman, J. Aaron Grantham, Anthony Doing, Jeffrey W. Moses, Ajay Kirtane, Manish Parikh, Ziad A. Ali, Sanjog Kalra, David E. Kandzari, Nicholas Lembo, Santiago Garcia, Bavana V. Rangan, Craig A. Thompson, Subhash Banerjee, and Emmanouil S. Brilakis. 2016. \"Use of antegrade dissection re-entry in coronary chronic total occlusion percutaneous coronary intervention in a contemporary multicenter registry.\" International Journal of Cardiology 214: 428–437. https://doi.org/10.1016/j.ijcard.2016.03.215",
+ "attempts": 1
+}

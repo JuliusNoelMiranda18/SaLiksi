@@ -1,0 +1,12 @@
+{
+ "run_id": "a26",
+ "id": "a26",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Rephrase this sentence to be more academic and add a citation.",
+ "documentContent": "Fish cages make the water in Taal Lake dirty.",
+ "status": 200,
+ "latency_s": 1.49,
+ "response": "<DOCUMENT_EDIT>\n<REPLACE_TEXT>Fish cages make the water in Taal Lake dirty.</REPLACE_TEXT>\n<NEW_TEXT>Intensive fish cage aquaculture has been associated with deteriorated water quality in Taal Lake, as evidenced by elevated nutrient concentrations and reduced dissolved oxygen levels <INLINE_CITATION>(Querijero & Mercurio, 2016)</INLINE_CITATION>.</NEW_TEXT>\n</DOCUMENT_EDIT>",
+ "attempts": 1
+}

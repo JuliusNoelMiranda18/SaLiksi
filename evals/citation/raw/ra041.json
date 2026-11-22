@@ -1,0 +1,12 @@
+{
+ "run_id": "ra041",
+ "input": {
+  "doi": "10.24241/notesint.2024/311/en"
+ },
+ "status": 200,
+ "latency_s": 3.02,
+ "apa": "Slocum, J. (2024). Immigration in the 2024 US presidential election campaign: policy stalemate, disinformation, and a call for mass deportation. Notes Internacionals CIDOB. https://doi.org/10.24241/notesint.2024/311/en",
+ "mla": "Slocum, John. \"Immigration in the 2024 US presidential election campaign: policy stalemate, disinformation, and a call for mass deportation.\" Notes Internacionals CIDOB, 2024, https://doi.org/10.24241/notesint.2024/311/en",
+ "chicago": "Slocum, John. 2024. \"Immigration in the 2024 US presidential election campaign: policy stalemate, disinformation, and a call for mass deportation.\" Notes Internacionals CIDOB. https://doi.org/10.24241/notesint.2024/311/en",
+ "attempts": 1
+}

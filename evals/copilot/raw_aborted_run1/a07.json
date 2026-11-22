@@ -1,0 +1,13 @@
+{
+ "run_id": "a07",
+ "id": "a07",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Which phytoplankton genus was most dominant in Taal Lake and what does that indicate?",
+ "documentContent": "",
+ "status": 500,
+ "latency_s": 0.6,
+ "response": null,
+ "error": "{\"error\":\"Failed to communicate with AI\"}",
+ "attempts": 4
+}

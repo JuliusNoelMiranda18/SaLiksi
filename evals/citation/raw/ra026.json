@@ -1,0 +1,12 @@
+{
+ "run_id": "ra026",
+ "input": {
+  "doi": "10.1080/01900692.2020.1759628"
+ },
+ "status": 200,
+ "latency_s": 2.05,
+ "apa": "Panao, R. A. L. (2020). Beyond Flypaper: Unconditional Transfers and Local Revenue Generation in the Philippines, 1992–2016. International Journal of Public Administration, 44(15), 1341-1354. https://doi.org/10.1080/01900692.2020.1759628",
+ "mla": "Panao, Rogelio Alicor L. \"Beyond Flypaper: Unconditional Transfers and Local Revenue Generation in the Philippines, 1992–2016.\" International Journal of Public Administration, vol. 44, no. 15, 2020, pp. 1341-1354. https://doi.org/10.1080/01900692.2020.1759628. Accessed 2025.",
+ "chicago": "Panao, Rogelio Alicor L. 2020. \"Beyond Flypaper: Unconditional Transfers and Local Revenue Generation in the Philippines, 1992–2016.\" International Journal of Public Administration 44 (15): 1341-1354. https://doi.org/10.1080/01900692.2020.1759628.",
+ "attempts": 1
+}

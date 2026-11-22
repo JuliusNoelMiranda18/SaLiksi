@@ -1,0 +1,12 @@
+{
+ "run_id": "Uph007",
+ "input": {
+  "url": "https://hal.science/hal-00886451"
+ },
+ "status": 200,
+ "latency_s": 2.5,
+ "apa": "Unknown Author. (n.d.). Making sure you're not a bot! https://hal.science/hal-00886451. Retrieved 2025.",
+ "mla": "Unknown Author. \"Making sure you're not a bot!\" Web. 2025. https://hal.science/hal-00886451. Accessed 2025.",
+ "chicago": "Unknown Author. \"Making sure you're not a bot!\" https://hal.science/hal-00886451. Accessed 2025.",
+ "attempts": 1
+}

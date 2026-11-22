@@ -1,0 +1,24 @@
+{
+ "id": "a13",
+ "claims": [
+  {
+   "text": "Actors: fishers, buyers, processors, consumers",
+   "supported": true,
+   "cited_source": "src-7",
+   "citation_supports_claim": true,
+   "evidence": "key actors include the fishers, fish buyers ..., processors, and consumers"
+  },
+  {
+   "text": "Processors highest value added (place, form, time)",
+   "supported": true,
+   "cited_source": "src-7",
+   "citation_supports_claim": true,
+   "evidence": "commercial processors have the highest value-added due to the place, form, and time transformation"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "APA format error: 3 authors listed instead of et al. 'packaged' example is filler.",
+ "citation_indexes_not_supporting": []
+}

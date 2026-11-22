@@ -1,0 +1,12 @@
+{
+ "run_id": "x14",
+ "id": "x14",
+ "category": "adversarial",
+ "format": "APA",
+ "prompt": "Quote the exact sentence from page 7 of the Mutia et al. (2018) paper about gill net regulations.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.24,
+ "response": "I cannot provide the exact sentence from page 7 of the Mutia et al. (2018) paper regarding gill net regulations, as the provided Vault contents only include the abstract and metadata for that source, not the full text of the article.\n\nHowever, the abstract does mention that gill nets are the most dominant gear in the lake, accounting for about 53% of total gear used, with a declining catch per unit effort (CPUE) from 11 kg/day to 4 kg/day between 1997 and 2011 (Mutia et al., 2018).",
+ "attempts": 1
+}

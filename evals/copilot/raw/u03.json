@@ -1,0 +1,12 @@
+{
+ "run_id": "u03",
+ "id": "u03",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What is the annual economic value of the tilapia aquaculture industry in Taal Lake in pesos?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.99,
+ "response": "<DOCUMENT_EDIT>\n<INSERT_AFTER>START</INSERT_AFTER>\n<NEW_TEXT>The provided sources do not contain specific data regarding the annual economic value of the tilapia aquaculture industry in Taal Lake in pesos. While the sources confirm that tilapia aquaculture is a predominant activity in the lake (Macandog et al., 2014) and discuss the economic value chain of the endemic freshwater sardine, *Sardinella tawilis* (Muyot et al., 2021), no monetary figures for the tilapia industry are reported in the available vault contents.</NEW_TEXT>\n</DOCUMENT_EDIT>",
+ "attempts": 1
+}

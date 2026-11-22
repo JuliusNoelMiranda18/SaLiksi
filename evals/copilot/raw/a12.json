@@ -1,0 +1,12 @@
+{
+ "run_id": "a12",
+ "id": "a12",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "What did the stomach contents of Sardinella tawilis consist of in the zooplankton study?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.53,
+ "response": "The stomach‑content analysis showed that Sardinella tawilis fed primarily on copepods, which made up about 90 % of the material, while the remaining 10 % consisted of cladocerans and rotifers.<INLINE_CITATION>(Papa & Pagulayan, 2007)</INLINE_CITATION>",
+ "attempts": 1
+}

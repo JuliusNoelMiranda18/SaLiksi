@@ -1,0 +1,35 @@
+{
+ "id": "x13",
+ "claims": [
+  {
+   "text": "Only freshwater sardine, supports marginal fisherfolk (Mutia et al., 2021)",
+   "supported": true,
+   "cited_source": "src-7",
+   "citation_supports_claim": false,
+   "evidence": "real finding of src-7, but cited as 'Mutia et al., 2021' - Mutia is 3rd author"
+  },
+  {
+   "text": "Cage nutrients potentially affect tawilis habitat",
+   "supported": false,
+   "cited_source": "src-2",
+   "citation_supports_claim": false,
+   "evidence": ""
+  },
+  {
+   "text": "Fishkill drivers threaten tawilis",
+   "supported": false,
+   "cited_source": "src-4",
+   "citation_supports_claim": false,
+   "evidence": ""
+  }
+ ],
+ "category_pass": false,
+ "grounded": false,
+ "failure_type": "fabricated_citation",
+ "notes": "Forced to reach 5 authors; produced a misattributed citation and unsupported links to tawilis.",
+ "citation_indexes_not_supporting": [
+  0,
+  3,
+  4
+ ]
+}

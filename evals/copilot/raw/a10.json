@@ -1,0 +1,12 @@
+{
+ "run_id": "a10",
+ "id": "a10",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Which tributary river had significant phosphorus and nitrogen concentrations entering Taal Lake?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.87,
+ "response": "The Laurel River had significant concentrations of phosphorus and nitrogen entering Taal Lake (Hilario & Perez, 2013).",
+ "attempts": 3
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "Ura024",
+ "input": {
+  "url": "https://hal.science/hal-04469589"
+ },
+ "status": 200,
+ "latency_s": 1.63,
+ "apa": "Unknown Author. (n.d.). Making sure you're not a bot! Retrieved 2025, from https://hal.science/hal-04469589",
+ "mla": "Unknown Author. “Making sure you're not a bot!” n.d., https://hal.science/hal-04469589. Accessed 2025.",
+ "chicago": "Unknown Author. “Making sure you're not a bot!” n.d. https://hal.science/hal-04469589. Accessed 2025.",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "Uph026",
+ "input": {
+  "url": "https://repositorio.udes.edu.co/handle/001/3452"
+ },
+ "status": 200,
+ "latency_s": 3.68,
+ "apa": "Unknown Author. (n.d.). Bot Detection. https://repositorio.udes.edu.co/handle/001/3452",
+ "mla": "\"Bot Detection.\" Repositorio, n.d., https://repositorio.udes.edu.co/handle/001/3452",
+ "chicago": "Unknown Author. \"Bot Detection.\" n.d. https://repositorio.udes.edu.co/handle/001/3452",
+ "attempts": 1
+}

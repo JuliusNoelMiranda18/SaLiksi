@@ -1,0 +1,12 @@
+{
+ "run_id": "ed013",
+ "input": {
+  "doi": "10.31423/oikos.v30i2.8215"
+ },
+ "status": 200,
+ "latency_s": 2.65,
+ "apa": "Silva, A. O., Farias, R. C. P., & Teixeira, D. P. (2019). O envelhecimento na percepção de sujeitos quinquagenários. Oikos: Família e Sociedade em Debate, 30(2), 284–303. https://doi.org/10.31423/oikos.v30i2.8215",
+ "mla": "Silva, Alcione de Oliveira, Rita de Cássia Pereira Farias, and Débora Pires Teixeira. “O envelhecimento na percepção de sujeitos quinquagenários.” Oikos: Família e Sociedade em Debate, vol. 30, no. 2, 2019, pp. 284-303. doi:10.31423/oikos.v30i2.8215",
+ "chicago": "Silva, Alcione de Oliveira, Rita de Cássia Pereira Farias, and Débora Pires Teixeira. 2019. “O envelhecimento na percepção de sujeitos quinquagenários.” Oikos: Família e Sociedade em Debate 30, no. 2 (2019): 284–303. https://doi.org/10.31423/oikos.v30i2.8215",
+ "attempts": 1
+}

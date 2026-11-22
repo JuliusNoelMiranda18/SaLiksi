@@ -1,0 +1,12 @@
+{
+ "run_id": "ed018",
+ "input": {
+  "doi": "10.1016/j.optlaseng.2025.109576"
+ },
+ "status": 200,
+ "latency_s": 2.72,
+ "apa": "Zeng, F., Zhai, W., Jing, Y., & Zhang, R. (2026). Multi-frame sequence-based multi-scale registration for dynamic fluid images. Optics and Lasers in Engineering, 199, 109576. https://doi.org/10.1016/j.optlaseng.2025.109576",
+ "mla": "Zeng, Fujiang, et al. \\\"Multi-frame sequence-based multi-scale registration for dynamic fluid images.\\\" Optics and Lasers in Engineering, vol. 199, 2026, p. 109576. https://doi.org/10.1016/j.optlaseng.2025.109576. Accessed 2025.",
+ "chicago": "Zeng, Fujiang, Weilin Zhai, Yaman Jing, and Rongzhu Zhang. 2026. \\\"Multi-frame sequence-based multi-scale registration for dynamic fluid images.\\\" Optics and Lasers in Engineering 199:109576. https://doi.org/10.1016/j.optlaseng.2025.109576.",
+ "attempts": 1
+}

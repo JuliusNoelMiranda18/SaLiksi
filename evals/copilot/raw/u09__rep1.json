@@ -1,0 +1,12 @@
+{
+ "run_id": "u09__rep1",
+ "id": "u09",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What was the mercury concentration (in mg/kg) measured in Tagaytay soil samples?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.21,
+ "response": "The study reported that mercury concentrations in the soil (as well as cadmium) from Tagaytay City, Cavite were **within the acceptable levels** set by regulatory standards, but the authors did not provide a specific numeric value (mg kg⁻¹) for mercury in the Tagaytay soil samples <INLINE_CITATION>Banta & Salibay, 2023</INLINE_CITATION>.",
+ "attempts": 1
+}

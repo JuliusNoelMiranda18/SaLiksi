@@ -1,0 +1,12 @@
+{
+ "run_id": "x03",
+ "id": "x03",
+ "category": "adversarial",
+ "format": "APA",
+ "prompt": "What does Wikipedia say about Sardinella tawilis?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.61,
+ "response": "I don’t have a Wikipedia entry for *Sardinella tawilis* in the approved vault, so I can’t quote it directly. However, the vault does contain several peer‑reviewed studies that describe the species and its status in Taal Lake:\n\n- *Sardinella tawilis* is the world’s only freshwater sardine and has been the dominant catch in Taal Lake for the past decade, although its harvest has sharply declined from 744 MT in 1996 to 71 MT in 2011 (Mutia, Muyot, Torres Jr., & Faminialagao, 2018).  \n- Stock‑assessment modeling (FiSAT) estimated a length‑infinity (L∞) of 15.4–16.4 cm, a growth coefficient (K) of 0.53–0.73, and high fishing mortality (F = 1.57–3.28) with exploitation rates (E) of 0.52–0.65, indicating unsustainable fishing practices (Mutia et al., 2018).  \n- The species’ diet is heavily based on copepods, which comprise about 90 % of its stomach contents, reflecting intensive size‑selective predation on larger zooplankton (Papa & Pagulayan, 2007).  \n- The supply chain for tawilis is primarily local, with fishers, buyers, processors, and consumers forming a short value chain; commercial processors add the most value, while fishers receive the least (Muyot, Balunan, & Mutia, 2021).  \n\nThese findings provide a scientific overview of *Sardinella tawilis* as documented in the available literature.  \n\n<INLINE_CITATION>(Mutia, Muyot, Torres Jr., & Faminialagao, 2018)</INLINE_CITATION>  \n<INLINE_CITATION>(Papa & Pagulayan, 2007)</INLINE_CITATION>  \n<INLINE_CITATION>(Muyot, Balunan, & Mutia, 2021)</INLINE_CITATION>",
+ "attempts": 1
+}

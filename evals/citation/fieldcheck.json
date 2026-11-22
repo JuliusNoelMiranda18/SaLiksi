@@ -1,0 +1,9378 @@
+{
+ "Ued001": {
+  "run_id": "Ued001",
+  "truth_id": "ed001",
+  "status": 200,
+  "latency_s": 4.52,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_punctuation:vol_issue",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "invented_author",
+    "invented_year"
+   ],
+   "fabricated": [
+    "author:Unknown Author",
+    "year:2025"
+   ],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "et_al_rule:chicago_10plus",
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Ued003": {
+  "run_id": "Ued003",
+  "truth_id": "ed003",
+  "status": 200,
+  "latency_s": 4.76,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": null,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_volume",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": null,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_volume",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:vol",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": false,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": null,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "wrong_year",
+    "missing_volume",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:title_quotes"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "Ued016": {
+  "run_id": "Ued016",
+  "truth_id": "ed016",
+  "status": 200,
+  "latency_s": 3.16,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": false,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "title_altered",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:vol_issue"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": false,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "title_altered",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": false,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "title_altered",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "Uph002": {
+  "run_id": "Uph002",
+  "truth_id": "ph002",
+  "status": 200,
+  "latency_s": 4.13,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_punctuation:ampersand",
+    "wrong_punctuation:vol_issue",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "invented_author",
+    "invented_year"
+   ],
+   "fabricated": [
+    "author:Unknown Author",
+    "year:2025"
+   ],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Uph007": {
+  "run_id": "Uph007",
+  "truth_id": "ph007",
+  "status": 200,
+  "latency_s": 2.5,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_punctuation:ampersand",
+    "wrong_punctuation:vol_issue",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "invented_author",
+    "invented_year"
+   ],
+   "fabricated": [
+    "author:Unknown Author",
+    "year:2025"
+   ],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Uph014": {
+  "run_id": "Uph014",
+  "truth_id": "ph014",
+  "status": 200,
+  "latency_s": 2.04,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_punctuation:vol_issue"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "et_al_rule:chicago_10plus",
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Uph016": {
+  "run_id": "Uph016",
+  "truth_id": "ph016",
+  "status": 200,
+  "latency_s": 6.18,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_volume",
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_punctuation:vol_issue"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_volume",
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_volume",
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "Uph017": {
+  "run_id": "Uph017",
+  "truth_id": "ph017",
+  "status": 200,
+  "latency_s": 6.03,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_punctuation:vol_issue",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "invented_author",
+    "invented_year"
+   ],
+   "fabricated": [
+    "author:Unknown Author",
+    "year:2025"
+   ],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:chicago_10plus",
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Uph021": {
+  "run_id": "Uph021",
+  "truth_id": "ph021",
+  "status": 200,
+  "latency_s": 1.84,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_punctuation:vol_issue"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "et_al_rule:chicago_10plus",
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Uph026": {
+  "run_id": "Uph026",
+  "truth_id": "ph026",
+  "status": 200,
+  "latency_s": 3.68,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_punctuation:vol_issue"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:chicago_10plus"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Uph027": {
+  "run_id": "Uph027",
+  "truth_id": "ph027",
+  "status": 200,
+  "latency_s": 2.33,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_punctuation:ampersand",
+    "wrong_punctuation:vol_issue",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Ura002": {
+  "run_id": "Ura002",
+  "truth_id": "ra002",
+  "status": 200,
+  "latency_s": 4.5,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": false,
+    "journal": false,
+    "volume": null,
+    "issue": null,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_punctuation:ampersand",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": false,
+    "journal": false,
+    "volume": null,
+    "issue": null,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_punctuation:pp",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": false,
+    "journal": false,
+    "volume": null,
+    "issue": null,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Ura003": {
+  "run_id": "Ura003",
+  "truth_id": "ra003",
+  "status": 200,
+  "latency_s": 2.05,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "Ura009": {
+  "run_id": "Ura009",
+  "truth_id": "ra009",
+  "status": 200,
+  "latency_s": 5.16,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "initials_wrong",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:ampersand",
+    "wrong_cap_rule:apa_title_case",
+    "wrong_punctuation:vol_issue"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp",
+    "wrong_name_order"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_volume",
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_name_order"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "Ura010": {
+  "run_id": "Ura010",
+  "truth_id": "ra010",
+  "status": 200,
+  "latency_s": 2.28,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_punctuation:ampersand",
+    "wrong_punctuation:vol_issue",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author",
+    "invented_year",
+    "invented_number"
+   ],
+   "fabricated": [
+    "author:Unknown Author",
+    "year:2025",
+    "vol_issue_pages:26"
+   ],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_punctuation:title_quotes",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_punctuation:title_quotes",
+    "et_al_rule:chicago_10plus",
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Ura012": {
+  "run_id": "Ura012",
+  "truth_id": "ra012",
+  "status": 200,
+  "latency_s": 2.86,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_volume",
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:vol_issue"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_volume",
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_volume",
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "Ura018": {
+  "run_id": "Ura018",
+  "truth_id": "ra018",
+  "status": 200,
+  "latency_s": 2.87,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_punctuation:ampersand",
+    "wrong_punctuation:vol_issue",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Ura024": {
+  "run_id": "Ura024",
+  "truth_id": "ra024",
+  "status": 200,
+  "latency_s": 1.63,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_punctuation:ampersand",
+    "wrong_punctuation:vol_issue",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Ura036": {
+  "run_id": "Ura036",
+  "truth_id": "ra036",
+  "status": 200,
+  "latency_s": 1.65,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "wrong_punctuation:ampersand",
+    "wrong_punctuation:vol_issue",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": false,
+    "title": false,
+    "journal": false,
+    "volume": false,
+    "issue": false,
+    "pages": false,
+    "doi": false
+   },
+   "errors": [
+    "authors_wrong",
+    "wrong_year",
+    "title_altered",
+    "abbreviated_journal",
+    "missing_volume",
+    "missing_issue",
+    "missing_pages",
+    "no_doi",
+    "nd_fallback",
+    "invented_author"
+   ],
+   "fabricated": [
+    "author:Unknown Author"
+   ],
+   "style_flags": [
+    "invented_access_date"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "Ura043": {
+  "run_id": "Ura043",
+  "truth_id": "ra043",
+  "status": 200,
+  "latency_s": 1.77,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed001": {
+  "run_id": "ed001",
+  "truth_id": "ed001",
+  "status": 200,
+  "latency_s": 3.28,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_punctuation:vol_issue",
+    "wrong_cap_rule:apa_after_colon"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed002": {
+  "run_id": "ed002",
+  "truth_id": "ed002",
+  "status": 200,
+  "latency_s": 2.3,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:chicago_10plus"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed002__rep1": {
+  "run_id": "ed002__rep1",
+  "truth_id": "ed002",
+  "status": 200,
+  "latency_s": 4.69,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed002__rep2": {
+  "run_id": "ed002__rep2",
+  "truth_id": "ed002",
+  "status": 200,
+  "latency_s": 2.3,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:chicago_10plus"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed002__rep3": {
+  "run_id": "ed002__rep3",
+  "truth_id": "ed002",
+  "status": 200,
+  "latency_s": 1.8,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:chicago_10plus"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed003": {
+  "run_id": "ed003",
+  "truth_id": "ed003",
+  "status": 200,
+  "latency_s": 3.36,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "et_al_rule:chicago_10plus"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed004": {
+  "run_id": "ed004",
+  "truth_id": "ed004",
+  "status": 200,
+  "latency_s": 2.97,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed005": {
+  "run_id": "ed005",
+  "truth_id": "ed005",
+  "status": 200,
+  "latency_s": 3.62,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed006": {
+  "run_id": "ed006",
+  "truth_id": "ed006",
+  "status": 200,
+  "latency_s": 3.11,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case",
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "missing_article_number"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed007": {
+  "run_id": "ed007",
+  "truth_id": "ed007",
+  "status": 200,
+  "latency_s": 4.97,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed007__rep1": {
+  "run_id": "ed007__rep1",
+  "truth_id": "ed007",
+  "status": 200,
+  "latency_s": 2.77,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed007__rep2": {
+  "run_id": "ed007__rep2",
+  "truth_id": "ed007",
+  "status": 200,
+  "latency_s": 3.45,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed007__rep3": {
+  "run_id": "ed007__rep3",
+  "truth_id": "ed007",
+  "status": 200,
+  "latency_s": 1.86,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed008": {
+  "run_id": "ed008",
+  "truth_id": "ed008",
+  "status": 200,
+  "latency_s": 2.06,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:chicago_10plus"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed009": {
+  "run_id": "ed009",
+  "truth_id": "ed009",
+  "status": 200,
+  "latency_s": 3.23,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_name_order",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "wrong_name_order"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed010": {
+  "run_id": "ed010",
+  "truth_id": "ed010",
+  "status": 200,
+  "latency_s": 1.53,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed011": {
+  "run_id": "ed011",
+  "truth_id": "ed011",
+  "status": 200,
+  "latency_s": 3.02,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ed012": {
+  "run_id": "ed012",
+  "truth_id": "ed012",
+  "status": 200,
+  "latency_s": 1.83,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed013": {
+  "run_id": "ed013",
+  "truth_id": "ed013",
+  "status": 200,
+  "latency_s": 2.65,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed014": {
+  "run_id": "ed014",
+  "truth_id": "ed014",
+  "status": 200,
+  "latency_s": 3.51,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed015": {
+  "run_id": "ed015",
+  "truth_id": "ed015",
+  "status": 200,
+  "latency_s": 2.4,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed015__rep1": {
+  "run_id": "ed015__rep1",
+  "truth_id": "ed015",
+  "status": 200,
+  "latency_s": 2.0,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed015__rep2": {
+  "run_id": "ed015__rep2",
+  "truth_id": "ed015",
+  "status": 200,
+  "latency_s": 2.7,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ed015__rep3": {
+  "run_id": "ed015__rep3",
+  "truth_id": "ed015",
+  "status": 200,
+  "latency_s": 3.01,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ed016": {
+  "run_id": "ed016",
+  "truth_id": "ed016",
+  "status": 200,
+  "latency_s": 2.19,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed017": {
+  "run_id": "ed017",
+  "truth_id": "ed017",
+  "status": 200,
+  "latency_s": 1.48,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ed018": {
+  "run_id": "ed018",
+  "truth_id": "ed018",
+  "status": 200,
+  "latency_s": 2.72,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed019": {
+  "run_id": "ed019",
+  "truth_id": "ed019",
+  "status": 200,
+  "latency_s": 2.93,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ed020": {
+  "run_id": "ed020",
+  "truth_id": "ed020",
+  "status": 200,
+  "latency_s": 2.07,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph001": {
+  "run_id": "ph001",
+  "truth_id": "ph001",
+  "status": 200,
+  "latency_s": 2.65,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ph002": {
+  "run_id": "ph002",
+  "truth_id": "ph002",
+  "status": 200,
+  "latency_s": 3.36,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ph003": {
+  "run_id": "ph003",
+  "truth_id": "ph003",
+  "status": 200,
+  "latency_s": 3.11,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph004": {
+  "run_id": "ph004",
+  "truth_id": "ph004",
+  "status": 200,
+  "latency_s": 5.07,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_name_order"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph005": {
+  "run_id": "ph005",
+  "truth_id": "ph005",
+  "status": 200,
+  "latency_s": 2.55,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_punctuation:vol_issue"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph006": {
+  "run_id": "ph006",
+  "truth_id": "ph006",
+  "status": 200,
+  "latency_s": 3.06,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_name_order"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph007": {
+  "run_id": "ph007",
+  "truth_id": "ph007",
+  "status": 200,
+  "latency_s": 3.09,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_after_colon"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "wrong_name_order"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph008": {
+  "run_id": "ph008",
+  "truth_id": "ph008",
+  "status": 200,
+  "latency_s": 2.65,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_after_colon"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph009": {
+  "run_id": "ph009",
+  "truth_id": "ph009",
+  "status": 200,
+  "latency_s": 1.93,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph010": {
+  "run_id": "ph010",
+  "truth_id": "ph010",
+  "status": 200,
+  "latency_s": 3.68,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_cap_rule:apa_after_colon"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:chicago_10plus"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph011": {
+  "run_id": "ph011",
+  "truth_id": "ph011",
+  "status": 200,
+  "latency_s": 1.73,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph012": {
+  "run_id": "ph012",
+  "truth_id": "ph012",
+  "status": 200,
+  "latency_s": 1.2,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph013": {
+  "run_id": "ph013",
+  "truth_id": "ph013",
+  "status": 200,
+  "latency_s": 2.81,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ph014": {
+  "run_id": "ph014",
+  "truth_id": "ph014",
+  "status": 200,
+  "latency_s": 2.09,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:chicago_10plus"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph015": {
+  "run_id": "ph015",
+  "truth_id": "ph015",
+  "status": 200,
+  "latency_s": 3.09,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:chicago_10plus"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph016": {
+  "run_id": "ph016",
+  "truth_id": "ph016",
+  "status": 200,
+  "latency_s": 5.26,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "et_al_rule:chicago_10plus",
+    "wrong_name_order"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph017": {
+  "run_id": "ph017",
+  "truth_id": "ph017",
+  "status": 200,
+  "latency_s": 5.17,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "wrong_name_order"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph018": {
+  "run_id": "ph018",
+  "truth_id": "ph018",
+  "status": 200,
+  "latency_s": 1.64,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph019": {
+  "run_id": "ph019",
+  "truth_id": "ph019",
+  "status": 200,
+  "latency_s": 2.77,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "invented_access_date"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph020": {
+  "run_id": "ph020",
+  "truth_id": "ph020",
+  "status": 200,
+  "latency_s": 2.63,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph021": {
+  "run_id": "ph021",
+  "truth_id": "ph021",
+  "status": 200,
+  "latency_s": 4.86,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ph022": {
+  "run_id": "ph022",
+  "truth_id": "ph022",
+  "status": 200,
+  "latency_s": 3.46,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_cap_rule:apa_after_colon"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph023": {
+  "run_id": "ph023",
+  "truth_id": "ph023",
+  "status": 200,
+  "latency_s": 1.78,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph024": {
+  "run_id": "ph024",
+  "truth_id": "ph024",
+  "status": 200,
+  "latency_s": 1.35,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph025": {
+  "run_id": "ph025",
+  "truth_id": "ph025",
+  "status": 200,
+  "latency_s": 4.52,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_after_colon"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph026": {
+  "run_id": "ph026",
+  "truth_id": "ph026",
+  "status": 200,
+  "latency_s": 4.52,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ph027": {
+  "run_id": "ph027",
+  "truth_id": "ph027",
+  "status": 200,
+  "latency_s": 2.42,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph028": {
+  "run_id": "ph028",
+  "truth_id": "ph028",
+  "status": 200,
+  "latency_s": 3.33,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_cap_rule:apa_after_colon"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph029": {
+  "run_id": "ph029",
+  "truth_id": "ph029",
+  "status": 200,
+  "latency_s": 2.84,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:chicago_10plus"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ph030": {
+  "run_id": "ph030",
+  "truth_id": "ph030",
+  "status": 200,
+  "latency_s": 2.41,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "author_truncated"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:apa_21plus",
+    "wrong_punctuation:vol_issue"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra001": {
+  "run_id": "ra001",
+  "truth_id": "ra001",
+  "status": 200,
+  "latency_s": 3.09,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra002": {
+  "run_id": "ra002",
+  "truth_id": "ra002",
+  "status": 200,
+  "latency_s": 3.69,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "unclear"
+  }
+ },
+ "ra003": {
+  "run_id": "ra003",
+  "truth_id": "ra003",
+  "status": 200,
+  "latency_s": 3.43,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_after_colon",
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case",
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:title_quotes",
+    "missing_article_number"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra004": {
+  "run_id": "ra004",
+  "truth_id": "ra004",
+  "status": 200,
+  "latency_s": 4.33,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number",
+    "wrong_punctuation:empty_slot"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra004__rep1": {
+  "run_id": "ra004__rep1",
+  "truth_id": "ra004",
+  "status": 200,
+  "latency_s": 2.28,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case",
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra004__rep2": {
+  "run_id": "ra004__rep2",
+  "truth_id": "ra004",
+  "status": 200,
+  "latency_s": 1.74,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra004__rep3": {
+  "run_id": "ra004__rep3",
+  "truth_id": "ra004",
+  "status": 200,
+  "latency_s": 2.19,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_after_colon",
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra005": {
+  "run_id": "ra005",
+  "truth_id": "ra005",
+  "status": 200,
+  "latency_s": 4.35,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra006": {
+  "run_id": "ra006",
+  "truth_id": "ra006",
+  "status": 200,
+  "latency_s": 2.78,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra007": {
+  "run_id": "ra007",
+  "truth_id": "ra007",
+  "status": 200,
+  "latency_s": 2.31,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": false,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "title_altered"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": false,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "title_altered"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": false,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "title_altered"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra008": {
+  "run_id": "ra008",
+  "truth_id": "ra008",
+  "status": 200,
+  "latency_s": 2.93,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra009": {
+  "run_id": "ra009",
+  "truth_id": "ra009",
+  "status": 200,
+  "latency_s": 3.15,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra010": {
+  "run_id": "ra010",
+  "truth_id": "ra010",
+  "status": 200,
+  "latency_s": 2.01,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:chicago_10plus"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra011": {
+  "run_id": "ra011",
+  "truth_id": "ra011",
+  "status": 200,
+  "latency_s": 3.73,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra012": {
+  "run_id": "ra012",
+  "truth_id": "ra012",
+  "status": 200,
+  "latency_s": 2.14,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra013": {
+  "run_id": "ra013",
+  "truth_id": "ra013",
+  "status": 200,
+  "latency_s": 1.18,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra014": {
+  "run_id": "ra014",
+  "truth_id": "ra014",
+  "status": 200,
+  "latency_s": 2.08,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra014__rep1": {
+  "run_id": "ra014__rep1",
+  "truth_id": "ra014",
+  "status": 200,
+  "latency_s": 1.69,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra014__rep2": {
+  "run_id": "ra014__rep2",
+  "truth_id": "ra014",
+  "status": 200,
+  "latency_s": 1.31,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra014__rep3": {
+  "run_id": "ra014__rep3",
+  "truth_id": "ra014",
+  "status": 200,
+  "latency_s": 1.99,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:title_quotes"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra015": {
+  "run_id": "ra015",
+  "truth_id": "ra015",
+  "status": 200,
+  "latency_s": 3.48,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra015__rep1": {
+  "run_id": "ra015__rep1",
+  "truth_id": "ra015",
+  "status": 200,
+  "latency_s": 2.73,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra015__rep2": {
+  "run_id": "ra015__rep2",
+  "truth_id": "ra015",
+  "status": 200,
+  "latency_s": 1.77,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra015__rep3": {
+  "run_id": "ra015__rep3",
+  "truth_id": "ra015",
+  "status": 200,
+  "latency_s": 2.46,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra016": {
+  "run_id": "ra016",
+  "truth_id": "ra016",
+  "status": 200,
+  "latency_s": 3.32,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra017": {
+  "run_id": "ra017",
+  "truth_id": "ra017",
+  "status": 200,
+  "latency_s": 2.97,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra018": {
+  "run_id": "ra018",
+  "truth_id": "ra018",
+  "status": 200,
+  "latency_s": 1.89,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra018__rep1": {
+  "run_id": "ra018__rep1",
+  "truth_id": "ra018",
+  "status": 200,
+  "latency_s": 2.05,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra018__rep2": {
+  "run_id": "ra018__rep2",
+  "truth_id": "ra018",
+  "status": 200,
+  "latency_s": 2.32,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra018__rep3": {
+  "run_id": "ra018__rep3",
+  "truth_id": "ra018",
+  "status": 200,
+  "latency_s": 2.88,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra019": {
+  "run_id": "ra019",
+  "truth_id": "ra019",
+  "status": 200,
+  "latency_s": 2.71,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra020": {
+  "run_id": "ra020",
+  "truth_id": "ra020",
+  "status": 200,
+  "latency_s": 1.73,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra021": {
+  "run_id": "ra021",
+  "truth_id": "ra021",
+  "status": 200,
+  "latency_s": 2.63,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_name_order"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra022": {
+  "run_id": "ra022",
+  "truth_id": "ra022",
+  "status": 200,
+  "latency_s": 2.85,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_punctuation:vol",
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "invented_access_date"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra023": {
+  "run_id": "ra023",
+  "truth_id": "ra023",
+  "status": 200,
+  "latency_s": 3.51,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra024": {
+  "run_id": "ra024",
+  "truth_id": "ra024",
+  "status": 200,
+  "latency_s": 1.59,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra025": {
+  "run_id": "ra025",
+  "truth_id": "ra025",
+  "status": 200,
+  "latency_s": 2.4,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra026": {
+  "run_id": "ra026",
+  "truth_id": "ra026",
+  "status": 200,
+  "latency_s": 2.05,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra027": {
+  "run_id": "ra027",
+  "truth_id": "ra027",
+  "status": 200,
+  "latency_s": 1.88,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [
+    "initials_wrong"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra028": {
+  "run_id": "ra028",
+  "truth_id": "ra028",
+  "status": 200,
+  "latency_s": 2.47,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra029": {
+  "run_id": "ra029",
+  "truth_id": "ra029",
+  "status": 200,
+  "latency_s": 1.55,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:vol",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra029__rep1": {
+  "run_id": "ra029__rep1",
+  "truth_id": "ra029",
+  "status": 200,
+  "latency_s": 3.31,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra029__rep2": {
+  "run_id": "ra029__rep2",
+  "truth_id": "ra029",
+  "status": 200,
+  "latency_s": 2.99,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra029__rep3": {
+  "run_id": "ra029__rep3",
+  "truth_id": "ra029",
+  "status": 200,
+  "latency_s": 1.05,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra030": {
+  "run_id": "ra030",
+  "truth_id": "ra030",
+  "status": 200,
+  "latency_s": 1.71,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra031": {
+  "run_id": "ra031",
+  "truth_id": "ra031",
+  "status": 200,
+  "latency_s": 1.84,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra032": {
+  "run_id": "ra032",
+  "truth_id": "ra032",
+  "status": 200,
+  "latency_s": 1.68,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra032__rep1": {
+  "run_id": "ra032__rep1",
+  "truth_id": "ra032",
+  "status": 200,
+  "latency_s": 2.15,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra032__rep2": {
+  "run_id": "ra032__rep2",
+  "truth_id": "ra032",
+  "status": 200,
+  "latency_s": 1.96,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra032__rep3": {
+  "run_id": "ra032__rep3",
+  "truth_id": "ra032",
+  "status": 200,
+  "latency_s": 2.33,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "invented_access_date"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra033": {
+  "run_id": "ra033",
+  "truth_id": "ra033",
+  "status": 200,
+  "latency_s": 2.08,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra034": {
+  "run_id": "ra034",
+  "truth_id": "ra034",
+  "status": 200,
+  "latency_s": 2.36,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra035": {
+  "run_id": "ra035",
+  "truth_id": "ra035",
+  "status": 200,
+  "latency_s": 2.98,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra036": {
+  "run_id": "ra036",
+  "truth_id": "ra036",
+  "status": 200,
+  "latency_s": 1.78,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra036__rep1": {
+  "run_id": "ra036__rep1",
+  "truth_id": "ra036",
+  "status": 200,
+  "latency_s": 1.92,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra036__rep2": {
+  "run_id": "ra036__rep2",
+  "truth_id": "ra036",
+  "status": 200,
+  "latency_s": 1.92,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra036__rep3": {
+  "run_id": "ra036__rep3",
+  "truth_id": "ra036",
+  "status": 200,
+  "latency_s": 1.82,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra037": {
+  "run_id": "ra037",
+  "truth_id": "ra037",
+  "status": 200,
+  "latency_s": 2.47,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": null,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra038": {
+  "run_id": "ra038",
+  "truth_id": "ra038",
+  "status": 200,
+  "latency_s": 2.45,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra039": {
+  "run_id": "ra039",
+  "truth_id": "ra039",
+  "status": 200,
+  "latency_s": 3.05,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra040": {
+  "run_id": "ra040",
+  "truth_id": "ra040",
+  "status": 200,
+  "latency_s": 1.44,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra041": {
+  "run_id": "ra041",
+  "truth_id": "ra041",
+  "status": 200,
+  "latency_s": 3.02,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_after_colon"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_punctuation:no",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": false,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "missing_issue",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra042": {
+  "run_id": "ra042",
+  "truth_id": "ra042",
+  "status": 200,
+  "latency_s": 2.11,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra043": {
+  "run_id": "ra043",
+  "truth_id": "ra043",
+  "status": 200,
+  "latency_s": 1.98,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla",
+    "wrong_cap_rule:mla_sentence_case",
+    "missing_article_number"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": null,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "missing_article_number",
+    "wrong_punctuation:empty_slot"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra044": {
+  "run_id": "ra044",
+  "truth_id": "ra044",
+  "status": 200,
+  "latency_s": 2.45,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case",
+    "wrong_punctuation:vol",
+    "wrong_punctuation:pp"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra045": {
+  "run_id": "ra045",
+  "truth_id": "ra045",
+  "status": 200,
+  "latency_s": 1.73,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra046": {
+  "run_id": "ra046",
+  "truth_id": "ra046",
+  "status": 200,
+  "latency_s": 2.38,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_punctuation:title_quotes"
+   ],
+   "variant": "author-date"
+  }
+ },
+ "ra047": {
+  "run_id": "ra047",
+  "truth_id": "ra047",
+  "status": 200,
+  "latency_s": 3.03,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "et_al_rule:mla"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra048": {
+  "run_id": "ra048",
+  "truth_id": "ra048",
+  "status": 200,
+  "latency_s": 1.75,
+  "apa": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": false,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": null,
+    "issue": null,
+    "pages": false,
+    "doi": true
+   },
+   "errors": [
+    "authors_wrong",
+    "missing_pages"
+   ],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "notes-bibliography"
+  }
+ },
+ "ra049": {
+  "run_id": "ra049",
+  "truth_id": "ra049",
+  "status": 200,
+  "latency_s": 2.99,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:apa_title_case"
+   ],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": "author-date"
+  }
+ },
+ "ra050": {
+  "run_id": "ra050",
+  "truth_id": "ra050",
+  "status": 200,
+  "latency_s": 1.8,
+  "apa": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [],
+   "variant": null
+  },
+  "mla": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "variant": null
+  },
+  "chicago": {
+   "fields": {
+    "authors": true,
+    "year": true,
+    "title": true,
+    "journal": true,
+    "volume": true,
+    "issue": true,
+    "pages": true,
+    "doi": true
+   },
+   "errors": [],
+   "fabricated": [],
+   "style_flags": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "variant": "notes-bibliography"
+  }
+ }
+}

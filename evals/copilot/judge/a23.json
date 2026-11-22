@@ -1,0 +1,33 @@
+{
+ "id": "a23",
+ "claims": [
+  {
+   "text": "Microcystis dominance indicates eutrophication",
+   "supported": true,
+   "cited_source": "src-3",
+   "citation_supports_claim": true,
+   "evidence": "indicating the organic pollution and eutrophication"
+  },
+  {
+   "text": "Nitrate, phosphate, TDS elevated at cages",
+   "supported": true,
+   "cited_source": "src-2",
+   "citation_supports_claim": true,
+   "evidence": "significantly higher in the area with fish cage farming"
+  },
+  {
+   "text": "Eutrophic conditions linked to recurring fishkills",
+   "supported": false,
+   "cited_source": "src-4",
+   "citation_supports_claim": false,
+   "evidence": "src-4 does not mention eutrophication"
+  }
+ ],
+ "category_pass": false,
+ "grounded": false,
+ "failure_type": "unsupported_claim",
+ "notes": "",
+ "citation_indexes_not_supporting": [
+  2
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ra029__rep1",
+ "input": {
+  "doi": "10.1063/1.97288"
+ },
+ "status": 200,
+ "latency_s": 3.31,
+ "apa": "Williams, C. C., & Wickramasinghe, H. K. (1986). Scanning thermal profiler. Applied Physics Letters, 49(23), 1587-1589. https://doi.org/10.1063/1.97288",
+ "mla": "Williams, C. C., and H. K. Wickramasinghe. \"Scanning thermal profiler.\" Applied Physics Letters, vol. 49, no. 23, 1986, pp. 1587-1589. https://doi.org/10.1063/1.97288",
+ "chicago": "Williams, C. C., and H. K. Wickramasinghe. \"Scanning thermal profiler.\" Applied Physics Letters 49, no. 23 (1986): 1587-1589. https://doi.org/10.1063/1.97288",
+ "attempts": 2
+}

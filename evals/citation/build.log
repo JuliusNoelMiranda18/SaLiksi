@@ -1,0 +1,4 @@
+random 50
+philippine 30
+edge {'many_authors': 5, 'article_number': 5, 'accented_names': 4, 'subtitle': 3, 'markup_or_colon_title': 3} rounds 2
+dois 100 urls 16 dropped 8

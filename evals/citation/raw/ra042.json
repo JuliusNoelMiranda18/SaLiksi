@@ -1,0 +1,12 @@
+{
+ "run_id": "ra042",
+ "input": {
+  "doi": "10.1016/0005-2760(96)00098-7"
+ },
+ "status": 200,
+ "latency_s": 2.11,
+ "apa": "Umetani, N., Kanayama, Y., Okamura, M., Negoro, N., & Takeda, T. (1996). Lovastatin inhibits gene expression of type-I scavenger receptor in THP-1 human macrophages. Biochimica et Biophysica Acta (BBA) - Lipids and Lipid Metabolism, 1303(3), 199–206. https://doi.org/10.1016/0005-2760(96)00098-7",
+ "mla": "Umetani, Naohiro, et al. “Lovastatin Inhibits Gene Expression of Type-I Scavenger Receptor in THP-1 Human Macrophages.” Biochimica et Biophysica Acta (BBA) - Lipids and Lipid Metabolism, vol. 1303, no. 3, 1996, pp. 199–206. https://doi.org/10.1016/0005-2760(96)00098-7.",
+ "chicago": "Umetani, Naohiro, Yoshiharu Kanayama, Mikio Okamura, Nobuo Negoro, and Tadanao Takeda. “Lovastatin Inhibits Gene Expression of Type-I Scavenger Receptor in THP-1 Human Macrophages.” Biochimica et Biophysica Acta (BBA) - Lipids and Lipid Metabolism 1303, no. 3 (1996): 199–206. https://doi.org/10.1016/0005-2760(96)00098-7.",
+ "attempts": 2
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ra046",
+ "input": {
+  "doi": "10.5958/2322-0430.2018.00082.3"
+ },
+ "status": 200,
+ "latency_s": 2.38,
+ "apa": "Saini, R., & Kumar, R. (2018). Credit for Investment: Its Magnitude and Sources in Punjab Agriculture. Indian Journal of Economics and Development, 14(1a), 360. https://doi.org/10.5958/2322-0430.2018.00082.3",
+ "mla": "Saini, Rohit, and Raj Kumar. \\\"Credit for Investment: Its Magnitude and Sources in Punjab Agriculture.\\\" Indian Journal of Economics and Development, vol. 14, no. 1a, 2018, pp. 360. https://doi.org/10.5958/2322-0430.2018.00082.3",
+ "chicago": "Saini, Rohit, and Raj Kumar. 2018. 'Credit for Investment: Its Magnitude and Sources in Punjab Agriculture.' Indian Journal of Economics and Development 14, no. 1a (2018): 360. https://doi.org/10.5958/2322-0430.2018.00082.3",
+ "attempts": 1
+}

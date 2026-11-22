@@ -1,0 +1,12 @@
+{
+ "run_id": "ra006",
+ "input": {
+  "doi": "10.1002/zamm.19980781571"
+ },
+ "status": 200,
+ "latency_s": 2.78,
+ "apa": "Maier‑Paape, S., & Wanner, T. (1998). Spinodal decomposition in the linear Cahn‑Hilliard model. ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik, 78(S3), 1003–1004. https://doi.org/10.1002/zamm.19980781571",
+ "mla": "Maier‑Paape, Stanislaus, and Thomas Wanner. \"Spinodal Decomposition in the Linear Cahn‑Hilliard Model.\" ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik, vol. 78, no. S3, 1998, pp. 1003-1004. Wiley, https://doi.org/10.1002/zamm.19980781571",
+ "chicago": "Maier‑Paape, Stanislaus, and Thomas Wanner. \"Spinodal Decomposition in the Linear Cahn‑Hilliard Model.\" ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik 78, no. S3 (1998): 1003–1004. https://doi.org/10.1002/zamm.19980781571",
+ "attempts": 1
+}

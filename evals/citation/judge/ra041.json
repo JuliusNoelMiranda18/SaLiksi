@@ -1,0 +1,41 @@
+{
+ "id": "ra041",
+ "truth_id": "ra041",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "missing_issue",
+   "missing_pages",
+   "wrong_cap_rule:apa_after_colon"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "missing_issue",
+   "missing_pages",
+   "wrong_cap_rule:mla_sentence_case",
+   "wrong_punctuation:no",
+   "wrong_punctuation:pp"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "missing_issue",
+   "missing_pages",
+   "wrong_cap_rule:chicago_sentence_case"
+  ],
+  "variant": "author-date",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

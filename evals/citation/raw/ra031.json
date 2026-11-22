@@ -1,0 +1,12 @@
+{
+ "run_id": "ra031",
+ "input": {
+  "doi": "10.1080/09503110.2013.804321"
+ },
+ "status": 200,
+ "latency_s": 1.84,
+ "apa": "Amin, Y. (2013). The Islamic Scholarly Tradition: Studies in History, Law, and Thought in Honor of Professor Michael Allan Cook. Al-Masāq, 25(2), 275-278. https://doi.org/10.1080/09503110.2013.804321",
+ "mla": "Amin, Yasmin. \"The Islamic Scholarly Tradition: Studies in History, Law, and Thought in Honor of Professor Michael Allan Cook.\" Al-Masāq, vol. 25, no. 2, 2013, pp. 275-278. https://doi.org/10.1080/09503110.2013.804321",
+ "chicago": "Amin, Yasmin. 2013. \"The Islamic Scholarly Tradition: Studies in History, Law, and Thought in Honor of Professor Michael Allan Cook.\" Al-Masāq 25, no. 2 (2013): 275-278. https://doi.org/10.1080/09503110.2013.804321",
+ "attempts": 1
+}

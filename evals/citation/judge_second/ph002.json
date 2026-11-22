@@ -1,0 +1,20 @@
+{
+ "id": "ph002",
+ "apa": {
+  "correct": false,
+  "errors": [
+   "wrong_cap_rule"
+  ]
+ },
+ "mla": {
+  "correct": false,
+  "errors": [
+   "et_al_rule",
+   "invented_access_date"
+  ]
+ },
+ "chicago": {
+  "correct": true,
+  "errors": []
+ }
+}

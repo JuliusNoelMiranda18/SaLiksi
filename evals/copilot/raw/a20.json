@@ -1,0 +1,12 @@
+{
+ "run_id": "a20",
+ "id": "a20",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Compare the role of tawilis as a predator in the lake food web and as a fishery resource.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 2.89,
+ "response": "Tawilis (Sardinella tawilis) occupies two contrasting but interconnected positions in Lake Taal’s ecosystem.  \n\n**Predator role in the food web**  \n- The species is a planktivorous fish that feeds overwhelmingly on larger zooplankton, especially Copepoda, which make up about 90 % of its stomach contents (Papa & Pagulayan, 2007).  \n- This size‑selective predation reduces the abundance of larger zooplankton and shapes the overall zooplankton community structure, favoring smaller taxa such as nauplius larvae and rotifers (Papa & Pagulayan, 2007).  \n\n**Fishery resource role**  \n- Tawilis is the dominant catch in the lake’s commercial fishery, accounting for the majority of landings over the past decade (Mutia, Muyot, Torres Jr., & Faminialagao, 2018).  \n- Harvest levels have sharply declined—from 744 Mt in 1996 to 71 Mt in 2011—while fishing mortality (F) and exploitation rates (E) have risen to unsustainable levels (Mutia et al., 2018).  \n- The value chain analysis shows that tawilis is sold mainly in local markets, with fishers and small‑scale buyers receiving the lowest value‑addition, whereas processors capture the highest economic gains (Muyot, Balunan, & Mutia, 2021).  \n\n**Comparison**  \n- Ecologically, tawilis exerts top‑down control on zooplankton, influencing nutrient cycling and water quality through its predation pressure.  \n- Economically, the same species provides livelihoods for marginal fisherfolk but is currently overexploited, limiting its long‑term sustainability as a fishery resource. Balancing its predator function with responsible harvest management is therefore essential for maintaining both ecosystem health and community well‑being.  \n\n<INLINE_CITATION>(Papa & Pagulayan, 2007)</INLINE_CITATION> <INLINE_CITATION>(Mutia et al., 2018)</INLINE_CITATION> <INLINE_CITATION>(Muyot et al., 2021)</INLINE_CITATION>",
+ "attempts": 1
+}

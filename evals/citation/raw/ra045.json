@@ -1,0 +1,12 @@
+{
+ "run_id": "ra045",
+ "input": {
+  "doi": "10.1016/j.cccn.2003.08.006"
+ },
+ "status": 200,
+ "latency_s": 1.73,
+ "apa": "Kawano, M., Hozumi, Y., & Itoh, K. (2003). Tamoxifen might influence the affinity of LPL for heparin-sepharose. Clinica Chimica Acta, 337(1-2), 141–145. https://doi.org/10.1016/j.cccn.2003.08.006",
+ "mla": "Kawano, Mikihiko, Yasuo Hozumi, and Kouichi Itoh. “Tamoxifen Might Influence the Affinity of LPL for Heparin-Sepharose.” Clinica Chimica Acta, vol. 337, no. 1-2, 2003, pp. 141-145. https://doi.org/10.1016/j.cccn.2003.08.006.",
+ "chicago": "Kawano, Mikihiko, Yasuo Hozumi, and Kouichi Itoh. “Tamoxifen Might Influence the Affinity of LPL for Heparin-Sepharose.” Clinica Chimica Acta 337, no. 1-2 (2003): 141–145. https://doi.org/10.1016/j.cccn.2003.08.006.",
+ "attempts": 1
+}

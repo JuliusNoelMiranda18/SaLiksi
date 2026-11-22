@@ -1,0 +1,12 @@
+{
+ "run_id": "a19",
+ "id": "a19",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "How do dissolved oxygen problems connect to fishkills in Taal Lake according to my sources?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.39,
+ "response": "Dissolved oxygen (DO) depletion is a key driver of fishkill events in Taal Lake.  In the aquaculture‑intensive area, DO levels fell below the critical threshold of 4 ppm during the dry season (January–February), a level that is lethal for most aquatic organisms (Querijero & Mercurio, 2016).  The community’s own observations confirm that low DO, often resulting from eutrophication and high organic loading, is a primary cause of fishkills (Macandog et al., 2014).  Improper aquaculture practices—such as high stocking densities, excessive feeding, and inadequate waste management—contribute to oxygen depletion by increasing respiration and promoting algal blooms that consume oxygen during decomposition (Macandog et al., 2014).  Thus, when DO drops below critical levels, fish are unable to respire, leading to mass mortality events.",
+ "attempts": 1
+}

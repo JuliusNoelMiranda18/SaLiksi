@@ -1,0 +1,12 @@
+{
+ "run_id": "ph023",
+ "input": {
+  "doi": "10.1108/01443570510613956"
+ },
+ "status": 200,
+ "latency_s": 1.78,
+ "apa": "Rao, P., & Holt, D. (2005). Do green supply chains lead to competitiveness and economic performance? International Journal of Operations & Production Management, 25(9), 898–916. https://doi.org/10.1108/01443570510613956",
+ "mla": "Rao, Purba, and Diane Holt. “Do Green Supply Chains Lead to Competitiveness and Economic Performance?” International Journal of Operations & Production Management, vol. 25, no. 9, 2005, pp. 898–916. https://doi.org/10.1108/01443570510613956.",
+ "chicago": "Rao, Purba, and Diane Holt. “Do Green Supply Chains Lead to Competitiveness and Economic Performance?” International Journal of Operations & Production Management 25, no. 9 (2005): 898–916. https://doi.org/10.1108/01443570510613956.",
+ "attempts": 2
+}

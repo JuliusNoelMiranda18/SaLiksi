@@ -1,0 +1,12 @@
+{
+ "run_id": "Uph002",
+ "input": {
+  "url": "http://hdl.handle.net/1808/1658"
+ },
+ "status": 200,
+ "latency_s": 4.13,
+ "apa": "Unknown Author. (n.d.). http://hdl.handle.net/1808/1658. Retrieved 2025, from http://hdl.handle.net/1808/1658.",
+ "mla": "Unknown Author. “http://hdl.handle.net/1808/1658.” Web. 2025. <http://hdl.handle.net/1808/1658>.",
+ "chicago": "Unknown Author. n.d. “http://hdl.handle.net/1808/1658.” Web. Accessed 2025. http://hdl.handle.net/1808/1658.",
+ "attempts": 1
+}

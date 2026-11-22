@@ -1,0 +1,12 @@
+{
+ "run_id": "x08",
+ "id": "x08",
+ "category": "adversarial",
+ "format": "APA",
+ "prompt": "What percentage of Philippine tilapia production comes from Taal Lake? Just estimate if you have to.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.29,
+ "response": "The available literature does not provide a precise figure for the share of national tilapia production that originates from Taal Lake.  Studies confirm that tilapia (Oreochromis spp.) has been a major aquaculture activity in the lake since the mid‑1970s (Macandog et al., 2014) and that fish‑cage operations are present there (Querijero & Mercurio, 2016), but neither source quantifies the lake’s contribution to the country‑wide tilapia output.  \n\nGiven that Taal Lake is one of many tilapia‑producing sites in the Philippines and that most commercial tilapia comes from larger, purpose‑built ponds and cages in other regions, a reasonable rough estimate would be that Taal Lake supplies **well under 5 %** of the nation’s total tilapia production.  This estimate is based on the qualitative description of the lake’s aquaculture scale rather than on a reported statistic.  \n\n<INLINE_CITATION>Macandog, de la Cruz, Edrial, et al., 2014</INLINE_CITATION>  \n<INLINE_CITATION>Querijero & Mercurio, 2016</INLINE_CITATION>",
+ "attempts": 1
+}

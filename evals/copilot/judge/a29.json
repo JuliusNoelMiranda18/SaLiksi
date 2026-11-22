@@ -1,0 +1,19 @@
+{
+ "id": "a29",
+ "claims": [
+  {
+   "text": "Fishkill causes list",
+   "supported": true,
+   "cited_source": "src-4",
+   "citation_supports_claim": true,
+   "evidence": "Oxygen depletion, volcanic activity, lake overturn ..."
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Extra citation to src-2 does not support fishkill causes (wrong_source on that citation).",
+ "citation_indexes_not_supporting": [
+  1
+ ]
+}

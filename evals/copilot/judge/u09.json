@@ -1,0 +1,17 @@
+{
+ "id": "u09",
+ "claims": [
+  {
+   "text": "Mercury within acceptable level; no value given",
+   "supported": true,
+   "cited_source": "src-8",
+   "citation_supports_claim": true,
+   "evidence": "Cadmium and mercury in the soil and water were within the acceptable level"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Declined the number correctly.",
+ "citation_indexes_not_supporting": []
+}

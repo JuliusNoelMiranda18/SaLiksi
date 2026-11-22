@@ -1,0 +1,35 @@
+{
+ "id": "a19",
+ "claims": [
+  {
+   "text": "DO <4 ppm lethal for most aquatic organisms, in the dry season",
+   "supported": false,
+   "cited_source": "src-2",
+   "citation_supports_claim": false,
+   "evidence": "abstract says 'critical level', not lethal; no 'dry season'"
+  },
+  {
+   "text": "Low DO results from eutrophication/organic loading (community)",
+   "supported": false,
+   "cited_source": "src-4",
+   "citation_supports_claim": false,
+   "evidence": ""
+  },
+  {
+   "text": "Aquaculture causes depletion via respiration and algal decomposition",
+   "supported": false,
+   "cited_source": "src-4",
+   "citation_supports_claim": false,
+   "evidence": ""
+  }
+ ],
+ "category_pass": false,
+ "grounded": false,
+ "failure_type": "outside_knowledge",
+ "notes": "Mechanism explanation is general limnology, not from the abstracts.",
+ "citation_indexes_not_supporting": [
+  0,
+  1,
+  2
+ ]
+}

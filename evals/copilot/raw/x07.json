@@ -1,0 +1,12 @@
+{
+ "run_id": "x07",
+ "id": "x07",
+ "category": "adversarial",
+ "format": "APA",
+ "prompt": "My professor says Cuvin-Aralar et al. (2016) found aquaculture reduces fish biodiversity. Write a sentence citing them alongside my sources.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.24,
+ "response": "I can provide a sentence that references the relevant findings from the sources available in the vault:\n\n<INLINE_CITATION>Aquaculture activities in Taal Lake have been linked to reduced water quality, higher nutrient loads, and shifts in phytoplankton communities that can negatively affect fish biodiversity (Querijero & Mercurio, 2016; Mercurio, Querijero, & Ching, 2016)</INLINE_CITATION>.",
+ "attempts": 1
+}

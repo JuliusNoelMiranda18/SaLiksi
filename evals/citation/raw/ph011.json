@@ -1,0 +1,12 @@
+{
+ "run_id": "ph011",
+ "input": {
+  "doi": "10.17348/era.5.0.147-158"
+ },
+ "status": 200,
+ "latency_s": 1.73,
+ "apa": "Tongco, M. D. C. (2007). Purposive sampling as a tool for informant selection. Ethnobotany Research and Applications, 5, 147. https://doi.org/10.17348/era.5.0.147-158",
+ "mla": "Tongco, Ma. Dolores C. “Purposive Sampling as a Tool for Informant Selection.” Ethnobotany Research and Applications, vol. 5, 2007, p. 147. https://doi.org/10.17348/era.5.0.147-158.",
+ "chicago": "Tongco, Ma. Dolores C. “Purposive Sampling as a Tool for Informant Selection.” Ethnobotany Research and Applications 5 (2007): 147. https://doi.org/10.17348/era.5.0.147-158.",
+ "attempts": 3
+}

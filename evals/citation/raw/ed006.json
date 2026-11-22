@@ -1,0 +1,12 @@
+{
+ "run_id": "ed006",
+ "input": {
+  "doi": "10.1515/mgmc-2023-0001"
+ },
+ "status": 200,
+ "latency_s": 3.11,
+ "apa": "Böhme, U., & Weling, G. (2023). Synthesis and crystal structure of an ionic phenyltin(iv) complex of <i>N</i>-salicylidene-valine. Main Group Metal Chemistry, 46(1). https://doi.org/10.1515/mgmc-2023-0001",
+ "mla": "Böhme, Uwe, and Gisela Weling. \"Synthesis and crystal structure of an ionic phenyltin(iv) complex of <i>N</i>-salicylidene-valine.\" Main Group Metal Chemistry, vol. 46, no. 1, 2023, https://doi.org/10.1515/mgmc-2023-0001.",
+ "chicago": "Böhme, Uwe, and Gisela Weling. 2023. \"Synthesis and crystal structure of an ionic phenyltin(iv) complex of <i>N</i>-salicylidene-valine.\" Main Group Metal Chemistry 46 (1). https://doi.org/10.1515/mgmc-2023-0001.",
+ "attempts": 2
+}

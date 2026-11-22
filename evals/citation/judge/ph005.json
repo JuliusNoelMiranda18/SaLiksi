@@ -1,0 +1,33 @@
+{
+ "id": "ph005",
+ "truth_id": "ph005",
+ "apa": {
+  "fields_ok": false,
+  "style_ok": false,
+  "errors": [
+   "authors_wrong",
+   "et_al_rule:apa_21plus",
+   "wrong_punctuation:vol_issue"
+  ],
+  "variant": null,
+  "note": ""
+ },
+ "mla": {
+  "fields_ok": true,
+  "style_ok": true,
+  "errors": [],
+  "variant": null,
+  "note": ""
+ },
+ "chicago": {
+  "fields_ok": false,
+  "style_ok": true,
+  "errors": [
+   "authors_wrong"
+  ],
+  "variant": "notes-bibliography",
+  "note": ""
+ },
+ "fabricated_fields": [],
+ "notes": ""
+}

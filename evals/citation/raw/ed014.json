@@ -1,0 +1,12 @@
+{
+ "run_id": "ed014",
+ "input": {
+  "doi": "10.4103/fjs.fjs_68_20"
+ },
+ "status": 200,
+ "latency_s": 3.51,
+ "apa": "Raja, M. S., Pillai, A. V., & Ramachandran, R. (2020). Video-assisted anal istula treatment. Formosan Journal of Surgery, 53(6), 211-215. https://doi.org/10.4103/fjs.fjs_68_20",
+ "mla": "Raja, M. Suyambu, Anoop Vasudevan Pillai, and Riju Ramachandran. \"Video-assisted anal istula treatment.\" Formosan Journal of Surgery, vol. 53, no. 6, 2020, pp. 211-215. https://doi.org/10.4103/fjs.fjs_68_20",
+ "chicago": "Raja, M. Suyambu, Anoop Vasudevan Pillai, and Riju Ramachandran. 2020. \"Video-assisted anal istula treatment.\" Formosan Journal of Surgery 53, no. 6: 211–215. https://doi.org/10.4103/fjs.fjs_68_20",
+ "attempts": 2
+}

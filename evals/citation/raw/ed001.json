@@ -1,0 +1,12 @@
+{
+ "run_id": "ed001",
+ "input": {
+  "doi": "10.1111/apt.14368"
+ },
+ "status": 200,
+ "latency_s": 3.28,
+ "apa": "Mitrev, N., Vande Casteele, N., Seow, C. H., Andrews, J. M., Connor, S. J., Moore, G. T., Barclay, M., Begun, J., Bryant, R., Chan, W., Corte, C., Ghaly, S., Lemberg, D. A., Kariyawasam, V., Lewindon, P., Martin, J., Mountifield, R., Radford‑Smith, G., Slobodian, P., Sparrow, M., Toong, C., van Langenberg, D., Ward, M. G., & Leong, R. W. (2017). Review article: consensus statements on therapeutic drug monitoring of anti‑tumour necrosis factor therapy in inflammatory bowel diseases. Alimentary Pharmacology &amp; Therapeutics, 46(11‑12), 1037‑1053. https://doi.org/10.1111/apt.14368",
+ "mla": "Mitrev, N., et al. \\\"Review article: consensus statements on therapeutic drug monitoring of anti‑tumour necrosis factor therapy in inflammatory bowel diseases.\\\" Alimentary Pharmacology &amp; Therapeutics, vol. 46, no. 11‑12, 2017, pp. 1037‑1053. https://doi.org/10.1111/apt.14368",
+ "chicago": "Mitrev, N., et al. 2017. \\\"Review article: consensus statements on therapeutic drug monitoring of anti‑tumour necrosis factor therapy in inflammatory bowel diseases.\\\" Alimentary Pharmacology &amp; Therapeutics 46 (11‑12): 1037‑1053. https://doi.org/10.1111/apt.14368",
+ "attempts": 1
+}

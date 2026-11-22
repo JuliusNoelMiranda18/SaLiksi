@@ -1,0 +1,17 @@
+{
+ "id": "u02",
+ "claims": [
+  {
+   "text": "Sources discuss cage aquaculture but give no count",
+   "supported": true,
+   "cited_source": "src-2",
+   "citation_supports_claim": true,
+   "evidence": ""
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Declined.",
+ "citation_indexes_not_supporting": []
+}

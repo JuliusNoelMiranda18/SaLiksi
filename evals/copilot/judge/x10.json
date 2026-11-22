@@ -1,0 +1,9 @@
+{
+ "id": "x10",
+ "claims": [],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Refused to add non-vault citation.",
+ "citation_indexes_not_supporting": []
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "u08__rep2",
+ "id": "u08",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What microplastic concentrations have been found in Taal Lake?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.05,
+ "response": "Based on the sources provided in the EvalVault, there is no information regarding microplastic concentrations in Taal Lake. The available literature focuses on fishery resources (Mutia et al., 2018; Muyot et al., 2021), water quality parameters such as dissolved oxygen and nutrients (Querijero & Mercurio, 2016; Hilario & Perez, 2013), phytoplankton and zooplankton communities (Mercurio et al., 2016; Papa & Pagulayan, 2007), local ecological knowledge regarding fish kills (Macandog et al., 2014), and heavy metal contamination (Banta & Salibay, 2023).",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "ra039",
+ "input": {
+  "doi": "10.5935/1808-5687.20170004"
+ },
+ "status": 200,
+ "latency_s": 3.05,
+ "apa": "Fava, D. C., & Pacheco, J. T. B. (2017). Maltreatment, behavior problems and selfsteem in adolescents. Revista Brasileira de Terapias Cognitivas, 13(1). https://doi.org/10.5935/1808-5687.20170004",
+ "mla": "Fava, Débora Cristina, and Janaína Thais Barbosa Pacheco. \"Maltreatment, behavior problems and selfsteem in adolescents.\" Revista Brasileira de Terapias Cognitivas, vol. 13, no. 1, 2017, https://doi.org/10.5935/1808-5687.20170004.",
+ "chicago": "Fava, Débora Cristina, and Janaína Thais Barbosa Pacheco. 2017. \"Maltreatment, behavior problems and selfsteem in adolescents.\" Revista Brasileira de Terapias Cognitivas 13 (1). https://doi.org/10.5935/1808-5687.20170004.",
+ "attempts": 1
+}

@@ -1,0 +1,131 @@
+{
+ "Ura002": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 2,
+  "citation_doi": true,
+  "secs": 3.7
+ },
+ "Ura018": {
+  "status": 403,
+  "secs": 0.2
+ },
+ "Ura024": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 2,
+  "citation_doi": false,
+  "secs": 1.9
+ },
+ "Ura036": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 3,
+  "citation_doi": true,
+  "secs": 1.8
+ },
+ "Ura043": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 5,
+  "citation_doi": true,
+  "secs": 2.5
+ },
+ "Uph002": {
+  "status": 200,
+  "citation_title": false,
+  "citation_author_count": 0,
+  "citation_doi": false,
+  "secs": 12.4
+ },
+ "Uph007": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 3,
+  "citation_doi": false,
+  "secs": 1.9
+ },
+ "Uph014": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 29,
+  "citation_doi": true,
+  "secs": 1.8
+ },
+ "Uph016": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 209,
+  "citation_doi": true,
+  "secs": 0.2
+ },
+ "Uph017": {
+  "status": 403,
+  "secs": 2.0
+ },
+ "Uph021": {
+  "status": 200,
+  "citation_title": false,
+  "citation_author_count": 0,
+  "citation_doi": false,
+  "secs": 1.3
+ },
+ "Uph026": {
+  "status": 200,
+  "citation_title": false,
+  "citation_author_count": 0,
+  "citation_doi": false,
+  "secs": 2.5
+ },
+ "Uph027": {
+  "status": 403,
+  "secs": 0.1
+ },
+ "Ued001": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 24,
+  "citation_doi": true,
+  "secs": 12.5
+ },
+ "Ued003": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 24,
+  "citation_doi": true,
+  "secs": 1.1
+ },
+ "Ued016": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 4,
+  "citation_doi": true,
+  "secs": 0.2
+ },
+ "Ura003": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 9,
+  "citation_doi": true,
+  "secs": 3.1
+ },
+ "Ura009": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 2,
+  "citation_doi": true,
+  "secs": 2.3
+ },
+ "Ura010": {
+  "status": null,
+  "error": "URLError: <urlopen error timed out>",
+  "secs": 8.0
+ },
+ "Ura012": {
+  "status": 200,
+  "citation_title": true,
+  "citation_author_count": 4,
+  "citation_doi": true,
+  "secs": 7.4
+ }
+}

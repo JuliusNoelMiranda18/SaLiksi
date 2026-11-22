@@ -1,0 +1,12 @@
+{
+ "run_id": "u10",
+ "id": "u10",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "How does Taal Lake's water quality compare to Laguna de Bay's?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.95,
+ "response": "I cannot provide a comparison between Taal Lake and Laguna de Bay because the provided Vault sources do not contain any data, studies, or references regarding Laguna de Bay. The vault exclusively contains information on Taal Lake (Sources 1–8).",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "Uph014",
+ "input": {
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5584412"
+ },
+ "status": 200,
+ "latency_s": 2.04,
+ "apa": "Unknown Author. (n.d.). Checking your browser - reCAPTCHA. https://www.ncbi.nlm.nih.gov/pmc/articles/5584412",
+ "mla": "Unknown Author. \"Checking your browser - reCAPTCHA.\" NCBI, n.d., https://www.ncbi.nlm.nih.gov/pmc/articles/5584412. Accessed 2025.",
+ "chicago": "Unknown Author. \"Checking your browser - reCAPTCHA.\" NCBI. Accessed 2025. https://www.ncbi.nlm.nih.gov/pmc/articles/5584412.",
+ "attempts": 1
+}

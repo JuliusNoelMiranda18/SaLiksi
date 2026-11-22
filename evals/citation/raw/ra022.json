@@ -1,0 +1,12 @@
+{
+ "run_id": "ra022",
+ "input": {
+  "doi": "10.1016/s0022-2313(76)90392-6"
+ },
+ "status": 200,
+ "latency_s": 2.85,
+ "apa": "Kampas, F. J., & Gouterman, M. (1976). Octaethylporphin films. II absorption and emission of amorphous films. Journal of Luminescence, 14(3), 121–129. https://doi.org/10.1016/s0022-2313(76)90392-6",
+ "mla": "Kampas, Frank J., and Martin Gouterman. \"Octaethylporphin films. II absorption and emission of amorphous films.\" Journal of Luminescence 14, no. 3, 1976, pp. 121-129. https://doi.org/10.1016/s0022-2313(76)90392-6. Accessed 2025.",
+ "chicago": "Kampas, Frank J., and Martin Gouterman. 1976. \"Octaethylporphin films. II absorption and emission of amorphous films.\" Journal of Luminescence 14 (3): 121–129. https://doi.org/10.1016/s0022-2313(76)90392-6. Accessed 2025.",
+ "attempts": 1
+}

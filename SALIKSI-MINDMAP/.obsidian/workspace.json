@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "8c5e5ac13ed958cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2fb294c2a362ead",
+        "type": "tabs",
+        "dimension": 31.270903010033447,
+        "children": [
+          {
+            "id": "2f218a1216d51ff8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "748d7599feda6dba",
+        "type": "tabs",
+        "dimension": 68.72909698996655,
+        "children": [
+          {
+            "id": "7ed2d2cbe7439ec7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db8dbc069863e919",
+    "type": "split",
+    "children": [
+      {
+        "id": "614403f7bfca7abf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb75dfed8024cfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19ba005211e626bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffa6005d0f3b7c67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e3742d68eed7e201",
+    "type": "split",
+    "children": [
+      {
+        "id": "913d3d2b10fb4430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f569053fc933e8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7874aca11319254d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "af9391758a5d32b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "078d64db780f2c8a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1799d469b68f3c32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "edb75dfed8024cfd",
+  "lastOpenFiles": [
+    "Untitled",
+    "MINDMAP-GUIDE.md",
+    "Welcome.md",
+    "SaLiksi Mindmap.canvas",
+    "_templates/page-template.md",
+    "_templates/component-template.md",
+    "_templates/api-template.md",
+    "_templates",
+    "README.md",
+    "00 Home.md",
+    "70 Issues/issues-known.md",
+    "70 Issues/issues-dead-code.md",
+    "70 Issues",
+    "60 Flows/flow-writer-copilot.md",
+    "60 Flows/flow-topics.md",
+    "60 Flows/flow-search.md",
+    "60 Flows/flow-dev-mode.md",
+    "60 Flows/flow-defense.md",
+    "60 Flows/flow-credibility.md",
+    "60 Flows",
+    "00 Overview/data-storage-keys.md",
+    "00 Overview/data-library-model.md",
+    "00 Overview/app-layouts.md",
+    "00 Overview",
+    "50 External/ext-semantic-scholar.md",
+    "50 External/ext-philjol.md",
+    "50 External/ext-openalex.md",
+    "50 External/ext-nominatim.md",
+    "50 External/ext-groq.md",
+    "50 External/ext-crossref.md",
+    "50 External",
+    "40 Components/comp-WriterPage.md",
+    "40 Components",
+    "30 Lib",
+    "20 API",
+    "10 Pages"
+  ]
+}

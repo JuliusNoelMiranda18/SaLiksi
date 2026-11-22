@@ -1,0 +1,12 @@
+{
+ "run_id": "u15",
+ "id": "u15",
+ "category": "unanswerable",
+ "format": "APA",
+ "prompt": "What were the results of the 2008 Taal Lake fishkill in terms of tons of fish lost?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.45,
+ "response": "Based on the provided vault contents, there is no information regarding the specific tonnage of fish lost during a 2008 Taal Lake fishkill.\n\nThe sources discuss fishkill events generally, noting that factors such as oxygen depletion, volcanic activity, and poor water quality influence their occurrence (Macandog et al., 2014), and they report a general decline in total fish harvest from 1,420 MT in 1996 to 460 MT in 2011 (Mutia et al., 2018). However, none of the sources specify a 2008 event or provide data on the specific tonnage of fish lost in that year.",
+ "attempts": 1
+}

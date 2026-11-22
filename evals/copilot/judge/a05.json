@@ -1,0 +1,17 @@
+{
+ "id": "a05",
+ "claims": [
+  {
+   "text": "DO <4 ppm in January and February",
+   "supported": true,
+   "cited_source": "src-2",
+   "citation_supports_claim": true,
+   "evidence": "DO dipped to critical level (<4 ppm) ... in the months of January and February"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

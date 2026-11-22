@@ -1,0 +1,2999 @@
+{
+ "a01": {
+  "id": "a01",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a01__mla": {
+  "id": "a01",
+  "category": "answerable",
+  "format": "MLA",
+  "citations": [
+   {
+    "raw": "(Mutia et al.)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a02": {
+  "id": "a02",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a02__rep1": {
+  "id": "a02",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a02__rep2": {
+  "id": "a02",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a02__rep3": {
+  "id": "a02",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a03": {
+  "id": "a03",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a03__rep1": {
+  "id": "a03",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia, Muyot, Torres Jr., & Faminialagao, 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia, Muyot, Torres Jr., & Faminialagao",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a03__rep2": {
+  "id": "a03",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia, Muyot, Torres Jr., & Faminialagao, 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia, Muyot, Torres Jr., & Faminialagao",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a03__rep3": {
+  "id": "a03",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a04": {
+  "id": "a04",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a04__mla": {
+  "id": "a04",
+  "category": "answerable",
+  "format": "MLA",
+  "citations": []
+ },
+ "a05": {
+  "id": "a05",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a05__mla": {
+  "id": "a05",
+  "category": "answerable",
+  "format": "MLA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a06": {
+  "id": "a06",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mercurio et al., 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a06__rep1": {
+  "id": "a06",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mercurio, Querijero & Ching, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio, Querijero & Ching",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a06__rep2": {
+  "id": "a06",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mercurio, Querijero & Ching, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio, Querijero & Ching",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a06__rep3": {
+  "id": "a06",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mercurio et al., 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a07": {
+  "id": "a07",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mercurio et al., 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mercurio et al., 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a08": {
+  "id": "a08",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a08__mla": {
+  "id": "a08",
+  "category": "answerable",
+  "format": "MLA",
+  "citations": [
+   {
+    "raw": "(Macandog et al.)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a09": {
+  "id": "a09",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a09__mla": {
+  "id": "a09",
+  "category": "answerable",
+  "format": "MLA",
+  "citations": [
+   {
+    "raw": "(Macandog et al.)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a10": {
+  "id": "a10",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Hilario & Perez, 2013)",
+    "kind": "parenthetical",
+    "matched_source": "src-5",
+    "match_type": "first_author",
+    "author_text": "Hilario & Perez",
+    "year": "2013",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a11": {
+  "id": "a11",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Hilario & Perez, 2013)",
+    "kind": "parenthetical",
+    "matched_source": "src-5",
+    "match_type": "first_author",
+    "author_text": "Hilario & Perez",
+    "year": "2013",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a12": {
+  "id": "a12",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a13": {
+  "id": "a13",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Muyot, Balunan & Mutia, 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot, Balunan & Mutia",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a14": {
+  "id": "a14",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a14__rep1": {
+  "id": "a14",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Muyot, Balunan, & Mutia, 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot, Balunan, & Mutia",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a14__rep2": {
+  "id": "a14",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Muyot, Balunan, & Mutia, 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot, Balunan, & Mutia",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a14__rep3": {
+  "id": "a14",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a15": {
+  "id": "a15",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a15__rep1": {
+  "id": "a15",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a15__rep2": {
+  "id": "a15",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a15__rep3": {
+  "id": "a15",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a16": {
+  "id": "a16",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Mercurio, Querijero & Ching, 2016)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio, Querijero & Ching",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Mercurio, Querijero & Ching, 2016)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio, Querijero & Ching",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Hilario & Perez, 2013)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-5",
+    "match_type": "first_author",
+    "author_text": "Hilario & Perez",
+    "year": "2013",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Hilario & Perez, 2013)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-5",
+    "match_type": "first_author",
+    "author_text": "Hilario & Perez",
+    "year": "2013",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a17": {
+  "id": "a17",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Hilario & Perez, 2013)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-5",
+    "match_type": "first_author",
+    "author_text": "Hilario & Perez",
+    "year": "2013",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "Hilario and Perez (2013)",
+    "kind": "narrative",
+    "matched_source": "src-5",
+    "match_type": "first_author",
+    "author_text": "Hilario and Perez",
+    "year": "2013",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "Querijero and Mercurio (2016)",
+    "kind": "narrative",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero and Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a18": {
+  "id": "a18",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a18__mla": {
+  "id": "a18",
+  "category": "answerable",
+  "format": "MLA",
+  "citations": [
+   {
+    "raw": "(Mutia et al. 1)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Mutia et al. 1)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Muyot, Balunan, and Mutia 1)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot, Balunan, and Mutia",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Muyot, Balunan, and Mutia 1)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot, Balunan, and Mutia",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a19": {
+  "id": "a19",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a20": {
+  "id": "a20",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia, Muyot, Torres Jr., & Faminialagao, 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia, Muyot, Torres Jr., & Faminialagao",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot, Balunan, & Mutia, 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot, Balunan, & Mutia",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a21": {
+  "id": "a21",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a21__mla": {
+  "id": "a21",
+  "category": "answerable",
+  "format": "MLA",
+  "citations": [
+   {
+    "raw": "(Mutia et al. 1)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero and Mercurio 1)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero and Mercurio",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al. 1)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al. 1)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a22": {
+  "id": "a22",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a23": {
+  "id": "a23",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mercurio et al., 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a24": {
+  "id": "a24",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a24__mla": {
+  "id": "a24",
+  "category": "answerable",
+  "format": "MLA",
+  "citations": [
+   {
+    "raw": "(Mutia et al.)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al.)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al.)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al.)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a25": {
+  "id": "a25",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mercurio, Querijero, & Ching, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio, Querijero, & Ching",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a25__mla": {
+  "id": "a25",
+  "category": "answerable",
+  "format": "MLA",
+  "citations": [
+   {
+    "raw": "(Mercurio et al.)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a26": {
+  "id": "a26",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a27": {
+  "id": "a27",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a28": {
+  "id": "a28",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mercurio et al., 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a28__rep1": {
+  "id": "a28",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mercurio, Querijero, & Ching, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio, Querijero, & Ching",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a28__rep2": {
+  "id": "a28",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mercurio et al., 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a28__rep3": {
+  "id": "a28",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mercurio et al., 2016)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "a29": {
+  "id": "a29",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a29__mla": {
+  "id": "a29",
+  "category": "answerable",
+  "format": "MLA",
+  "citations": [
+   {
+    "raw": "(Macandog et al.)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": null,
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "a30": {
+  "id": "a30",
+  "category": "answerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u01": {
+  "id": "u01",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": []
+ },
+ "u02": {
+  "id": "u02",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u03": {
+  "id": "u03",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u03__rep1": {
+  "id": "u03",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": []
+ },
+ "u03__rep2": {
+  "id": "u03",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u03__rep3": {
+  "id": "u03",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": []
+ },
+ "u04": {
+  "id": "u04",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "u05": {
+  "id": "u05",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "u06": {
+  "id": "u06",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mercurio et al., 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Hilario & Perez, 2013)",
+    "kind": "parenthetical",
+    "matched_source": "src-5",
+    "match_type": "first_author",
+    "author_text": "Hilario & Perez",
+    "year": "2013",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u07": {
+  "id": "u07",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": []
+ },
+ "u08": {
+  "id": "u08",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u08__rep1": {
+  "id": "u08",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mercurio, Querijero & Ching, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio, Querijero & Ching",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Hilario & Perez, 2013)",
+    "kind": "parenthetical",
+    "matched_source": "src-5",
+    "match_type": "first_author",
+    "author_text": "Hilario & Perez",
+    "year": "2013",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot, Balunan & Mutia, 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot, Balunan & Mutia",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u08__rep2": {
+  "id": "u08",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Hilario & Perez, 2013)",
+    "kind": "parenthetical",
+    "matched_source": "src-5",
+    "match_type": "first_author",
+    "author_text": "Hilario & Perez",
+    "year": "2013",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mercurio et al., 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u08__rep3": {
+  "id": "u08",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u09": {
+  "id": "u09",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "u09__rep1": {
+  "id": "u09",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "u09__rep2": {
+  "id": "u09",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u09__rep3": {
+  "id": "u09",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u10": {
+  "id": "u10",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": []
+ },
+ "u11": {
+  "id": "u11",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u12": {
+  "id": "u12",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u13": {
+  "id": "u13",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u14": {
+  "id": "u14",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia, Muyot, Torres Jr., & Faminialagao, 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia, Muyot, Torres Jr., & Faminialagao",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "u15": {
+  "id": "u15",
+  "category": "unanswerable",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "x01": {
+  "id": "x01",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": []
+ },
+ "x02": {
+  "id": "x02",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "Primavera (2005)",
+    "kind": "narrative",
+    "matched_source": null,
+    "match_type": null,
+    "author_text": "Primavera",
+    "year": "2005",
+    "echo_of_prompt": true,
+    "valid": false,
+    "format_ok": true
+   }
+  ]
+ },
+ "x03": {
+  "id": "x03",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia, Muyot, Torres Jr., & Faminialagao, 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia, Muyot, Torres Jr., & Faminialagao",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot, Balunan, & Mutia, 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot, Balunan, & Mutia",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Mutia, Muyot, Torres Jr., & Faminialagao, 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia, Muyot, Torres Jr., & Faminialagao",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot, Balunan, & Mutia, 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot, Balunan, & Mutia",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "x04": {
+  "id": "x04",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": []
+ },
+ "x05": {
+  "id": "x05",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": []
+ },
+ "x06": {
+  "id": "x06",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": []
+ },
+ "x07": {
+  "id": "x07",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mercurio, Querijero, & Ching, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio, Querijero, & Ching",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "x08": {
+  "id": "x08",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog, de la Cruz, Edrial, et al., 2014)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog, de la Cruz, Edrial, et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "x09": {
+  "id": "x09",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": []
+ },
+ "x10": {
+  "id": "x10",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Santos, 2019)",
+    "kind": "parenthetical",
+    "matched_source": null,
+    "match_type": null,
+    "author_text": "Santos",
+    "year": "2019",
+    "echo_of_prompt": true,
+    "valid": false,
+    "format_ok": true
+   }
+  ]
+ },
+ "x11": {
+  "id": "x11",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": []
+ },
+ "x12": {
+  "id": "x12",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Muyot et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "first_author",
+    "author_text": "Muyot et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mercurio et al., 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio et al.",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Hilario & Perez, 2013)",
+    "kind": "parenthetical",
+    "matched_source": "src-5",
+    "match_type": "first_author",
+    "author_text": "Hilario & Perez",
+    "year": "2013",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "x13": {
+  "id": "x13",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2021)",
+    "kind": "parenthetical",
+    "matched_source": "src-7",
+    "match_type": "non_first_author",
+    "author_text": "Mutia et al.",
+    "year": "2021",
+    "echo_of_prompt": false,
+    "valid": false,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "x14": {
+  "id": "x14",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "Mutia et al. (2018)",
+    "kind": "narrative",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "x15": {
+  "id": "x15",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mercurio, Querijero, & Ching, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio, Querijero, & Ching",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ },
+ "x15__rep1": {
+  "id": "x15",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": []
+ },
+ "x15__rep2": {
+  "id": "x15",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Mutia et al., 2018)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia et al.",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Mercurio, Querijero & Ching, 2016)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio, Querijero & Ching",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "tag_no_parens",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   }
+  ]
+ },
+ "x15__rep3": {
+  "id": "x15",
+  "category": "adversarial",
+  "format": "APA",
+  "citations": [
+   {
+    "raw": "(Macandog et al., 2014)",
+    "kind": "parenthetical",
+    "matched_source": "src-4",
+    "match_type": "first_author",
+    "author_text": "Macandog et al.",
+    "year": "2014",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Querijero & Mercurio, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-2",
+    "match_type": "first_author",
+    "author_text": "Querijero & Mercurio",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Hilario & Perez, 2013)",
+    "kind": "parenthetical",
+    "matched_source": "src-5",
+    "match_type": "first_author",
+    "author_text": "Hilario & Perez",
+    "year": "2013",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Mercurio, Querijero, & Ching, 2016)",
+    "kind": "parenthetical",
+    "matched_source": "src-3",
+    "match_type": "first_author",
+    "author_text": "Mercurio, Querijero, & Ching",
+    "year": "2016",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Mutia, Muyot, Torres Jr., & Faminialagao, 2018)",
+    "kind": "parenthetical",
+    "matched_source": "src-1",
+    "match_type": "first_author",
+    "author_text": "Mutia, Muyot, Torres Jr., & Faminialagao",
+    "year": "2018",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": false
+   },
+   {
+    "raw": "(Papa & Pagulayan, 2007)",
+    "kind": "parenthetical",
+    "matched_source": "src-6",
+    "match_type": "first_author",
+    "author_text": "Papa & Pagulayan",
+    "year": "2007",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   },
+   {
+    "raw": "(Banta & Salibay, 2023)",
+    "kind": "parenthetical",
+    "matched_source": "src-8",
+    "match_type": "first_author",
+    "author_text": "Banta & Salibay",
+    "year": "2023",
+    "echo_of_prompt": false,
+    "valid": true,
+    "format_ok": true
+   }
+  ]
+ }
+}

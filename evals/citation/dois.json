@@ -1,0 +1,602 @@
+[
+ {
+  "id": "ra001",
+  "doi": "10.3917/mediu.016.0007",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra002",
+  "doi": "10.22239/2317-269x.02285",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra003",
+  "doi": "10.1186/s13643-025-02906-z",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra004",
+  "doi": "10.1002/cctc.202301684",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra005",
+  "doi": "10.1016/s0361-9230(01)00530-5",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra006",
+  "doi": "10.1002/zamm.19980781571",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra007",
+  "doi": "10.52230/mrwe8760",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra008",
+  "doi": "10.1002/elps.201800284",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra009",
+  "doi": "10.66224/jommid.13.4.303",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra010",
+  "doi": "10.4236/wja.2018.83008",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra011",
+  "doi": "10.1177/096721099900700512",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra012",
+  "doi": "10.28982/josam.992197",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra013",
+  "doi": "10.7759/cureus.93202",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra014",
+  "doi": "10.22271/maths.2026.v11.i7c.2649",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra015",
+  "doi": "10.30605/onoma.v10i4.4237",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra016",
+  "doi": "10.1016/s0272-5231(21)00420-2",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra017",
+  "doi": "10.1016/j.scitotenv.2021.151482",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra018",
+  "doi": "10.9734/ajaees/2024/v42i62498",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra019",
+  "doi": "10.1515/zfs-2020-2012",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra020",
+  "doi": "10.2320/jinstmet1952.49.9_801",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra021",
+  "doi": "10.11648/j.wros.20140306.12",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra022",
+  "doi": "10.1016/s0022-2313(76)90392-6",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra023",
+  "doi": "10.29228/inesjournal.75977",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra024",
+  "doi": "10.1215/00192082-12554043",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra025",
+  "doi": "10.47059/alinteri/v36i1/ajas21027",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra026",
+  "doi": "10.1080/01900692.2020.1759628",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra027",
+  "doi": "10.65494/pinagpalapublishing.258",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra028",
+  "doi": "10.5815/ijisa.2017.01.02",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra029",
+  "doi": "10.1063/1.97288",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra030",
+  "doi": "10.1016/j.ipl.2010.05.003",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra031",
+  "doi": "10.1080/09503110.2013.804321",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra032",
+  "doi": "10.3390/cancers16081589",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra033",
+  "doi": "10.17816/rjls18308",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra034",
+  "doi": "10.1177/009286158902300324",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra035",
+  "doi": "10.1016/j.array.2025.100670",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra036",
+  "doi": "10.1016/j.jhazmat.2010.05.059",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra037",
+  "doi": "10.1016/j.jafr.2020.100084",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra038",
+  "doi": "10.3991/ijep.v12i2.29283",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra039",
+  "doi": "10.5935/1808-5687.20170004",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra040",
+  "doi": "10.1086/480492",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra041",
+  "doi": "10.24241/notesint.2024/311/en",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra042",
+  "doi": "10.1016/0005-2760(96)00098-7",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra043",
+  "doi": "10.1007/s00276-026-03820-2",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra044",
+  "doi": "10.18438/eblip29814",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra045",
+  "doi": "10.1016/j.cccn.2003.08.006",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra046",
+  "doi": "10.5958/2322-0430.2018.00082.3",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra047",
+  "doi": "10.1097/00003072-198811000-00020",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra048",
+  "doi": "10.33953/0381-003-002-016",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra049",
+  "doi": "10.3390/agronomy14010130",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ra050",
+  "doi": "10.1021/acs.jpcb.2c04579",
+  "group": "random",
+  "why": ""
+ },
+ {
+  "id": "ph001",
+  "doi": "10.1111/j.1365-3180.1974.tb01084.x",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph002",
+  "doi": "10.1080/00273170701341316",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph003",
+  "doi": "10.1016/s0140-6736(16)31679-8",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph004",
+  "doi": "10.4193/rhin20.600",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph005",
+  "doi": "10.1126/science.aaz1776",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph006",
+  "doi": "10.1056/nejmsa0810119",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph007",
+  "doi": "10.1051/agro:2008021",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph008",
+  "doi": "10.1016/s0140-6736(07)61415-9",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph009",
+  "doi": "10.1016/j.jacc.2017.04.052",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph010",
+  "doi": "10.1016/s0140-6736(10)60834-3",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph011",
+  "doi": "10.17348/era.5.0.147-158",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph012",
+  "doi": "10.1177/002224297103500302",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph013",
+  "doi": "10.1037/1089-2680.5.2.100",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph014",
+  "doi": "10.1073/pnas.1701762114",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph015",
+  "doi": "10.3171/2017.10.jns17352",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph016",
+  "doi": "10.1038/nature09270",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph017",
+  "doi": "10.1016/j.clnu.2018.08.002",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph018",
+  "doi": "10.1111/j.1467-937x.2005.00353.x",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph019",
+  "doi": "10.1177/002224296903300103",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph020",
+  "doi": "10.1016/s0140-6736(15)00128-2",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph021",
+  "doi": "10.1001/jamaoncol.2015.0735",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph022",
+  "doi": "10.1016/s1470-2045(10)70230-8",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph023",
+  "doi": "10.1108/01443570510613956",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph024",
+  "doi": "10.1111/j.1472-4642.2008.00482.x",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph025",
+  "doi": "10.1016/s1474-4422(17)30299-5",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph026",
+  "doi": "10.1016/s0140-6736(16)30506-2",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph027",
+  "doi": "10.1073/pnas.0403720101",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph028",
+  "doi": "10.1016/s1474-4422(24)00369-7",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph029",
+  "doi": "10.1007/s40593-021-00239-1",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ph030",
+  "doi": "10.1056/nejmoa1709118",
+  "group": "philippine",
+  "why": ""
+ },
+ {
+  "id": "ed001",
+  "doi": "10.1111/apt.14368",
+  "group": "edge",
+  "why": "many_authors (25 authors in CrossRef)"
+ },
+ {
+  "id": "ed002",
+  "doi": "10.1007/s00586-025-09524-2",
+  "group": "edge",
+  "why": "many_authors (26 authors in CrossRef)"
+ },
+ {
+  "id": "ed003",
+  "doi": "10.1016/j.ijcard.2016.03.215",
+  "group": "edge",
+  "why": "many_authors (24 authors in CrossRef)"
+ },
+ {
+  "id": "ed004",
+  "doi": "10.1007/jhep10(2020)005",
+  "group": "edge",
+  "why": "many_authors (2941 authors in CrossRef)"
+ },
+ {
+  "id": "ed005",
+  "doi": "10.1051/0004-6361/202555168",
+  "group": "edge",
+  "why": "many_authors (67 authors in CrossRef)"
+ },
+ {
+  "id": "ed006",
+  "doi": "10.1515/mgmc-2023-0001",
+  "group": "edge",
+  "why": "markup_or_colon_title (title contains <i>/<sub>/<sup>)"
+ },
+ {
+  "id": "ed007",
+  "doi": "10.1080/2164232x.2014.883289",
+  "group": "edge",
+  "why": "markup_or_colon_title (title contains <i>/<sub>/<sup>)"
+ },
+ {
+  "id": "ed008",
+  "doi": "10.1016/j.bmcl.2025.130389",
+  "group": "edge",
+  "why": "article_number"
+ },
+ {
+  "id": "ed009",
+  "doi": "10.29057/esat.v7i14.6038",
+  "group": "edge",
+  "why": "accented_names"
+ },
+ {
+  "id": "ed010",
+  "doi": "10.1557/proc-584-169",
+  "group": "edge",
+  "why": "article_number"
+ },
+ {
+  "id": "ed011",
+  "doi": "10.1002/chin.201022104",
+  "group": "edge",
+  "why": "markup_or_colon_title"
+ },
+ {
+  "id": "ed012",
+  "doi": "10.1007/bf02283860",
+  "group": "edge",
+  "why": "accented_names"
+ },
+ {
+  "id": "ed013",
+  "doi": "10.31423/oikos.v30i2.8215",
+  "group": "edge",
+  "why": "accented_names"
+ },
+ {
+  "id": "ed014",
+  "doi": "10.4103/fjs.fjs_68_20",
+  "group": "edge",
+  "why": "subtitle"
+ },
+ {
+  "id": "ed015",
+  "doi": "10.1249/01.mss.0000352751.84877.68",
+  "group": "edge",
+  "why": "subtitle"
+ },
+ {
+  "id": "ed016",
+  "doi": "10.1113/jp277626",
+  "group": "edge",
+  "why": "accented_names"
+ },
+ {
+  "id": "ed017",
+  "doi": "10.1016/j.ibneur.2023.08.899",
+  "group": "edge",
+  "why": "article_number"
+ },
+ {
+  "id": "ed018",
+  "doi": "10.1016/j.optlaseng.2025.109576",
+  "group": "edge",
+  "why": "article_number"
+ },
+ {
+  "id": "ed019",
+  "doi": "10.1007/s15004-013-0567-2",
+  "group": "edge",
+  "why": "subtitle"
+ },
+ {
+  "id": "ed020",
+  "doi": "10.1016/j.geoderma.2024.116840",
+  "group": "edge",
+  "why": "article_number"
+ }
+]

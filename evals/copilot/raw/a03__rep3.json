@@ -1,0 +1,12 @@
+{
+ "run_id": "a03__rep3",
+ "id": "a03",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "What do the fishing mortality and exploitation rate estimates for Sardinella tawilis suggest?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 0.81,
+ "response": "The high values of fishing mortality and exploitation rates for *Sardinella tawilis* indicate unsustainable fishing practices (Mutia et al., 2018).",
+ "attempts": 1
+}

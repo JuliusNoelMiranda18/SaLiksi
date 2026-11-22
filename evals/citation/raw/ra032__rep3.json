@@ -1,0 +1,12 @@
+{
+ "run_id": "ra032__rep3",
+ "input": {
+  "doi": "10.3390/cancers16081589"
+ },
+ "status": 200,
+ "latency_s": 2.33,
+ "apa": "Gu, X., & Minko, T. (2024). Targeted nanoparticle-based diagnostic and treatment options for pancreatic cancer. Cancers, 16(8), 1589. https://doi.org/10.3390/cancers16081589",
+ "mla": "Gu, Xin, and Tamara Minko. \"Targeted Nanoparticle-Based Diagnostic and Treatment Options for Pancreatic Cancer.\" Cancers, vol. 16, no. 8, 2024, p. 1589. https://doi.org/10.3390/cancers16081589. Accessed 2025.",
+ "chicago": "Gu, Xin, and Tamara Minko. 2024. \"Targeted Nanoparticle-Based Diagnostic and Treatment Options for Pancreatic Cancer.\" Cancers 16, no. 8 (2024): 1589. https://doi.org/10.3390/cancers16081589.",
+ "attempts": 1
+}

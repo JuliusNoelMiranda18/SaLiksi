@@ -1,0 +1,17 @@
+{
+ "id": "a10",
+ "claims": [
+  {
+   "text": "Laurel River had significant P and N",
+   "supported": true,
+   "cited_source": "src-5",
+   "citation_supports_claim": true,
+   "evidence": "significant concentrations of P (P<0.01) and N (P<0.05) in Laurel River"
+  }
+ ],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "",
+ "citation_indexes_not_supporting": []
+}

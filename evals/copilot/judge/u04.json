@@ -1,0 +1,11 @@
+{
+ "id": "u04",
+ "claims": [],
+ "category_pass": true,
+ "grounded": true,
+ "failure_type": null,
+ "notes": "Declined, but typo 'Talisan' and a citation attached to a statement src-8 does not make.",
+ "citation_indexes_not_supporting": [
+  0
+ ]
+}

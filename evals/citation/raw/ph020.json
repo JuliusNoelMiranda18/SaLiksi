@@ -1,0 +1,12 @@
+{
+ "run_id": "ph020",
+ "input": {
+  "doi": "10.1016/s0140-6736(15)00128-2"
+ },
+ "status": 200,
+ "latency_s": 2.63,
+ "apa": "Forouzanfar, M. H., Alexander, L., Anderson, H. R., Bachman, V. F., Biryukov, S., Brauer, M., Burnett, R., Casey, D., Coates, M. M., Cohen, A., Delwiche, K., Estep, K., Frostad, J. J., KC, A., Kyu, H. H., Moradi-Lakeh, M., Ng, M., Slepak, E. L., Thomas, B. A., Wagner, J., Aasvang, G. M., Abbafati, C., Ozgoren, A. A., Abd-Allah, F., Abera, S. F., Aboyans, V., Abraham, B., Abraham, J. P., Abubakar, I., Abu-Rmeileh, N. M. E., et al. (2015). Global, regional, and national comparative risk assessment of 79 behavioural, environmental and occupational, and metabolic risks or clusters of risks in 188 countries, 1990–2013: A systematic analysis for the Global Burden of Disease Study 2013. The Lancet, 386(10010), 2287–2323. https://doi.org/10.1016/s0140-6736(15)00128-2",
+ "mla": "Forouzanfar, Mohammad H., et al. “Global, Regional, and National Comparative Risk Assessment of 79 Behavioural, Environmental and Occupational, and Metabolic Risks or Clusters of Risks in 188 Countries, 1990–2013: A Systematic Analysis for the Global Burden of Disease Study 2013.” The Lancet, vol. 386, no. 10010, 2015, pp. 2287–2323. https://doi.org/10.1016/s0140-6736(15)00128-2.",
+ "chicago": "Forouzanfar, Mohammad H., Lily Alexander, H. Ross Anderson, Victoria F. Bachman, Stan Biryukov, Michael Brauer, Richard Burnett, Daniel Casey, Matthew M. Coates, Aaron Cohen, Kristen Delwiche, Kara Estep, Joseph J. Frostad, Astha KC, Hmwe H. Kyu, Maziar Moradi-Lakeh, Marie Ng, Erica Leigh Slepak, Bernadette A. Thomas, Joseph Wagner, Gunn Marit Aasvang, Cristiana Abbafati, Ayse Abbasoglu Ozgoren, Foad Abd-Allah, Semaw F. Abera, Victor Aboyans, Biju Abraham, Jerry Puthenpurakal Abraham, Ibrahim Abubakar, Niveen M. E. Abu-Rmeileh, et al. “Global, Regional, and National Comparative Risk Assessment of 79 Behavioural, Environmental and Occupational, and Metabolic Risks or Clusters of Risks in 188 Countries, 1990–2013: A Systematic Analysis for the Global Burden of Disease Study 2013.” The Lancet 386, no. 10010 (2015): 2287–2323. https://doi.org/10.1016/s0140-6736(15)00128-2.",
+ "attempts": 1
+}

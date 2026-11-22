@@ -1,0 +1,12 @@
+{
+ "run_id": "ra024",
+ "input": {
+  "doi": "10.1215/00192082-12554043"
+ },
+ "status": 200,
+ "latency_s": 1.59,
+ "apa": "Bayart, F., & Oger, L. (2026). Spectrum of hyperbolic and parabolic weighted composition operators. Illinois Journal of Mathematics, 70(2), 251–276. https://doi.org/10.1215/00192082-12554043",
+ "mla": "Bayart, Frédéric, and Lucas Oger. “Spectrum of Hyperbolic and Parabolic Weighted Composition Operators.” Illinois Journal of Mathematics, vol. 70, no. 2, 2026, pp. 251–276. https://doi.org/10.1215/00192082-12554043.",
+ "chicago": "Bayart, Frédéric, and Lucas Oger. “Spectrum of Hyperbolic and Parabolic Weighted Composition Operators.” Illinois Journal of Mathematics 70, no. 2 (2026): 251–276. https://doi.org/10.1215/00192082-12554043.",
+ "attempts": 1
+}

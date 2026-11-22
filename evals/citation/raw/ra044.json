@@ -1,0 +1,12 @@
+{
+ "run_id": "ra044",
+ "input": {
+  "doi": "10.18438/eblip29814"
+ },
+ "status": 200,
+ "latency_s": 2.45,
+ "apa": "Tayler, F., & Jafary, M. (2021). Shifting horizons: A literature review of research data management train-the-trainer models for library and campus-wide research support staff in Canadian institutions. Evidence Based Library and Information Practice, 16(1), 78–90. https://doi.org/10.18438/eblip29814",
+ "mla": "Tayler, Felicity, and Maziar Jafary. \"Shifting horizons: A literature review of research data management train-the-trainer models for library and campus-wide research support staff in Canadian institutions.\" Evidence Based Library and Information Practice 16, no. 1 (2021): 78–90. https://doi.org/10.18438/eblip29814.",
+ "chicago": "Tayler, Felicity, and Maziar Jafary. 2021. \"Shifting horizons: A literature review of research data management train-the-trainer models for library and campus-wide research support staff in Canadian institutions.\" Evidence Based Library and Information Practice 16 (1): 78–90. https://doi.org/10.18438/eblip29814.",
+ "attempts": 1
+}

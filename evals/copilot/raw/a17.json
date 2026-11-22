@@ -1,0 +1,12 @@
+{
+ "run_id": "a17",
+ "id": "a17",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "What do my sources say about nutrient inputs into Taal Lake from both rivers and fish cages?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.87,
+ "response": "Nutrient inputs to Taal Lake come from both its tributary rivers and from fish‑cage aquaculture operations.  \n\n* **Riverine inputs:**  Hilario and Perez (2013) quantified nitrogen (N) and phosphorus (P) loads from the Balete, Wawa, and Laurel Rivers.  Laurel River showed the highest concentrations of both P (significant at P < 0.01) and N (significant at P < 0.05), while Balete and Wawa contributed large nitrate‑nitrogen discharges (≈ 85 kg d⁻¹).  These riverine nutrients are transported within the lake by wind‑driven water movements that vary with the monsoon season <INLINE_CITATION>Hilario & Perez, 2013</INLINE_CITATION>.  \n\n* **Fish‑cage (aquaculture) inputs:**  Querijero and Mercurio (2016) compared water quality at a site with intensive fish‑cage farming to a non‑aquaculture site.  They found that nitrate, phosphate, and total dissolved solids (TDS) concentrations were **significantly higher** at the aquaculture station, indicating that fish cages are a point source of these nutrients <INLINE_CITATION>Querijero & Mercurio, 2016</INLINE_CITATION>.  \n\nTogether, the studies show that Taal Lake receives substantial nutrient loads from its tributaries—especially the Laurel River—and that fish‑cage operations further elevate nitrogen, phosphorus, and dissolved solids in the lake’s water column.",
+ "attempts": 1
+}

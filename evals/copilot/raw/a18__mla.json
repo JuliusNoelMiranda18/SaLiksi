@@ -1,0 +1,12 @@
+{
+ "run_id": "a18__mla",
+ "id": "a18",
+ "category": "answerable",
+ "format": "MLA",
+ "prompt": "Summarize the evidence that Sardinella tawilis is under pressure, combining the fishery and value-chain studies.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.76,
+ "response": "Sardinella tawilis is facing significant pressure from both biological over‑exploitation and economic constraints.  \n\n- Fishery assessments show a sharp decline in landings, from 744 t in 1996 to just 71 t in 2011, accompanied by a drop in catch‑per‑unit‑effort from 11 kg day⁻¹ to 4 kg day⁻¹, indicating reduced stock abundance (<INLINE_CITATION>Mutia et al. 1</INLINE_CITATION>).  \n- Stock‑assessment parameters reveal high fishing mortality (F = 1.57–3.28) and exploitation rates (E = 0.52–0.65), values that exceed sustainable thresholds and point to unsustainable fishing practices (<INLINE_CITATION>Mutia et al. 1</INLINE_CITATION>).  \n- The value‑chain analysis confirms that tawilis provides livelihoods for marginal fisherfolk, yet fishers capture the lowest share of value added in the chain, with commercial processors capturing the highest margin (<INLINE_CITATION>Muyot, Balunan, and Mutia 1</INLINE_CITATION>).  \n- The market for tawilis remains confined to local outlets, limiting income opportunities and discouraging investment in more sustainable or diversified fishing methods (<INLINE_CITATION>Muyot, Balunan, and Mutia 1</INLINE_CITATION>).  \n\nTogether, these findings illustrate that the species is biologically over‑harvested while the economic structure offers little incentive for fishers to adopt conservation‑oriented practices, placing Sardinella tawilis under compounded pressure.",
+ "attempts": 1
+}

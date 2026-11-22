@@ -1,0 +1,512 @@
+{
+ "ed009": {
+  "mla": {
+   "add": [],
+   "remove": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "note": "Spanish title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct."
+  },
+  "chicago": {
+   "add": [],
+   "remove": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "note": "Spanish title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct."
+  }
+ },
+ "ed013": {
+  "mla": {
+   "add": [],
+   "remove": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "note": "Portuguese title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct."
+  },
+  "chicago": {
+   "add": [],
+   "remove": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "note": "Portuguese title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct."
+  }
+ },
+ "ed019": {
+  "mla": {
+   "add": [],
+   "remove": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "note": "German title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct."
+  },
+  "chicago": {
+   "add": [],
+   "remove": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "note": "German title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct."
+  }
+ },
+ "ra002": {
+  "mla": {
+   "add": [
+    "invented_container"
+   ],
+   "remove": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "note": "Portuguese title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct. Adds a second container 'Vigilancia Sanitaria em Debate: Sociedade, Ciencia y Tecnologia' not in the record."
+  },
+  "chicago": {
+   "add": [],
+   "remove": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "note": "Portuguese title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct."
+  }
+ },
+ "ra048": {
+  "mla": {
+   "add": [],
+   "remove": [
+    "wrong_cap_rule:mla_sentence_case",
+    "authors_wrong"
+   ],
+   "note": "Arabic title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct. Arabic names romanized; accepted as transliteration."
+  },
+  "chicago": {
+   "add": [],
+   "remove": [
+    "wrong_cap_rule:chicago_sentence_case",
+    "authors_wrong"
+   ],
+   "note": "Arabic title: MLA 9/CMOS 17 keep the source language's capitalization, so sentence case is correct. Arabic names romanized; accepted as transliteration."
+  },
+  "apa": {
+   "add": [],
+   "remove": [
+    "authors_wrong"
+   ],
+   "note": "Arabic names romanized; accepted as transliteration."
+  }
+ },
+ "ra050": {
+  "mla": {
+   "add": [],
+   "remove": [
+    "wrong_cap_rule:mla_sentence_case"
+   ],
+   "note": "Heuristic false positive: prepositions and 'ddCOSMO'/'ddX' are correctly lower-case."
+  },
+  "chicago": {
+   "add": [],
+   "remove": [
+    "wrong_cap_rule:chicago_sentence_case"
+   ],
+   "note": "Heuristic false positive: prepositions and 'ddCOSMO'/'ddX' are correctly lower-case."
+  }
+ },
+ "ra015": {
+  "apa": {
+   "add": [],
+   "remove": [
+    "authors_wrong"
+   ],
+   "note": "CrossRef stores full names in 'family' with no given name; splitting to Septiari, W. D. is defensible."
+  }
+ },
+ "ed010": {
+  "apa": {
+   "add": [
+    "missing_article_number"
+   ],
+   "remove": [],
+   "note": "CrossRef article number 169 omitted (appears only inside the DOI)."
+  },
+  "mla": {
+   "add": [
+    "missing_article_number"
+   ],
+   "remove": [],
+   "note": "CrossRef article number 169 omitted (appears only inside the DOI)."
+  },
+  "chicago": {
+   "add": [
+    "missing_article_number"
+   ],
+   "remove": [],
+   "note": "CrossRef article number 169 omitted (appears only inside the DOI)."
+  }
+ },
+ "ed012": {
+  "apa": {
+   "add": [
+    "diacritics_dropped"
+   ],
+   "remove": [],
+   "note": "Kokoszyńska -> Kokoszynska and usługowej -> uslugowej: diacritics stripped (passes the spec's normalized field check, fails the judge)."
+  },
+  "mla": {
+   "add": [
+    "diacritics_dropped"
+   ],
+   "remove": [],
+   "note": "Kokoszyńska -> Kokoszynska and usługowej -> uslugowej: diacritics stripped (passes the spec's normalized field check, fails the judge)."
+  },
+  "chicago": {
+   "add": [
+    "diacritics_dropped"
+   ],
+   "remove": [],
+   "note": "Kokoszyńska -> Kokoszynska and usługowej -> uslugowej: diacritics stripped (passes the spec's normalized field check, fails the judge)."
+  }
+ },
+ "ra025": {
+  "apa": {
+   "add": [
+    "initials_wrong"
+   ],
+   "remove": [],
+   "note": "'Basariya, Dr.S. Rabiyathul' is not APA initials."
+  }
+ },
+ "Ura024": {
+  "apa": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "mla": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "chicago": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "notes": "fetch blocked by bot wall; citation built from the challenge page"
+ },
+ "Ura036": {
+  "apa": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "mla": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "chicago": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "notes": "fetch blocked by bot wall; citation built from the challenge page"
+ },
+ "Uph007": {
+  "apa": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "mla": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "chicago": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "notes": "fetch blocked by bot wall; citation built from the challenge page"
+ },
+ "Uph014": {
+  "apa": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "mla": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "chicago": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "notes": "fetch blocked by bot wall; citation built from the challenge page"
+ },
+ "Uph021": {
+  "apa": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "mla": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "chicago": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "notes": "fetch blocked by bot wall; citation built from the challenge page"
+ },
+ "Uph026": {
+  "apa": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "mla": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "chicago": {
+   "add": [
+    "cited_bot_wall_page"
+   ],
+   "remove": [],
+   "note": "Engine fetched a bot-check/CAPTCHA page and cited it as the source."
+  },
+  "notes": "fetch blocked by bot wall; citation built from the challenge page"
+ },
+ "Ura002": {
+  "apa": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "mla": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "chicago": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "notes": "no metadata retrieved (see url_diag.json for status)"
+ },
+ "Ura018": {
+  "apa": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "mla": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "chicago": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "notes": "no metadata retrieved (see url_diag.json for status)"
+ },
+ "Uph002": {
+  "apa": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "mla": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "chicago": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "notes": "no metadata retrieved (see url_diag.json for status)"
+ },
+ "Uph017": {
+  "apa": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "mla": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "chicago": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "notes": "no metadata retrieved (see url_diag.json for status)"
+ },
+ "Uph027": {
+  "apa": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "mla": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "chicago": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "notes": "no metadata retrieved (see url_diag.json for status)"
+ },
+ "Ued001": {
+  "apa": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "mla": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "chicago": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "notes": "no metadata retrieved (see url_diag.json for status)"
+ },
+ "Ura010": {
+  "apa": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "mla": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "chicago": {
+   "add": [
+    "fetch_failed"
+   ],
+   "remove": [],
+   "note": "No metadata retrieved; 'Unknown Author' webpage fallback."
+  },
+  "notes": "no metadata retrieved (see url_diag.json for status)"
+ },
+ "ra015__rep1": {
+  "apa": {
+   "add": [],
+   "remove": [
+    "authors_wrong"
+   ],
+   "note": "same CrossRef full-name-in-family quirk as ra015"
+  }
+ },
+ "ra015__rep2": {
+  "apa": {
+   "add": [],
+   "remove": [
+    "authors_wrong"
+   ],
+   "note": "same CrossRef full-name-in-family quirk as ra015"
+  }
+ },
+ "ra015__rep3": {
+  "apa": {
+   "add": [],
+   "remove": [
+    "authors_wrong"
+   ],
+   "note": "same CrossRef full-name-in-family quirk as ra015"
+  }
+ }
+}

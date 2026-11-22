@@ -1,0 +1,12 @@
+{
+ "run_id": "a28",
+ "id": "a28",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Rephrase this and add the right citation.",
+ "documentContent": "Microcystis is the most common algae in Taal Lake.",
+ "status": 200,
+ "latency_s": 1.48,
+ "response": "<DOCUMENT_EDIT>\n<REPLACE_TEXT>Microcystis is the most common algae in Taal Lake.</REPLACE_TEXT>\n<NEW_TEXT>Microcystis dominates the phytoplankton community in Taal Lake <INLINE_CITATION>(Mercurio et al., 2016)</INLINE_CITATION>.</NEW_TEXT>\n</DOCUMENT_EDIT>",
+ "attempts": 1
+}

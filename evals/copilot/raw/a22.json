@@ -1,0 +1,12 @@
+{
+ "run_id": "a22",
+ "id": "a22",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "What do my sources say about the effect of volcanic activity on Taal Lake?",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.87,
+ "response": "Volcanic activity has been identified as a major driver of ecological disturbances in Taal Lake.  According to a participatory study of local communities, volcanic eruptions can trigger fishkill events through several mechanisms: oxygen depletion, lake overturn, sudden changes in water colour, hydrothermal vents, and general poor water quality caused by volcanic inputs (Macandog et al., 2014) <INLINE_CITATION>Macandog et al., 2014</INLINE_CITATION>.  The same study notes that these events are compounded by anthropogenic factors such as improper aquaculture practices, but the volcanic component is a primary environmental trigger (Macandog et al., 2014) <INLINE_CITATION>Macandog et al., 2014</INLINE_CITATION>.  \n\nIn the aftermath of the 2020 Taal volcano eruption, soil and water samples around the lake showed elevated levels of heavy metals, particularly arsenic, with a two‑fold increase in Talisay, Batangas, and a one‑fold increase in Tagaytay City, Cavite (Banta & Salibay, 2023) <INLINE_CITATION>Banta & Salibay, 2023</INLINE_CITATION>.  Cadmium and mercury concentrations remained within acceptable limits, but the arsenic spike is attributed to ashfall, wind direction, and groundwater contamination from the eruption (Banta & Salibay, 2023) <INLINE_CITATION>Banta & Salibay, 2023</INLINE_CITATION>.  \n\nTogether, these findings highlight that volcanic activity not only induces acute fishkill events through physical and chemical changes in the lake but also contributes to long‑term contamination of the surrounding environment.",
+ "attempts": 1
+}

@@ -1,0 +1,12 @@
+{
+ "run_id": "a23",
+ "id": "a23",
+ "category": "answerable",
+ "format": "APA",
+ "prompt": "Write a short paragraph on eutrophication in Taal Lake using my sources.",
+ "documentContent": "",
+ "status": 200,
+ "latency_s": 1.98,
+ "response": "Taal Lake is showing clear signs of eutrophication, as phytoplankton densities are significantly higher in aquaculture zones and cyanobacteria such as Microcystis dominate the community, indicating organic pollution and nutrient enrichment <INLINE_CITATION>(Mercurio et al., 2016)</INLINE_CITATION>. Water‑quality assessments further reveal that nitrate, phosphate, and total dissolved solids are markedly elevated in fish‑cage areas compared with non‑aquaculture sites, providing the nutrients that drive algal blooms <INLINE_CITATION>(Querijero & Mercurio, 2016)</INLINE_CITATION>. These eutrophic conditions have been linked to recurring fish‑kill events, which local residents associate with poor water quality, low dissolved oxygen, and anthropogenic pollution <INLINE_CITATION>(Macandog et al., 2014)</INLINE_CITATION>.",
+ "attempts": 1
+}
