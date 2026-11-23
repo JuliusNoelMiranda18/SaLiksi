@@ -1,0 +1,57 @@
+
+> dunong@0.1.0 build
+> next build
+
+▲ Next.js 16.2.1 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 17.0s
+  Running TypeScript ...
+  Finished TypeScript in 6.9s ...
+  Collecting page data using 7 workers ...
+  Generating static pages using 7 workers (0/33) ...
+  Generating static pages using 7 workers (8/33) 
+  Generating static pages using 7 workers (16/33) 
+  Generating static pages using 7 workers (24/33) 
+✓ Generating static pages using 7 workers (33/33) in 422ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ○ /aitools
+├ ƒ /api/autocomplete
+├ ƒ /api/bibliography
+├ ƒ /api/citation
+├ ƒ /api/credibility
+├ ƒ /api/defenders/evaluate
+├ ƒ /api/defenders/question
+├ ƒ /api/dev-trace
+├ ƒ /api/export
+├ ƒ /api/extract-pdf
+├ ƒ /api/gaps
+├ ƒ /api/generate-context
+├ ƒ /api/generate-gap-topics
+├ ƒ /api/generate-problem-topics
+├ ƒ /api/generate-topics
+├ ƒ /api/graph
+├ ƒ /api/layman
+├ ƒ /api/pdf-info
+├ ƒ /api/research
+├ ƒ /api/suggestions
+├ ƒ /api/synthesis
+├ ƒ /api/writer
+├ ƒ /api/writer/autocomplete
+├ ○ /citation
+├ ○ /credibility
+├ ○ /defenders
+├ ○ /library
+├ ○ /researcher
+├ ○ /topic-generator
+└ ○ /writer
+
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+

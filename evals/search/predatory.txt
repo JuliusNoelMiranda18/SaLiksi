@@ -1,0 +1,2793 @@
+# Beall's list (archived mirror at beallslist.net), fetched 2026-11-24
+# sources: https://beallslist.net/ (publishers, tag P) and https://beallslist.net/standalone-journals/ (standalone journals, tag J)
+P	1088 Email Press
+P	2425 Publishers
+P	The 5th Publisher
+P	ABC Journals
+P	A M Publishers
+P	Abhinav
+P	Academe Research Journals
+P	Academia Publishing
+P	Academia Research
+P	Academia Scholarly Journals
+P	Academic and Business Research Institute
+P	Academic and Scientific Publishing
+P	Academic Direct Publishing House
+P	Academic Journals
+P	Academic Journals and Research ACJAR
+P	Academic Journals Online
+P	Academic Journals, Inc.
+P	Academic Knowledge and Research Publishing
+P	Academic Organization for Advancement of Strategic and International Studies
+P	Academic Publications, Ltd.
+P	Academic Research in Science, Engineering, Art and Management
+P	Academic Research Journals
+P	Academic Research Publishers
+P	Academic Research Publishing Agency
+P	Academic Research Publishing Group
+P	Academic Research Publishing House
+P	Academic Scholars Publishing House
+P	Academic Sciences
+P	Academic Star Publishing Company [also here
+P	Academic Web Publishers
+P	Academic World Education & Research Center
+P	AcademicDirect Publishing House
+P	Academicians’ Research Center
+P	Academics World
+P	Academy for Environment and Life Sciences
+P	Academy Journals
+P	Academy of Business & Scientific Research
+P	Academy of IRMBR International Research in Management and Business Realities
+P	Academy of Knowledge Process
+P	Academy of Science and Engineering
+P	Academy of Science and Social Science
+P	Academy of Scientific and Applied Research
+P	Academy Publish
+P	Access International Journals
+P	Access Journals
+P	Access Publishers
+P	ACT Publishing
+P	Acta Scientifica
+P	AD Publication
+P	AD Publications
+P	Ada Lovelace Publications
+P	Advance Educational Institute & Research Centre
+P	Advance Journals
+P	Advanced Institute of Convergence Information Technology
+P	Advanced Journals
+P	Advanced Research Journals
+P	Advanced Research Publications
+P	Advanced Scholars Journals
+P	Advanced Science and Engineering Technology Institute
+P	Advanced Science Research Journals
+P	Advanced Technology & Science
+P	Advancement and Development in Technology International
+P	Advancements in Science
+P	Adyan Academic Press
+P	AENSI
+P	African Research Review
+P	AgiAl Publishing House
+P	Agropub
+P	AINSTIN Knowledge Hub
+P	AIRCC Publishing Corporation
+P	Aizeon Publishers
+P	Albert Science International Organization
+P	Allied Academies
+P	Allied Journals
+P	Ambit Journals
+P	AME Publishing Company (new website here
+P	American Academic & Scholarly Research Center
+P	American Association for Science and Technology
+P	American Journal
+P	American Research Institute for Policy Development
+P	American Research Journals
+P	American Research Publications
+P	American Scholarly Research Association
+P	American Scientific Research Journals
+P	American Society of Registered Nurses
+P	American Society of Science and Engineering
+P	American V-King Scientific Publishing
+P	Amoghsiddhi Education Society (AES) (AES Journals in Engineering Technology, Management, and Sciences ; AES E-JOURNALS) also here
+P	Andrew John Publishing Inc.
+P	Annex Publishers
+P	ansinet
+P	Antarctic Journals
+P	Aperito Online Publishing
+P	Apex Journal
+P	Applied Science Innovations (note: their journal “Carbon: Science and Technology” is indexed by DOAJ
+P	APST Publication
+P	Arabian Group of Journals
+P	Aradhya International Publication
+P	ARC Journals
+P	Archers & Elevators Publishing House
+P	Archyworld
+P	ARPN Journals
+P	AS Publishers
+P	ASD Publisher
+P	Ashdin Publishing
+P	AshEse Visionary
+P	Asia-Pacific Association of Medical Research
+P	Asia Pacific Institute of Advanced Research
+P	Asian Academic Research Associates
+P	Asian and American Research Publishing Group
+P	Asian Economic and Social Society
+P	Asian Online Journal Publishing Group
+P	Asian Online Journals
+P	Asian Pharma Press
+P	Asian Publication Corporation
+P	Asian Research Consortium
+P	Asian Transactions
+P	Associated Asia Research Foundation
+P	Association for Sustainable Education, Research and Science (ASERS Publishing) (new website here
+P	Association of Computer Electronics and Electrical Engineers
+P	Association of North America Higher Education International
+P	Aster Publications
+P	AstonJournals
+P	Athal Press & Media
+P	Atharva Scientific Publications
+P	Athens Institute for Education and Research
+P	Atlas Publishing, LP
+P	Aufau Periodicals
+P	Austin Publishing Group
+P	Australasian Centre for Research and Development
+P	Australian Academy of Business and Social Sciences
+P	Australian Academy of Business Leadership
+P	Australian International Academic Centre Pty. Ltd.
+P	Australian International Research Consortium
+P	Australian Society for Commerce Industry & Engineering
+P	Austrian E-Journals of Universal Scientific Organization
+P	Austrian Scientific Publication House
+P	Avanti Publishers.com
+P	Avens Publishing Group
+P	Avestia Publishing
+P	Avicena Publisher
+P	Avid Science
+P	Axis Journals
+P	Baishideng Publishing Group
+P	Basha Research Corporation
+P	Basic Research Journals
+P	Bell Press
+P	Bentham Open
+P	Best Journals
+P	Better Advances Press
+P	Betty Jones & Sisters Publishing
+P	Binary Information Press
+P	Bio Accent
+P	Bio Core
+P	Bioflux Society
+P	Biohelikon
+P	Biohouse Publishing Group
+P	BioInfo Publications
+P	BioIT international Journals
+P	Biological and Chemical Publishing
+P	BioMed Press
+P	BioMed Research
+P	BioMedSciDirect Publications
+P	BioPublisher
+P	Blaze Journals
+P	Blue Apple Publications
+P	Blue Eyes Intelligence Engineering & Sciences Publication
+P	Blue Ocean Research Journal
+P	BluePen Journals
+P	Bonfring
+P	Bowen Publishing
+P	Brainy Buzz
+P	Bret Research Journals
+P	British Association of Academic Research
+P	British Journal
+P	British Open Research Publications
+P	BRNSS Publication Hub
+P	Business Journalz
+P	Business Perspectives (note: this publisher has been removed by DOAJ in 2017 for suspected editorial misconduct, however they have been re-added in January 2019. Most of their journals are now indexed by DOAJ
+P	Cafet Innova Technical Society
+P	Cairo Center for Development Benchmarking
+P	Canadian Center of Science and Education
+P	Canadian Research Publication
+P	Canadian Science and Research Group
+P	Canadian Science and Technology Press Inc.
+P	Cardiology Academic Press
+P	CARI Journals
+P	Cenetri Publishing Group
+P	Center for Enhancing Knowledge
+P	Center for Global Research Development
+P	The Center for Innovations in Business & Management Practice
+P	Center for Natural Science & Engineering Research
+P	Center for Promoting Ideas
+P	Center for the Development and Dissemination of Knowledge
+P	Center of Advanced Scientific Research and Publications
+P	Central Bohemia University Publishing
+P	Central Research Insight
+P	Centre For Info Bio Technology
+P	Centre for Multidisciplinary Research, Innovation and Collaboration
+P	Centre for Promoting Knowledge
+P	Centre of Excellence for Scientific & Research Journalism
+P	Centre of Promoting Research Excellence
+P	CESER Publications (another website: here
+P	Chitkara University Publications
+P	CIRWORLD also here
+P	Clerisy Publishers
+P	ClinMed International Library
+P	Cloud Journals
+P	Cloud Publications
+P	The Clute Institute
+P	Clyto Access
+P	Coltharp Institute
+P	Columbia International Publishing
+P	Comparative Journals
+P	Comprehensive Research Journals
+P	Computer Science Journals
+P	CONFAB Journals
+P	Congress Press
+P	CONSORTIUM Intellectual Consortium of Drug Discovery and Technology Development, Inc.
+P	Contemporary Research Center
+P	Convergence Information Society
+P	Cosmic Journals
+P	Cosmos Scholars Publishing House
+P	Council for Innovative Research
+P	CRDEEP International Journals
+P	Cresco Online Publishing also here
+P	CREST Journals
+P	Crown Journals
+P	CSCanada
+P	CTR Publications
+P	Current Research Web
+P	Cyber Journals
+P	DAMA International
+P	Darsgah-e-Ahlebait
+P	Darshan Publishers
+P	David Publishing also here
+P	Deccan Pharma Journals
+P	DeNovo Scientific Publishing
+P	Dentamed Publishing
+P	Design for Scientific Renaissance
+P	DEStech Publications, Inc.
+P	Developing Country Think Tank Institute
+P	Dhan Med Publishers
+P	Didactic Journals
+P	Digital Information Research Foundation
+P	Digital Science Press
+P	Direct Research Journals
+P	DISA Publication Group
+P	Discourse Journals
+P	Discovery Publication
+P	DJ Publications
+P	Donnish Journals
+P	Dorma Journals
+P	Dr.BGR Publications
+P	DRUNPP Sarajevo
+P	Dynamic Publishers
+P	e-Century Publishing Corporation
+P	E-Cronicon
+P	e-journal
+P	e-Science Central
+P	e3Journals
+P	Eagle Publishing Group
+P	Earth Journals
+P	“East West” Association For Advanced Studies and Higher Education
+P	Ebioscholar
+P	Ebu Press
+P	eCanadian Journals
+P	Econjournals (note: all their journals are indexed by DOAJ
+P	The Economics and Social Development Organization
+P	Edelweiss Publications
+P	EDUGAIT Press
+P	E-International Journals of Academic & Scientific Research
+P	E-International Scientific Research Journal Consortium
+P	Eighth Sense Research Group
+P	Einstein International Journal Organization
+P	EISRJC Journals
+P	eJM (eJM Science, eJManager
+P	eJournals of Academic Research & Reviews
+P	Eko Journal
+P	eLearning Institute
+P	Electronic Center for International Scientific Information
+P	Elewa Bio Sciences
+P	Elite Hall Publishing House
+P	Elite Research Journals
+P	ELK Asia Pacific Journals
+P	ElmCore Journals
+P	Elmer Press
+P	ELVEDIT.COM
+P	Elyns Publishing Group
+P	Emerging Academy Resources
+P	Engineering and Technology Publishing
+P	Engineering Journals
+P	Engineering Publication House
+P	Engineering Research Publication
+P	Enhanced Research Publications
+P	Enliven Archive
+P	Enriched Science Publication
+P	Enviro Publishers / Enviro Research Publishers (note: this publisher is most likely not predatory; two journals are indexed in JCR – here and here, one is a member of COPE
+P	ERM Publications
+P	EPH Journal
+P	EPIX PUB
+P	EPRA Journals
+P	EPRA Wisdom
+P	Erudite Journals Limited
+P	ESRSA Publication
+P	ESci Journals Publishing
+P	eScience Publisher
+P	ETA Maths Journals
+P	Ethan Publishing Company
+P	Eurasian Academy of Sciences
+P	Eurasian Publications (note: all their journals are indexed by DOAJ
+P	Eurasian Research Publishing
+P	Eurasian Union of Scientists
+P	Euro Asia Research and Development Association
+P	EuroJournals
+P	European-American Journals (and here
+P	European Center for Science Education and Research
+P	European Journals of Business Management
+P	European Journals of Education Studies
+P	The European Scientific Community
+P	European Union Research Publishing
+P	Everant
+P	EverScience Publications
+P	ExcelingTech Publishing Company, Ltd.
+P	Excellent Publishers
+P	Excellent Word Journals
+P	Excelytics Publishers
+P	Expert Journals
+P	Far East Research Centre
+P	Ficus Publishers
+P	Finlogy
+P	Focus in Research & Education
+P	Foundation for Promotion of Basic & Applied Science
+P	Friends Science Publishers
+P	Frontiers (note: details of how this publisher was added to the list: here
+P	Frontiers in Bioscience
+P	FSSH Scholarly Journals
+P	Fundamental Journals
+P	Fundamental Research and Development International
+P	Future Academy
+P	Galore Knowledge Publication Pvt. Ltd.
+P	Gatha Cognition
+P	Gavin Publishers
+P	GBS Publishers & Distributors (India)
+P	Genexcellence Publication
+P	German Science and Technology Press
+P	Gexin Publications
+P	Global Academic Institute
+P	Global Advanced Research Journals
+P	Global Business Research Journals
+P	Global Institute for Research and Education
+P	The Global Journals
+P	Global Journals, Inc. (US) (new websiite: https://globaljournals.org/ and https://journalofscience.org/
+P	Global Open Journals
+P	Global Openaccess
+P	Global Publishing Corporation
+P	Global Research Journals
+P	Global Research Online
+P	Global Research Publishing
+P	Global Researchers Journals
+P	Global Scholars Journals
+P	Global Science Center LP
+P	Global Science Publishing Group
+P	Global Science Research Journals
+P	Global Scientific, Inc.
+P	Global Scientific Research Journals
+P	Global Society of Scientific Research and Researchers
+P	Global Technocrats & Intellectual’s Association
+P	GlobalSkope Publishing Society
+P	Gnosis Open Access Publishers [Link dead; re-branded as Gratis Open Access Publishers
+P	Gopalax
+P	GRABS Educational Charitable Trust
+P	Graphy Publications
+P	Gratis Open Access Publishers
+P	GRDS Publishing
+P	Green Earth Research Network
+P	Green Global Foundation
+P	Greener Journals
+P	Greenfield Advanced Research Publishing House
+P	GS Publishers
+P	GSB Life Sciences
+P	Gurpukur Research Institute
+P	Gyancity Research Lab Private Limited
+P	Hans Publishers, Inc.
+P	Har Krishan Bhalla & Sons
+P	Heighten Science Publications
+P	Helics Scientific Network
+P	Hendun Research Access
+P	Henry Publishing Group
+P	Herald International Research Journals
+P	Herald Scholarly Open Access
+P	Herbert Open Access Journals
+P	Hikari Ltd.
+P	Hind Agri-Horticultural Society
+P	Horizon Journals
+P	Horizon Research Publishing
+P	Human and Sciences Publications
+P	Human Resource Management Academic Research Society
+P	i-Explore International Research Journals Consortium
+P	IAMURE Multidisciplinary Research
+P	ibai-publishing
+P	IBIMA Publishing
+P	ICGST
+P	iConcept Press Ltd.
+P	Id Press / ID Design
+P	IERI & PRESS
+P	IGM Publication
+P	IIARD Publication Company
+P	iJARS Group
+P	Ijbsse.org
+P	ijManager – Online Journal Management
+P	IJRCM
+P	IMED Research Publications
+P	iMedPharm
+P	iMed.pub
+P	Impact Journals
+P	Impact Journals
+P	Imperial Journals
+P	Imprints Open Access
+P	Indian Academicians and Researchers Association
+P	Indian Society for Education and Environment
+P	IndianResearchJournals.Com
+P	Indus Foundation for Education, Research & Social Welfare
+P	Infinity Press
+P	infofacility
+P	Infonomics Society
+P	Inforesights Publishing
+P	Informatics Journals
+P	Information Engineering Research Institute
+P	Ingenious Enterprises International
+P	Innovare Academic Sciences
+P	Innovational Publishers
+P	Innovative Journals
+P	Innovative Publication
+P	Innovative Space of Scientific Research
+P	Innovinc
+P	INPRESSCO
+P	INREWI
+P	Ishaan Publishing House
+P	Insight Core
+P	Insight Knowledge (also here
+P	Insight Medical Publishing
+P	Instaci
+P	The Institute for Business and Finance Research
+P	Institute for Research and Development India
+P	Institute of Advanced Scientific Research
+P	Institute of Doctors Engineers and Scientists
+P	Institute of Electronic & Information Technology
+P	Institute of Integrative Omics and Applied Biotechnology
+P	Institute of Language and Communication Studies
+P	Institute of Research Advances
+P	Institute of Research and Journals
+P	Institute of Research Engineers and Doctors
+P	Institute of Research Engineers and Scientists
+P	Institute of Research In Engineering and Technology
+P	Institute of Strategic and International Studies
+P	InTechOpen – Mirror site (note: on 13 May 2016 their entire journal collection have been transferred to SAGE
+P	Integrated Academic Journals
+P	Integrated Intelligent Research
+P	Integrated Publishing Association
+P	Integrated Science Publications
+P	Intellectual Archive
+P	Intercontinental Management Research Review
+P	Interlink Continental Journals
+P	Intermedcentral
+P	International Academic Journals
+P	International Academic Publishing House
+P	International Academy for Advancement of Business Research
+P	International Academy for Science & Technology Education and Research
+P	International Academy of Arts, Science & Technology
+P	International Academy of Business
+P	International Academy of Business & Economics
+P	International Academy of Computer & IT Engineering
+P	International Academy of Ecology and Environmental Sciences
+P	International Academy of Science and Higher Education
+P	International Academy of Science, Engineering and Technology
+P	International Academy of Science, Engineering and Technology
+P	International Academy of Science, Technology, Engineering and Management
+P	International Academy Publishing
+P	The International Academy, Research and Industry Association
+P	International Advances for Research
+P	International Agency for Development of Culture, Education and Science
+P	International Association for Academians
+P	International Association for Engineering & Technology
+P	International Association for Engineering and Management Education
+P	International Association of Computer Science and Information Technology
+P	International Association of Advances in Engineering and Technology
+P	International Association of Engineering & Technology Researchers
+P	International Association of Journals & Conferences
+P	International Association of Scientific Innovation and Research
+P	International Association of Technology Education & Industry
+P	International Bauhaus Science Press
+P	International Center for Business Research
+P	International Centre for Integrated Development Research
+P	International Centre of Culture Inventory
+P	International Computer Science and Engineering Society
+P	International Conference on Computer Science and Engineering
+P	International Digital Organization for Scientific Information
+P	International Economics Development and Research Center
+P	International Education Research Foundation
+P	International Educative Research Foundation And Publisher
+P	International eJournals
+P	International Formulae Group
+P	International Forum of Researchers Students and Academician
+P	International Foundation for Modern Education and Scientific Research
+P	International Foundation for Research and Development
+P	International Indexed Refereed Research Journal
+P	International Information Institute
+P	International Institute for Private, Commercial and Competition Law
+P	International Institute for Science, Technology and Education
+P	International Institute of Engineers
+P	International Institute of Engineers & Researchers (alse here
+P	International Institute of Informatics and Systemics
+P	International Institute of Science & Industry Research
+P	International Invention Journals
+P	International Journal of College & University
+P	International Journal of Research & Development Organisation
+P	International Journal Publishers Group
+P	The International Journal Research Publications
+P	International Journals
+P	International Journals.co.in
+P	International Journals for Research
+P	International Journals for Research
+P	International Journals for Researchers
+P	International Journal of Academic Research
+P	International Journals of Engineering & Sciences
+P	International Journals of Multi Dimensional Research
+P	International Journals of Multidisciplinary Research Academy
+P	International Journals of N&N Global Technology
+P	International Journals of Research
+P	International Journals of Research Papers
+P	International Journals of Sciences and High Technologies
+P	International Journals of Scientific Knowledge
+P	International Journals of Scientific Research Publications
+P	International Journals of Scientific Research
+P	International Knowledge Press (also here
+P	International Network for Applied Sciences and Technology
+P	International Network for Natural Sciences
+P	International Network for Scientific & Industrial Information
+P	International Online Knowledge Services Provider
+P	International Online Medical Council
+P	International Organization Center of Academic Research
+P	International Organization of Scientific Invention
+P	International Organization of Scientific Research
+P	International Organization of Scientific Research and Development
+P	International Postgraduate Network
+P	International Publisher & C.O
+P	International Publisher for Advanced Scientific Journals
+P	International Recognition Multidisciplinary Research Journals, Monthly Publish
+P	International Recognition Research Journals
+P	International Research Association of Computer Science, & Technology
+P	International Research E-Journals
+P	International Research Group
+P	International Research Journals
+P	International Research Journals
+P	International Research Organization of Computer Science
+P	International Research Publication House
+P	International Research Society For Promotion of Science
+P	International Scholarly Open Access Research (ISOAR) (also here) (see also Edupedia Publications
+P	International Scholars Journals
+P	International Science & Research Journals
+P	International Science and Medical Journals
+P	International Science Community Association
+P	International Scientific Academic Corporation
+P	International Scientific Academy of Engineering & Technology
+P	International Scientific Engineering and Research Publications
+P	International Scientific Invention Journals
+P	International Scientific Publications
+P	International Scientific Research Organization for Science, Engineering and Technology
+P	International Scientific Research Organization Journals
+P	International Skill Research Journals
+P	International Society for Engineering Research and Development
+P	International Society for Engineers and Researchers
+P	International Society for green.sustainable engineering and management
+P	International Society for Zoological Research
+P	International Society of Thesis Publication
+P	International Society of Universal Research in Sciences
+P	InternationalJournals.co.in
+P	Internet Scientific Publications
+P	Interscience Journals
+P	Interscience Open Access Journals
+P	Inter-USE
+P	Intuition Journals
+P	Invention Journals
+P	IORE International
+P	IOS Publishing
+P	iProbe
+P	Ira Publications
+P	IRED International Journals
+P	IRO Journals
+P	IROSSS
+P	Isaac Scientific Publishing
+P	iSER Publications
+P	Ishitv Technologies
+P	ISISnet
+P	Islamic World Network for Environmental Science and Technology
+P	ISPACS
+P	Ivy Union Publishing
+P	Jabalpur Management Association
+P	Jacobs Publishers
+P	JACS Directory
+P	Jaypee Journals
+P	JET Publishing
+P	Journals of Scientifics R&D
+P	Joseph Publishing Group
+P	Journal Dynamics
+P	Journal Issues
+P	Journal Network
+P	Journal of Comprehensive Research
+P	Journal of Harmonized Research Publications
+P	Journal of The International Association of Advanced Technology and Science
+P	Journals Club & Co.
+P	Journals Pub
+P	JournalsBank
+P	JScholar Journals
+P	JSciMed Central
+P	July Press
+P	Juniper Publishers
+P	Jyoti Academic Press
+P	KAAV Publications
+P	Kaleidoscope Journals
+P	KambohWell Publisher Enterprises
+P	Kamla Raj Enterprises
+P	KEI Journals
+P	KEJA Publications
+P	Kenkyu Group
+P	Key Research Journals
+P	Kiban Research Publications
+P	Kindi Publication
+P	Knowledge Publishing Printing & Distribution House
+P	Knowledgebase Publishers
+P	KnowledgeCuddle Publication
+P	KnowledgesPublisher
+P	Knowledgia Scientific
+P	Kogaion Publishing Center
+P	Kowsar Publishing (also Brieflands
+P	Kozmenko Science Publishing
+P	Krishi Sanskriti
+P	KSP Journals
+P	KY Publications
+P	Ladder Publishing House
+P	Landmark Research Journals
+P	LAR
+P	Lawarence Press
+P	Lecolink Research Journals
+P	Lectito Journals
+P	Leena & Luna International
+P	Lexis Publisher
+P	Library of Academic Resources
+P	Lifescience Global
+P	LifeSciFeed Ventures
+P	Lighthouse Journal Publication
+P	Literati Scientific and Publishers
+P	London Journals Press
+P	Longbridge Publishing Company
+P	Look Academic Publishers
+P	Lorem Journals
+P	Macoctagon Journals
+P	macroJournals
+P	Macrothink Institute
+P	MacroWorld
+P	Madridge Publishers
+P	Mainspringer
+P	Management Journals
+P	Marsland Press
+P	Mary and Sam Research Academia
+P	Maryland Institute of Research
+P	MASAUM Network
+P	Mathews Open Access Journals
+P	Maxwell Scientific Organization
+P	MAYFEB Technology Development
+P	McMed International
+P	Meas Publishing Ltd
+P	MECS
+P	MedCrave
+P	Medical science
+P	Medip Academy
+P	MEDNANO Publications
+P	Medwell Journals
+P	Medwin Publishers
+P	Meghana Publications
+P	Mehta Press
+P	Merit Research Journals
+P	Meta Research Press
+P	MNK Publication
+P	Modern Research Publishers
+P	Modern Scientific Press
+P	Mr. Scholar
+P	Muhammadon Centre for Research and Development
+P	MuK Publications & Distributions
+P	Multidisciplinary Journals
+P	Mustang Journals
+P	N&N Global Technology
+P	Narain Publishers Pvt. Ltd
+P	National Association of Scholars
+P	National College of Physicians
+P	Natural Sciences Publishing Corporation
+P	Naturepub
+P	Nauk Publication
+P	Nessa Publishers
+P	Net Journals
+P	New Century Publishing Group
+P	New Century Science Press
+P	New Delhi Publisher
+P	New Ground Research Journals
+P	New Science Series Journals
+P	New Scientist Publishers
+P	New World Publishing
+P	New World Sciences Academy
+P	Newpubli
+P	Nexus Academic Publishers
+P	nhsJournal
+P	Noble Academic Publisher
+P	Nobel International Journals
+P	NobleResearch
+P	Non Olympic Times
+P	North American Research Publishing
+P	North Asian International Research Journal Consortium
+P	North Atlantic University Union
+P	Noto-are
+P	Nova Explore Publications
+P	Novel Science
+P	Novelty Journals (see also Social Science Journals
+P	Novus Scientia Journals
+P	Nuclei Online
+P	OA Publishing London
+P	OAE Publishing, Inc. (OAE)
+P	Oak-Fortress Journals
+P	OASP Journals
+P	Oceanic Journals
+P	Ology Science
+P	OMICS International
+P	Ommega Publishers
+P	OneCentral Press
+P	Online Journals Management System
+P	Online Research Journals
+P	Online Science Publishing
+P	OPAST
+P	Open Access eBooks
+P	Open Academic Press
+P	Open Access Journal Limited
+P	Open Access Journals
+P	Open Access Journals Publishing Company
+P	Open Access Library
+P	Open Access Pub also here
+P	Open Access Publishing Group
+P	Open Access Science Research Publisher
+P	Open Access Text
+P	Open BioMedical Publishing Corporation (OBM) (note: see also LIDSEN Publishing Inc.
+P	Open Journal Systems
+P	Open Knowledge Journals
+P	Open Research and Science Library
+P	Open Research Network
+P	Open Research Society
+P	Open Science
+P	Open Science Publications
+P	OpenAccessPub also here
+P	Openventio Publishsers
+P	OPR Science
+P	ORB Academic Publisher
+P	Orbit Research and Development
+P	ORIC Publications
+P	Ozean Publications
+P	Pacesetter Online Publishers
+P	Pacific Group of e-Journals
+P	Pak Publishing Group
+P	Pakistan Science Mission
+P	Palgo Journals
+P	Panacea Research Library
+P	Paper Publications (see also Social Science Journals
+P	PaperSciences Research Publisher
+P	Paramount Journals
+P	PBS Journals
+P	Peak Journals
+P	Pearl Publication
+P	Pearl Research Journals
+P	Peertechz
+P	Pelagia Research Library
+P	Pencil Academic Press
+P	Pezzottaite Journals
+P	Pharma Intelligence
+P	Pharma Publisher
+P	Pharma Research Library
+P	Pharmaceutical Research Foundation
+P	PharmaInfo
+P	PharmaInterScience Publishers
+P	Pharmascope Publications
+P	Philippine Association of Institutions for Research
+P	Photon Foundation
+P	Pinnacle Journal Publication
+P	Pinnacle Research Journals
+P	Pioneer Scientific Publisher
+P	PiscoMed Publishing
+P	Planetary Scientific Research Center
+P	Platinum Global Journals
+P	Premier Publishers
+P	PressAcademia
+P	Prime Journals
+P	Pristine Research Journal Publications
+P	Priyanka Research Journal Publication
+P	Progressive Academic Publishing
+P	Progressive Science Publications
+P	Project Innovation   also here
+P	ProJournals
+P	Proscience Journals
+P	Prudence Journals
+P	Prudent Journals
+P	Pubicon International Publications
+P	Public Science Framework
+P	Publishing House of Sciences
+P	Pulsus Group
+P	Purple Journals
+P	Pushpa Publishing House
+P	Pyrex Journals
+P	Qingres
+P	Quazzy Journals
+P	Quest Journals
+P	R&D Modern Research Publication
+P	RAJ Group
+P	Rating Academy
+P	Readers Insight Publishers
+P	Recent Science
+P	Red Flower Publication Private Limited
+P	RedFame Publishing
+P	Remedy Publications
+P	Renu Publishers
+P	Research & Analysis Journals
+P	Research Academy of Social Sciences
+P	Research Alert Journals
+P	Research and Educational Society
+P	Research and Knowledge Publication
+P	Research and Scientific Innovation Society
+P	Research & Reviews
+P	Research Centre for Management and Social Studies
+P	Research Consultants and Publisher
+P	Research Foundation for Humanity
+P	Research India Publications
+P	Research Institute for Progression of Knowledge
+P	Research Institute for Science, Technology, and Society
+P	Research Journal
+P	ResearchLEAP
+P	Research Open
+P	Research Publish Journals (see also Social Science Journals
+P	Research Publisher
+P	Research Publishing Group
+P	Research, Science, and Technology Publishers
+P	Research Script
+P	Research Trend
+P	Research WebPub
+P	Researchjournali
+P	Revistas Academicas
+P	Revotech Press
+P	RG Education Society
+P	Rising Vision
+P	Ross Science Publishers
+P	RS Publication
+P	Rutveg Publishing, Inc.
+P	RW|ResearchWorld
+P	Sacha And Diamond Academic Publishers
+P	Sageya Publishers
+P	Sadguru Publications
+P	Sai Om Publications
+P	Sai Scientific Communications
+P	Sakun Publishing House
+P	SAMANM Group of Research Publications
+P	Sanford Inter Science Press
+P	Sans Publishing Group
+P	Sapient Press
+P	Savant Journals
+P	SAVAP International
+P	Savvy Science Publisher
+P	Scholar Journals
+P	Scholar People
+P	Scholar Publications
+P	Scholar Science Journals
+P	ScholArena (also here
+P	Scholarlink Resource Centre Limited
+P	Scholarly and Academic Research Journals
+P	Scholarly Journals
+P	Scholarly Research Journal’s
+P	Scholarly Research Publisher
+P	Scholars Academic and Scientific Publishers
+P	Scholars Scitech Research
+P	Scholars Middle East Publishers
+P	Scholars Research Library
+P	ScholarsHub.net
+P	Scholedge R&D Center
+P	Scholink
+P	Scholoxy Publications
+P	Sci-Afric Publishers
+P	Sci-Edit Publications
+P	Sci Forschen
+P	SciDoc Publishers
+P	Sciedu Press
+P	Science & Engineering Research Support soCiety
+P	Science & Knowledge Publishing Corporation Limited
+P	The Science and Information Organization
+P	Science and Knowledge Research Society
+P	Science Academy Publisher
+P	Science Alert
+P	Science and Education Centre of North America
+P	Science and Education
+P	Science and Engineering Publishing Company
+P	Science and Technology Central
+P	Science and Technology Publishing
+P	Science Arena Publications
+P	Science Education Foundation
+P	Science Explorer Publications
+P	Science Fair Open Library
+P	ScienceFlora
+P	Science Huβ
+P	Science Instinct Publications
+P	Science Journal Publication
+P	Science Park Journals
+P	Science Park Research Organization and Counseling
+P	Science Publications
+P	Science Publications
+P	Science Publishing Corporation
+P	Science Publishing Group (also known as SciencePG and SCIPG
+P	Science Q Publishing Group
+P	Science Record Journals
+P	Science Research Association
+P	Science Research Library
+P	Science Sights
+P	Science Signpost Publishing Inc.
+P	Science Target
+P	Science Web Publishing
+P	ScienceDomain International (Science Domain International, SDI) also here and here
+P	Scienceline Publications
+P	ScienceSolve
+P	Sciences & Engineering Research Publication
+P	ScienceScript
+P	Scienpress Ltd.
+P	Sciencevier
+P	Scient Open Access
+P	ScienTech Publisher
+P	Scientia Ricerca
+P	Scientia Socialis
+P	Scientific & Academic Publishing
+P	Scientific Advances Publishers
+P	Scientific & Academic Publishing
+P	Scientific Cooperations
+P	Scientific Federation
+P	Scientific Future
+P	Scientific Institute For Advanced Training and Studies
+P	Scientific Journals
+P	Scientific Journals International
+P	Scientific Literature
+P	Scientific Online Publishing
+P	Scientific Open Access Journals
+P	The Scientific Pages (new website at Scholarly Pages
+P	Scientific Perspectives Publishing
+P	Scientific Planet
+P	Scientific Platform Online Journals
+P	Scientific Research Gate
+P	Scientific Research Publishing
+P	Scientific Times
+P	Scientific Viewers
+P	ScientificWebJournals
+P	Scigmoid
+P	Sciknow
+P	Scinzer Scientific Publications
+P	SciPress Ltd
+P	SciRes Literature
+P	SciRex
+P	SCITECH
+P	Scitechz
+P	SciTechnol
+P	ScottishGroup Education and Testing Services
+P	Scribes Guild
+P	SEAHI Publications & Academic Journals
+P	Segment Journals
+P	Seitejournals
+P	Serials Publications
+P	SETScholars
+P	Seventh Sense Research Group Journals
+P	Shri Param Hans Education & Research Foundation Trust
+P	Sift Desk
+P	Significs Online Publishing
+P	Signpost e Journals
+P	Silicon Valley Publishers
+P	Singaporean Journals
+P	SJournals
+P	Sky Journals
+P	Slovakia Academic Publishing
+P	SM Group (SM Online Publishers)
+P	Smart Science & Technology
+P	SmatPub
+P	Smile Nation – Lets Smile Together
+P	Smith & Franklin Academic Publishing Corporation
+P	Society for Advancement of Sciences
+P	Society for Science and Education United Kingdom (SSE-UK) also called Society for Science and Education
+P	Society for Science and Nature
+P	Society of Business Research
+P	Society of Education (note: one of their journals – Advances in Bioresearch – is listed in JCR
+P	Society of Engineering Science and Technology
+P	Sons and Daughters Publishing House
+P	Source, Source Journals
+P	South Asian Academic Research Journals
+P	Southern Cross Publishing Group
+P	Speak Foundation
+P	SPIRI The Global Research
+P	Spring City Culture International Group Pte Ltd. Also: here
+P	Spring International S&T Publishing Media Co.
+P	Spring Journals
+P	Springwood Publishing Corporation
+P	Sprint Journals
+P	Sri Krishna International Research & Educational Consortium
+P	SS Publications
+P	St. Anne Mary Publication
+P	Standard Global Journals
+P	The Standard International Journals
+P	Standard Research Journals
+P	Statperson Publishing Corporation
+P	STM Connect
+P	Streem Journal
+P	Stringer Open
+P	Suryansh Publications
+P	Sustainable Scientific Publisher
+P	SV Publication
+P	Swan Open
+P	Swedish Scientific Publications
+P	Swift Journals
+P	Swiss Journals
+P	Symbiosis
+P	Synchro Publisher
+P	Synergy Publishers
+P	T&S Journal PUblications
+P	TAF Publishing
+P	Takayama Publishing Group
+P	Takshila
+P	Taraksh Journals
+P	Techmind Research
+P	Technical Journals Online
+P	Technopark Publications
+P	Techno Science Academy
+P	Terminal Journals
+P	Textroad Journals
+P	Thales Academic Publisher
+P	Thavan E ACT International Journals
+P	Thetic Journals
+P	Thomson & Ryberg Publications
+P	TI Journals
+P	Time Journals
+P	Timeline Publication Pvt. Ltd.
+P	TLEP Journals
+P	Tomas Publishing
+P	Topclass Global Journals
+P	Trade Science, Inc
+P	Trans Stellar
+P	Transaction Series on Engineering Sciences and Technologies
+P	Transcontinental Publishers
+P	Transnational Research Journals
+P	Tulpar Academic Publishing
+P	U.S. Science Press
+P	UHIVE (Uluslararası Hakemli İletişim ve Edebiyat Araştırmaları Dergisi) also here
+P	Ulster Press
+P	Unified Journals
+P	Unique Journals Communication
+P	Unique Research Journals
+P	United Scholars Publications
+P	United Scientific Group
+P	Universal Association of Computer and Electronics Engineers
+P	Universal Association of Mechanical and Aeronautical Engineers
+P	Universal Publishing & Research Organization
+P	Universal Research Group
+P	Universal Research Publications
+P	Universe Scientific Publishing
+P	UniversityPublications.net
+P	Universum Scientific Journals (Научные журналы Universum) also here
+P	Uptodate Research Publication
+P	URO Journals
+P	USN Scientific Journal
+P	Valley International Journals
+P	VBRI Press
+P	Verizona Publisher
+P	Vernon Innovative Publishers
+P	VIBGYOR Online Publishers
+P	Vidya Publications
+P	Virtual Foundation for Advancement of Science and Technology
+P	VNMPublication
+P	Vow Scientific Quest
+P	VRJ Publishers
+P	VSRD International Journals
+P	Watch Plus
+P	Webcrawler Journals
+P	We-Together to Save Yourself Society
+P	Wesley & Eber Publishing
+P	West East Institute
+P	WFL Publisher
+P	Whites Science
+P	Whioce Publishing Pte. Ltd.
+P	Wilolud Journals
+P	Wireilla Scientific Publications
+P	WIT Press
+P	WOAR Journals
+P	World Academic Journal of Business & Applied Science
+P	World Academic Publishing
+P	World Academic Research Journals
+P	World Academic Union
+P	World Academy of Research and Publication
+P	World Academy of Science and Technology
+P	World Academy of Science, Engineering and Technology
+P	World Business Institute Also here: http://www.wassco.org/
+P	World Journal of Publisher
+P	World Journals of Academic Advances
+P	World Open Access Journals
+P	World Research Journals
+P	World Research Library
+P	World Research Publications
+P	World Scholars
+P	World Science and Research Publishing
+P	World Science Publisher
+P	World Science Research Journals
+P	World Scientific and Engineering Academy and Society
+P	World Standard Organization
+P	World Wide Journals
+P	Wudpecker Research Journals
+P	Wyno Academic Journals
+P	Wyvern Publishing Group
+P	Xia & He Publishing also here
+P	Yellow Loop Journal
+P	Zant World Press
+P	Zeal Scienza Realm of Erudition
+P	ZealSci Journals
+P	Zeetarz Group Publishing
+P	Zenith International Research and Academic Foundation
+P	Zia World Press
+P	ZolCat Academic House
+P	Zt-Journals
+P	Zygoscient
+P	ACAD-WISE
+P	Academic Publishing
+P	Academic Solutions
+P	Acquaint Publications
+P	Acquire Publications
+P	ACTA Press
+P	Acta Scientific
+P	Advanced Research Society for Science and Sociology
+P	African Science Publications
+P	AGU Publications
+P	AI Publications
+P	Akademia Baru Publishing
+P	AM Publication
+P	AMS Central
+P	Annals of Global Publishing Group
+P	Arena Of Sciences
+P	Asian Intellect
+P	Athenaeum Scientific Publishers
+P	Auctores Publishing, LLC
+P	Bilingual Publishing Co
+P	Bio-Byword Publishing PTY LTD
+P	BiomedGrid, LLC
+P	Biomedical Research Network+, LLC
+P	BioRes Scientia
+P	Boffin Access
+P	Book Publisher International
+P	Bosal Journals
+P	Boya Century Publishing
+P	BUSSECON International Publishing
+P	Cambridge Scholars Publishing
+P	Center for Academic Research
+P	Center for Contemporary Research
+P	Center for Promoting Education and Research
+P	Centre for Research on Islamic Banking & Finance and Business
+P	Chembio Publishers (new website here
+P	Cientific Group
+P	Cloud Journals (also Cloud Publications
+P	CME Publishing Group
+P	Coalesce Research Group
+P	Collective Journals
+P	Consortia Academia
+P	Copernicus Publishing
+P	Crimson Publishers
+P	Directive Publications
+P	East African Scholars Publisher
+P	Edupedia Publications (see also International Scholarly Open Access Research
+P	Emeraldtree Publishing
+P	ENCYCLOPAEDIC PUBLISHING PTE.LTD
+P	Engineering Information Institute
+P	EnPress Publisher
+P	eScientific Research
+P	FM Publishers
+P	ForteOpen Journals
+P	Fortune Journals
+P	Frontier Scientific Publishing
+P	Geist Science
+P	GJ Publications
+P	Global Open Share Publishing
+P	Global Press Hub
+P	Global Vision Press
+P	Globeedu Group
+P	GPH Journal
+P	Green Publication
+P	Gupta Publications
+P	Healthcare Bulletin
+P	Heighten Science Publications Inc
+P	i-manager Publications
+P	i-Proclaim
+P	IgMin Publications Inc.
+P	​Incessant Nature Science Publishers
+P	Infogain Publication
+P	Informing Science Institute
+P	Innovation Info
+P	Innovision Health Media, Inc.
+P	Institute for Environment, Engineering, Economics
+P	International Association for Research and Science
+P	International Association of Engineers
+P	International Association of Science and Technology for Development
+P	International Business Academics Consortium
+P	International Center for Promoting Knowledge
+P	International Institute of Education, Research and Development
+P	International Journal of Modern Research and Development
+P	International Peer Reviewed Journals and Books
+P	International Publisher LLC
+P	International Scientific Journal
+P	International Scientific Organization
+P	International Technology and Science Publications Ltd
+P	Institute of Mathematics and Management
+P	IPN Education Group
+P	IRDP Group of Journals
+P	IRIS Publishers
+P	IT Medical Team
+P	ITSR
+P	Journals of University of Babylon
+P	JScholar Publishers
+P	JSM Central
+P	Knowledge Empowerment Foundation
+P	Knowledge Insights
+P	Kosmos Publishers
+P	Lectito
+P	LIDSEN Publishing Inc. (see also Open BioMedical Publishing Corporation
+P	Longdom Publishing
+P	Lupine Publishers
+P	Mak Periodical Library
+P	Magnus Med Club
+P	MedCave Publications (also here
+P	Medip Academy
+P	Medires Publishing
+P	MedPress Publications
+P	Medtext Publications
+P	Medvix Publications LLC
+P	Mehria International Publishers
+P	Molecular Biology Journals
+P	NADIA
+P	National FORUM Journals
+P	Natural Science Simulations and Engineering Laboratory Limited
+P	Nextgen Research Publications
+P	Ocimum Scientific Publishers
+P	Ology Journals
+P	Onjourn
+P	Onomy Science
+P	Open Access (OA) Publication
+P	Open Access Publications LLC
+P	Open Exploration
+P	Oriental Scientific Publishing Company
+P	Phronesis, LLC
+P	Prague Development Center
+P	Prime Pubmed Publication
+P	Prime Scholars
+P	ProBiologists LLC
+P	Publishing Press
+P	PubMedHouse
+P	Raft Publications
+P	ReDelve International Publications
+P	Research Center of Education and Science
+P	Research Infotext
+P	Research Novelty Publisher
+P	Research Pioneers
+P	Research Route
+P	Rivera Publications
+P	RM Research International Pte. Ltd
+P	S Open Access Open Journals Publishing
+P	SAE Publications
+P	Salient Visionary Publications
+P	Scholarly Pages (new website of The Scientific Pages
+P	Scholars Academic and Scientific Society
+P	SciAccess Publisher
+P	SCIAEON
+P	Science Excel
+P	ScienceForecast Publications LLC
+P	ScienceScholar
+P	Science Publishing Gate
+P	Science Publishing Group
+P	Science Repository
+P	ScieniQ Publishers
+P	Scientia Socialis
+P	Scientific Education
+P	Scientific Eminence Group
+P	Scientific Research and Community
+P	Scimaze Group
+P	SciMedPress
+P	SciTech Central Inc.
+P	SciVision Publishers
+P	SDIP Press
+P	Sin-Chn Scientific Press
+P	Social Science Journals
+P	Sryahwa Publications
+P	Stechnolock
+P	SunKrist Publishing
+P	SunText Reviews
+P	Synotec Publishers
+P	Syntax Publishers
+P	The American Publishing House
+P	Thomson.id
+P	TSNS “Interaktiv plus”, LLC
+P	UK Education Consultancy Services Ltd
+P	United Prime Publications, Universal Access Medical Publishers
+P	Universal Wiser Publisher
+P	Vision Science Research Sdn Bhd (VSR, see also Universe Scientific Publishing
+P	Walsh Medical Media
+P	Winsome Publishing LLC
+P	Multidisciplinary Digital Publishing Institute (MDPI) – I decided not to include MDPI on the list itself. However, I would urge anyone that wants to publish with this publisher to thoroughly read this wiki article detailing their possible ethical/publishing problems, and a recent article
+J	Academic Exchange Quarterly
+J	Academic Research Reviews
+J	Academy of Contemporary Research Journal
+J	ACME Intellects
+J	Acta  de Gerencia Ciencia
+J	Acta Advances in Agricultural Sciences
+J	Acta Kinesiologica
+J	Acta Medica International
+J	Acta Scientiae et Intellectus
+J	Acta Velit
+J	Advance Research Journal of Multidisciplinary Discoveries
+J	The Advanced Science Journal
+J	Advances in Aerospace Science and Technology
+J	Advances in Biomedicine and Pharmacy
+J	Advances in Forestry Letter
+J	Advances in Science, Technology and Engineering Systems Journal
+J	Afrasian Journal of Humanities and Social Sciences
+J	African Journal of Traditional, Complementary and Alternative Medicines
+J	Aging
+J	Ahead International Journal of Recent Research Review
+J	Al Ameen Journal of Medical Sciences
+J	Aloy Journal of Soft Computing and Applications
+J	American Based Research Journal
+J	American International Journal of Contemporary Research
+J	American International Journal of Contemporary Scientific Research
+J	American Journal of Advanced Agricultural Research
+J	American Journal of Advanced Drug Delivery
+J	American Journal of Advanced Scientific Research
+J	American Journal of Advances in Medical Science
+J	American Journal of Biotechnology and Medical Research
+J	American Journal of Engineering Research
+J	American Journal of Essential Oils and Natural Products
+J	American Journal of Innovative Research and Applied Sciences
+J	American Journal of Pharmacy and Health Research
+J	American Journal of PharmTech Research
+J	American Journal of Phytomedicine and Clinical Therapeutics
+J	American Journal of Research Communication
+J	American Journal of Scientific Research
+J	American Journal of Social issues and Humanities
+J	American Research Thoughts
+J	American Scientific Research Journal for Engineering, Technology, and Sciences
+J	American Transactions on Engineering & Applied Sciences
+J	Anglisticum
+J	Annals of British Medical Sciences
+J	Annals of Clinical Case Reports
+J	Annals of International Medical and Dental Research
+J	Annals of Medical and Biomedical Sciences
+J	Annals of Phytomedicine
+J	Applied Research Journal
+J	Archives Des Sciences Journal
+J	Archives of Clinical and Experimental Surgery (note: this journal is currently indexed by DOAJ
+J	ARNACA American Journal of Advances in Medical Science
+J	ARPN Journal of Science and Technology
+J	ARPN Journal of Systems and Software
+J	Asia Pacific Journal of Education, Arts and Sciences
+J	Asia Pacific Journal of Multidisciplinary Research
+J	Asian Pacific Journal of Natural Products
+J	Asian Pacific Journal of Pharmacy and Phytochemistry
+J	Asia-Pacific Journal of Research
+J	Asian Journal of Applied Science and Engineering
+J	Asian Journal of Biomedical and Pharmaceutical Sciences
+J	Asian Journal of Chemistry
+J	Asian Journal of Health and Medical Sciences
+J	Asian Journal of Humanities and Social Sciences
+J	Asian Journal of Business and Management Sciences
+J	Asian Journal of Mathematics and Applications
+J	Asian Journal of Multidisciplinary Studies
+J	Asian Journal of Pharmaceutical and Health Sciences
+J	Asian Journal of Pharmacy and Life Science
+J	Asian Journal of Pharmaceutical Research and Health Care
+J	Asian Journal of Science and Technology
+J	Asian Pacific Journal of Health Sciences
+J	Asian Pacific Journal of Tropical Disease
+J	Asian Research Journal of Business Management
+J	Australasian Journal of Herpetology
+J	Australasian Medical Journal (AMJ) (note: this journal is indexed by DOAJ and JCR
+J	Australian Journal of Basic and Applied Sciences
+J	Australian Journal of Business and Management Research
+J	Astronomical Review
+J	Averroes European Medical Journal
+J	Ayupharm: International Journal of Ayurveda and Allied Sciences
+J	Ayushdhar
+J	Bio Bulletin
+J	Bioinformation
+J	Biointerface Research in Applied Chemistry
+J	Biomaterials and Tissue Engineering Bulletin
+J	Biomedical & Pharmacology Journa
+J	Biomedical Engineering Review
+J	Bionano Frontier
+J	Biopharm Journal
+J	The Bioscan
+J	Bioresearch Bulletin
+J	Bioscience and Bioengineering Communications
+J	Bioscience Biotechnology Research Communications
+J	Bioscience Discovery
+J	Biosciences, Biotechnology Research Asia
+J	Biosciences International
+J	Biotechnological Research
+J	Botany Journal
+J	British Biomedical Bulletin
+J	British Journal of Economics, Finance and Management Sciences
+J	British Journal of Interdisciplinary Studies
+J	British Journal of Medical and Health Research
+J	British Journal of Science
+J	Buletin Teknologi Makanan
+J	Bulletin of Applied and Research Science
+J	Bulletin of Environment, Pharmacology and Life Sciences (BEPLS) (note: this journal is indexed in JCR
+J	Bulletin of Mathematical Sciences & Applications
+J	Bulletin of Pharmaceutical Research
+J	Bulletin of Society for Mathematical Services and Standards
+J	Business and Economics Journal
+J	The Business Review, Cambridge
+J	Calodema
+J	Canadian Chemical Transactions
+J	Canadian International Journal of Science and Technology
+J	Canadian Journal of Basic and Applied Sciences
+J	Canadian Journal of Biotechnology
+J	Canadian Journal of Pure and Applied Sciences
+J	Canadian Scientific Journal
+J	Cancer Research Frontiers
+J	Cardiology and Cardiovascular Medicine
+J	Caribbean Journal of Science and Technology
+J	Case Study and Case Report
+J	Cellular and Molecular Biology also here
+J	Centrum
+J	Chemical Science Transactions
+J	Chemistry Research Journal
+J	Clinics in Oncology
+J	Clinics in Surgery
+J	Columban Journal of Life Sciences
+J	Communications on Applied Electronics
+J	Computational Research Progress in Applied Science & Engineering
+J	Computer Science Chronicle
+J	Computer Science Journal
+J	Contemporary Research in India
+J	Contemporary Sociological Global Review
+J	The Criterion: An International Journal in English
+J	Cumhuriyet Science Journal (note: this journal in indexed by DOAJ
+J	Current Biotica
+J	Current Botany
+J	Current Discovery
+J	Current Trends in Technology and Sciences
+J	DAV International Journal of Science
+J	Der Pharma Chemica
+J	Direct Research Journals
+J	Diyala Journal for Pure Science
+J	East European Science Journal
+J	Eastern Academic Journal
+J	Eastern European Scientific Journal
+J	E-Library Science Research Journal
+J	Ecoforum
+J	Ecoletra.com Scientific eJournal
+J	Education Reform Journal (new website here; note: this journal is indexed by DOAJ
+J	EDUVED Global Management Research
+J	Eduved, International Journal of Interdisciplinary Research
+J	Electronic Journal of Biology
+J	Electronic Journal of Engineering and Technology
+J	Electronic Journal of Vocational Colleges
+J	Elixir International Journal (formerly Elixir Online  Journal
+J	Engineering & IT Journal
+J	Engineering Physics and Thermodynamics Journal
+J	Engineering Research Journal
+J	Entomology and Applied Science Letters
+J	ESSENCE: International Journal for Environmental Rehabilitation and Conservation
+J	Euro-Afro Journal of Arts and Social Sciences
+J	European Academic Research
+J	European Chemical Bulletin
+J	European Environmental Sciences and Ecology Journal
+J	European International Journal of Science and Humanities
+J	European International Journal of Science and Technology
+J	European Journal of Academic Essays
+J	European Journal of Advanced Computer Science
+J	European Journal of Advances in Engineering & Technology
+J	European Journal of Biomedical and Pharmaceutical Sciences
+J	European Journal of Biotechnology and Bioscience
+J	European Journal of Business and Social Sciences
+J	European Journal of Chemistry
+J	European Journal of Contemporary Economics and Management
+J	European Journal of Economics, Finance and Administrative Sciences
+J	European Journal of Educational Research (EUJER) (note: this is a different journal to the legitimate EU-JER journal
+J	European Journal of Educational Sciences
+J	European Journal of Engineering Research and Science
+J	European Journal of Natural History
+J	European Journal of Pharmaceutical and Medical Research
+J	European Journal of Science and Theology
+J	European Journal of Scientific Research
+J	European Journal of Social Sciences
+J	European Journal of Sustainable Development
+J	European Law and Politics Journal
+J	European Online Journal of Natural and Social Sciences
+J	European Scientific Journal
+J	First Independent Scientific Journal
+J	FLUIDS: International Journal of Medical Fluid Management
+J	Food Biology
+J	FOREX Technical Journal Library
+J	Frontiers in Aerospace Engineering
+J	Functional Analysis: Theory, Method & Applications
+J	G-Journal of Environmental Science and Technology
+J	G-Journal of Education, Social Science and Humanities
+J	Galaxy: International Multidisciplinary Research Journal
+J	Genes & Cancer
+J	Generics and Biosimilars Initiative Journal
+J	Genetics and Molecular Research
+J	Geodynamics Research International Bulletin
+J	Global Business & Finance Review (note: this journal is indexed by DOAJ
+J	Global Journal for Research Analysis
+J	Global Journal of Advanced Engineering Technologies and Sciences
+J	Global Journal of Advanced Research
+J	Global Journal of Animal Scientific Research
+J	Global Journal of Business and Social Science
+J	Global Journal of Business and Social Science Review
+J	Global Journal of Engineering Science and Research Management
+J	Global Journal of Management Science and Technology
+J	Global Journal of Medical and Health Sciences
+J	Global Journal of Medicine and Public Health
+J	Global Journal of Multidisciplinary Studies
+J	Global Media Journal
+J	Golden Research Thoughts
+J	Global Scholastic Research Journal
+J	HCTL Open International Journal of Technology Innovations and Research
+J	Hiperboreea Journal
+J	HortFlora Research Spectrum
+J	Hygeia: Journal for Drugs and Medicines
+J	IARS’ International Research Journal
+J	Ideal Journal of Arts and Humanities
+J	Ideal Journal of Engineering and Applied Sciences
+J	Ideal Journal of Economics and Management Sciences
+J	Ideal Journal of Pure and Applied Sciences
+J	Ideal Journal of Education and Policy Studies
+J	Ideal Journal of Psychology and Theology
+J	Indian Journal of Advanced Nursing
+J	Indian Journal of Applied-Basic Medical Sciences
+J	Indian Journal of Applied Research
+J	Indian Journal of Drugs
+J	Indian Journal of Medical Research and Pharmaceutical Sciences
+J	Indian Journal of Natural Sciences (IJONS) (note: the journal is indexed by JCR
+J	Indian Journal of Pharmaceutical and Biological Research
+J	Indian Journal of Pharmaceutical Science & Research
+J	Indian Journal of Research Anvikshiki
+J	Indian Journal of Research in Pharmacy and Biotechnology
+J	Indian Journal of Scientific Research
+J	Indian Journal of Scientific Research and Technology
+J	Indian Research Journal of Pharmacy and Science
+J	Indian Scholar
+J	Indian Streams Research Journal
+J	Indo American Journal of Pharmaceutical Research
+J	Indo American Journal of Pharmaceutical Sciences
+J	Indo-Global Journal of Pharmaceutical Sciences
+J	Industrial Science Journal
+J	INFORMATION-An International Interdisciplinary Journal
+J	Innovations in Pharmaceuticals and Pharmacotherapy
+J	Institute of Electrical & Electronics Engineers Advanced Journal
+J	Integrated Journal of British
+J	Interdisciplinary Journal of Contemporary Research in Business
+J	Interdisciplinary Journal of Research in Business
+J	Interdisciplinary Toxicology
+J	Internal Medicine Review
+J	International Advanced Research Journal in Science, Engineering and Technology
+J	International Archives of BioMedical and Clinical Research
+J	International Archives of Medicine
+J	International Ayurvedic Medical Journal
+J	The International Asian Research Journal
+J	International Biology Review
+J	International Bulletin of Business Administration
+J	International Cardiovascular Forum (ICF) also here
+J	International Chemistry Review
+J	International Design Journal
+J	International Economic Letters
+J	International Education and Research Journal
+J	International Educational E-Journal
+J	International Educational Scientific Research Journal
+J	International Interdisciplinary Journal of Scientific Research
+J	International Journal & Magazine of Engineering, Technology, Management and Research
+J	International Journal Advances in Social Science and Humanities
+J	International Journal and Bulletin of Multidisciplinary Research
+J	International Journal for Advanced Review and Research in Pharmacy
+J	International Journal for Development of Computer Science and Technology
+J	International Journal for Innovation Education and Research
+J	International Journal for Innovative Research in Multidisciplinary Field
+J	International Journal for Innovative Research in Science and Technology
+J	International Journal for Modern Trends in Science and Technology
+J	International Journal for Pharmaceutical Research Scholars
+J	International Journal for Research & Development in Technology
+J	International Journal for Research in Applied Science and Engineering Technology
+J	International Journal for Research in Emerging Science and Technology
+J	International Journal for Research in Engineering Application & Management
+J	International Journal for Scientific Research & Development
+J	International Journal for Technological Research in Engineering
+J	International Journal of Abdominal Research
+J	International Journal of Academic Research
+J	International Journal of Academic Studies
+J	International Journal of Advance Computing Techniques and Applications
+J	International Journal of Advance Engineering and Research Development
+J	International Journal of Advance Foundation and Research in Computer
+J	International Journal of Advance Foundation and Research in Science and Engineering
+J	International Journal of Advance Research and Innovation
+J	International Journal of Advance Research and Innovative Ideas in Education
+J	International Journal of Advance Research, Ideas and Innovations in Technology
+J	International Journal of Advance Research in Computer Science And Management
+J	International Journal of Advance Research in Science and Engineering
+J	International Journal of Advanced Academic Research
+J	International Journal of Advanced and Applied Sciences (IJAAS) (note: journal is indexed by DOAJ
+J	International Journal of Advanced and Innovative Research
+J	International Journal of Advanced Computer Technology
+J	International Journal of Advanced Education and Research
+J	International Journal of Advanced Engineering and Management Research
+J	International Journal of Advanced Engineering and Nano Technology
+J	International Journal of Advanced Engineering Applications
+J	International Journal of Advanced Engineering, Management and Science
+J	International Journal of Advanced Engineering Research and Applications
+J	International Journal of Advanced Engineering Research and Science
+J	International Journal of Advanced Engineering Science and Technological Research
+J	International Journal of Advanced Engineering Science and Technological Research
+J	International Journal of Advanced Information in Arts Science and Management
+J	International Journal of Advanced Information Science and Technology
+J	International Journal of Advanced Life Sciences
+J	International Journal of Advanced Multidisciplinary Research
+J	International Journal of Advanced Networking and Applications
+J	International Journal of Advanced Research
+J	International Journal of Advanced Research and Review
+J	International Journal of Advanced Research in Applied Science and Technology
+J	International Journal of Advanced Research in Biological Sciences
+J	International Journal of Advanced Research in Biology, Ecology, Science and Technology
+J	International Journal of Advanced Research in Computer and Communication Engineering
+J	International Journal of Advanced Research in Computer Science and Electronics Engineering
+J	International Journal of Advanced Research in Computer Science and Software Engineering
+J	International Journal of Advanced Research in Computer Science & Technology
+J	International Journal of Advanced Research in Education & Technology
+J	International Journal of Advanced Research in Electrical, Electronics and Instrumentation Engineering
+J	International Journal of Advanced Research in Engineering & Management
+J	International Journal of Advanced Research in Engineering and Science
+J	International Journal of Advanced Research in Mechanical Engineering & Technology
+J	International Journal of Advanced Research in Science and Technology
+J	International Journal of Advanced Research in Science, Engineering and Technology
+J	International Journal of Advanced Science and Engineering Technology
+J	International Journal of Advanced Scientific Research & Development
+J	International Journal of Advanced Technology and Innovative Research
+J	International Journal of Advanced Technology in Engineering and Science
+J	International Journal of Advanced Technology and Engineering Research
+J	International Journal of Advanced Technology and Science
+J	International Journal of Advanced Trends in Computer Applications
+J	International Journal of Advancement in Engineering Technology, Management & Applied Science
+J	International Journal of Advancements in Mechanical and Aeronautical Engineering
+J	International Journal of Advancements in Research & Technology
+J	International Journal of Advances in Applied Mathematics and Mechanics
+J	International Journal of Advances in Engineering
+J	International Journal of Advances in Engineering & Technology
+J	International Journal of Advances in Interdisciplinary Research
+J	International Journal of Advances in Management and Economics
+J	International Journal of Advances in Management, Economics and Entrepreneurship
+J	International Journal of Advances in Mathematics
+J	International Journal of Advances in Pharmaceutical Research
+J	International Journal of Advances in Power Systems
+J	International Journal of Advances in Social Science and Humanities
+J	International Journal of Advent Research in Computer and Electronics
+J	International Journal of Aerospace and Mechanical Engineering
+J	International Journal of Agriculture and Crop Sciences
+J	International Journal of Agriculture and Environmental Research
+J	International Journal of Agriculture Innovations and Research
+J	International Journal of Agricultural, Forestry & Plantation
+J	International Journal of Agricultural Sciences and Veterinary Medicine
+J	International Journal of Agronomy & Plant Production
+J	International Journal of All Research Education & Scientific Methods
+J	International Journal of Application or Innovation in Engineering & Management
+J	International Journal of Applied and Pure Science and Agriculture
+J	International Journal of Applied Biology and Pharmaceutical Technology
+J	International Journal of Applied Dental Sciences
+J	International Journal of Applied Economic Studies
+J	International Journal of Applied Information Systems
+J	International Journal of Applied Linguistics & English Literature
+J	International Journal of Applied Pharmaceutical & Biological Research
+J	International Journal of Applied Pharmaceutical Sciences and Biological Sciences
+J	International Journal of Applied Research
+J	International Journal of Applied Research & Studies
+J	International Journal of Applied Research in Natural Products
+J	International Journal of Applied Science Engineering and Management
+J	International Journal of Applied Sciences and Biotechnology
+J	International Journal of Applied Sciences and Engineering
+J	International Journal of Artificial Intelligence and Mechatronics
+J	International Journal of Art and Humanity Science
+J	International Journal of Arts and Commerce
+J	International Journal of Arts and Entrepreneurship
+J	International Journal of Arts, Humanities and Management Studies
+J	International Journal of Arts Humanities and Social Sciences
+J	International Journal of Ayurveda and Pharma Research
+J	International Journal of Ayurveda and Pharmaceutical Chemistry
+J	International Journal of Basic and Applied Science
+J	International Journal of Basic Medical Sciences and Pharmacy
+J	International Journal of Basic Sciences and Applied Computing
+J	International Journal of Basic Sciences and Applied Research
+J	International Journal of Bio
+J	International Journal of Bioassays
+J	International Journal of Biological & Pharmaceutical Research
+J	International Journal of Biological and Chemical Sciences
+J	International Journal of Biology, Pharmacy and Allied Sciences (IJBPAS) (note: the journal is indexed by JCR
+J	International Journal of Biomedical Science
+J	International Journal of Biosciences and Nanosciences
+J	International Journal of Business and Administration Research Review
+J	International Journal of Business and Commerce
+J	The International Journal of Business & Management
+J	International Journal of Business and Management Invention
+J	International Journal of Business and Social Research
+J	International Journal of Business Management and Economic Research
+J	International Journal of Business Management and Economic Studies
+J	International Journal of Business Marketing and Management
+J	International Journal of Business Quantitative Economics and Applied Management Research
+J	International Journal of Business Tourism & Applied Sciences
+J	International Journal of Case Studies
+J	International Journal of Chemical and Pharmaceutical Sciences
+J	International Journal of Chemical Science and Technology
+J	International Journal of Chemical Studies
+J	International Journal of Civil, Mechanical and Energy Science
+J	International Journal of Clinical and Diagnostic Research
+J	International Journal of Clinical Cases and Investigations
+J	International Journal of Collaborative Research on Internal Medicine & Public Health
+J	International Journal of Commerce and Management Research
+J	International Journal of Communication and Health
+J	International Journal of Communication Networks and Information Security
+J	International Journal of Comprehensive Research in Biological Sciences
+J	International Journal of Computation and Applied Sciences
+J	International Journal of Computational Engineering Research
+J	International Journal of Computational Science, Mathematics and Engineering
+J	International Journal of Computer & Electronics Research
+J	International Journal of Computer & Communication Engineering Research
+J	International Journal of Computer and Information Technology
+J	International Journal of Computer Applications
+J	International Journal of Computer Application and Engineering Technology
+J	International Journal of Computer Applications in Engineering Sciences
+J	International Journal of Computer Applications Technology and Research
+J	International Journal of Computer Engineering & Applications
+J	International Journal of Computer Engineering in Research Trends
+J	International Journal of Computer Networks and Applications
+J	International Journal of Computer Networks and Communications Security
+J	International Journal of Computer Science & Communication Security
+J	International Journal of Computer Science and Business Informatics
+J	International Journal of Computer Science and Communication Networks
+J	International Journal of Computer Science and Information Security
+J	International Journal of Computer Science and Information Technologies
+J	International Journal of Computer Science and Mobile Computing
+J	International Journal of Computer Science and Network
+J	International Journal of Computer Science and Network Security
+J	International Journal of Computer Science and Software Engineering
+J	International Journal of Computer Science and Technology
+J	International Journal of Computer Science and Telecommunications
+J	International Journal of Computer Science Engineering
+J	International Journal of Computer Science Engineering and Technology
+J	International Journal of Computer Science, Information Technology, & Security
+J	International Journal of Computer Science Issues
+J	International Journal of Computer Science Trends and Technology
+J	International Journal of Computer Systems
+J	International Journal of Computer Technology and Applications
+J	International Journal of Computer Technology and Electronics Engineering
+J	International Journal of Computing Academic Research
+J	International Journal of Computing and Corporate Research
+J	International Journal of Computing Science and Information Technology
+J	International Journal of Conference Proceedings
+J	International Journal of Contemporary Applied Sciences
+J	International Journal of Contemporary Medical Research
+J	International Journal of Contemporary Research and Review
+J	International Journal of Core Engineering and Management
+J	International Journal of Current Advanced Research
+J	International Journal of Current Agricultural Sciences
+J	International Journal of Current Business and Social Sciences
+J	International Journal of Current Engineering Sciences
+J	International Journal of Current Innovation Research
+J	International Journal of Current Medical and Pharmaceutical Research
+J	International Journal of Current Medical Sciences
+J	International Journal of Current Microbiology and Applied Sciences
+J	International Journal of Current Multidisciplinary Studies
+J	International Journal of Current Pharmaceutical Review and Research
+J	International Journal of Current Research
+J	International Journal of Current Research and Academic Review
+J	International Journal of Current Research and Review
+J	International Journal of Current Research in Chemistry and Pharmaceutical Sciences
+J	International Journal of Current Research in  Life Sciences
+J	International Journal of Current Research in Multidisciplinary
+J	International Journal of Current Science
+J	International Journal of Current Science and Technology
+J	International Journal of Dental and Health Sciences
+J	International Journal of Dermatopathology and Surgery
+J	International Journal of Development and Sustainability
+J	International Journal of Development Research
+J	International Journal of Digital Communication and Networks
+J	International Journal of Digital Library Services
+J	International Journal of Drug Development and Research
+J	International Journal of E-Computer Science Evolution
+J	International Journal of Economics and Finance
+J	International Journal of Economics and Research
+J	International Journal of Economics, Commerce and Management
+J	International Journal of Economics, Finance and Management
+J	International Journal of Education and Applied Research
+J	International Journal of Education and Psychological Research
+J	International Journal of Education and Research
+J	International Journal of Education and Social Science
+J	The International Journal of Educational and Psychological Assessment
+J	International Journal of Educational Investigations
+J	International Journal of Electrical and Electronics Engineers
+J	International Journal of Electrical, Electronics and Computers
+J	International Journal of Electrical, Electronics and Mechanical Controls
+J	International Journal of Electrical Energy
+J	International Journal of Electrochemical Science (note: journal is indexed in JCR
+J	International Journal of Electronics & Communication Technology
+J	International Journal of Electronics and Information Engineering
+J	International Journal of Electronics Communication and Computer Engineering
+J	International Journal of Electronics Communication and Computer Technology
+J	International Journal of Emerging Engineering Research and Technology
+J	International Journal of Emerging Research in Management and Technology
+J	International Journal of Emerging Science and Engineering
+J	International Journal of Emerging Sciences
+J	International Journal of Emerging Technologies and Innovative Research
+J	International Journal of Emerging Technology & Research
+J	International Journal of Emerging Technology and Advanced Engineering
+J	International Journal of Emerging Trends in Electrical and Electronics
+J	International Journal of Emerging Trends in Pharmaceutical Sciences
+J	International Journal of Emerging Trends in Research
+J	International Journal of Emerging Trends in Science and Technology
+J	International Journal of Energy & Technology
+J	International Journal of Energy and Water Resources
+J	International Journal of Engineering & Science Research
+J	International Journal of Engineering and Advanced Research Technology
+J	International Journal of Engineering and Advanced Technology
+J	International Journal of Engineering and Applied Sciences
+J	International Journal of Engineering and Applied Sciences
+J	International Journal of Engineering and Computer Science
+J	International Journal of Engineering and Innovative Technology
+J	International Journal of Engineering and Management Research
+J	International Journal of Engineering and Science Invention
+J	International Journal of Engineering & Technology
+J	International Journal of Engineering and Technology
+J	International Journal of Engineering Applied Science and Technology
+J	International Journal of Engineering Associates
+J	International Journal of Engineering Development and Research
+J	International Journal of Engineering Innovations and Research
+J	International Journal of Engineering Inventions
+J	International Journal of Engineering Maths and Computer Science
+J	International Journal of Engineering Research
+J	International Journal of Engineering Research and Applications
+J	International Journal of Engineering Research and Computer Science
+J	International Journal of Engineering Research and Development
+J	International Journal of Engineering Research and General Science
+J	International Journal of Engineering Research & Management
+J	International Journal of Engineering Research & Science
+J	International Journal of Engineering Research and Science & Technology
+J	International Journal of Engineering Research & Technology
+J	International Journal of Engineering Researches and Management Studies
+J	International Journal of Engineering Science & Advanced Technology
+J	International Journal of Engineering Science and Computing
+J	International Journal of Engineering Science and Generic Research
+J	International Journal of Engineering Science and Innovative Technology
+J	International Journal of Engineering, Science and Technology
+J	International Journal of Engineering Science Invention-Research & Development
+J	International Journal of Engineering Sciences & Research Technology
+J	International Journal of Engineering Sciences & Management
+J	International Journal of Engineering Technologies and Management Research
+J	International Journal of Engineering Technology and Computer Research
+J	International Journal of Engineering Technology and Management
+J	International Journal of Engineering Technology and Scientific Innovation
+J	International Journal of Engineering Technology, Management and Applied Sciences
+J	International Journal of Engineering Trends and Applications
+J	International Journal of Engineering Trends and Technology
+J	International Journal of English and Education
+J	International Journal of English Language & Translation Studies
+J	International Journal of English Language , Literature & Humanities
+J	International Journal of English Language, Literature and Translation Studies
+J	International Journal of English Research
+J	International Journal of Enterprise Computing and Business Systems
+J	International Journal of Environment
+J	International Journal of Environmental & Agriculture Research
+J	International Journal of Environment, Agriculture and Biotechnology
+J	International Journal of Environmental Science and Development
+J	International Journal of Farming and Allied Sciences
+J	International Journal of Fauna and Biological Studies
+J	International Journal of Fisheries and Aquatic Studies
+J	International Journal of Food and Nutritional Sciences
+J	International Journal of Fundamental & Applied Sciences
+J	International Journal of Global Communications
+J	International Journal of Global Ideas
+J	International Journal of Governance
+J	International Journal of Green and Herbal Chemistry
+J	International Journal of Health Research
+J	International Journal of Health Research in Modern Integrated Medical Sciences
+J	International Journal of Health Sciences and Research
+J	International Journal of Herbal Medicine
+J	International Journal of Hindi Research
+J	International Journal of History, Arts and Culture
+J	International Journal of Home Science
+J	International Journal of Human Resource and Procurement
+J	International Journal of Human Sciences
+J	International Journal of Humanities and Cultural Studies
+J	International Journal of Humanities and Social Science Invention
+J	International Journal of Humanities and Social Science Research
+J	The International Journal of Humanities & Social Studies
+J	International Journal of Humanities & Social Sciences
+J	International Journal of Humanities and Religion
+J	International Journal of Humanities, Engineering and Pharmaceutical Sciences
+J	International Journal of Indian Psychology
+J	International Journal of Information and Communication Technology Research
+J	International Journal of Information and Communication Technology Trends
+J	International Journal of Information and Education Technology
+J	International Journal of Information Research
+J	International Journal of Information Research and Review
+J	International Journal of Information Sources and Services
+J	International Journal of Information Technology & Business Management
+J	International Journal of Information Technology & Computer Science
+J	International Journal of Information Technology and Electrical Engineering
+J	International Journal of Informative and Futuristic Research
+J	International Journal of Innovation and Research in Educational Sciences
+J	International Journal of Innovation in Science and Mathematics
+J	International Journal of Innovation Research
+J	International Journal of Innovations in Engineering and Technology
+J	International Journal of Innovations in Engineering Research and Technology
+J	International Journal of Innovation Science and Research
+J	International Journal of Innovative and Applied Research
+J	International Journal of Innovative and Emerging Research in Engineering
+J	International Journal of Innovative Computer Science & Engineering
+J	International Journal of Innovative Concepts in Research
+J	International Journal of Innovative Ideas
+J	International Journal of Innovative Interdisciplinary Research
+J	International Journal of Innovative Pharmaceutical Research
+J	International Journal of Innovative Research & Advanced Studies
+J	International Journal of Innovative Research and Creative Technology
+J	International Journal of Innovative Research and Development
+J	International Journal of Innovative Research and Studies
+J	International Journal of Innovative Research in Advanced Engineering
+J	International Journal of Innovative Research in Computer and Communication Engineering
+J	International Journal of Innovative Research in Electrical, Electronics, Instrumentation and Control Engineering
+J	International Journal of Innovative Research in Computer Science & Technology
+J	International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences
+J	International Journal of Innovative Research in Engineering and Management
+J	International Journal of Innovative Research in Medical Science
+J	International Journal of Innovative  Research in Science and Engineering
+J	International Journal of Innovative Research in Science, Engineering and Technology
+J	International Journal of Innovative Research in Technology
+J	International Journal of Innovative Research in Technology & Science
+J	International Journal of Innovative Science Engineering and Technology
+J	International Journal of Innovative Science and Modern Engineering
+J	International Journal of Innovative Studies in Sciences and Engineering Technology
+J	International Journal of Innovative Technologies
+J	International Journal of Innovative Technology and Exploring Engineering
+J	International Journal of Innovative Technology and Research
+J	International Journal of Innovative Trends in Engineering
+J	International Journal of Integrated Computer Applications & Research
+J	International Journal of Integrated Medical Research
+J	International Journal of Interdisciplinary and Multidisciplinary Studies
+J	International Journal of Interdisciplinary Research in Science, Society and Culture
+J	International Journal of Interdisciplinary Scientific Research
+J	International Journal of Inventions in Pharmaceutical Sciences
+J	International Journal of Inventive Engineering and Sciences
+J	The International Journal of Knowledge, Innovation and Entreprenurship
+J	International Journal of Language and Applied Linguistics
+J	International Journal of Language Learning and Applied Linguistics World
+J	International Journal of Language Sciences
+J	International Journal of Languages, Literature and Linguistics
+J	International Journal of Latest Research in Engineering and Computing
+J	International Journal of Latest Research in Engineering and Technology
+J	International Journal of Latest Technology in Engineering, Management & Applied Science
+J	International Journal of Latest Trends in Engineering and Technology
+J	International Journal of Latest Trends in Engineering, Science and Technology
+J	International Journal of Law and Legal Jurisprudence Studies
+J	International Journal of Law and Management Studies
+J	International Journal of Law Research
+J	International Journal of Learning, Teaching and Educational Research
+J	International Journal of Liberal Arts & Social Science
+J	International Journal of Life science and Pharma Research
+J	International Journal of Life Sciences Biotechnology and Pharma Research
+J	International Journal of Life-Sciences Scientific Research
+J	International Journal of Linguistics, Social and Natural Sciences
+J	International Journal of Livestock Research
+J	The International Journal of Management
+J	International Journal of Management, Accounting & Economics (IJMAE)
+J	International Journal of Management and Business Studies
+J	International Journal of Management and Research
+J	International Journal of Management and Social Science Research Review
+J	International Journal of Management, Economics and Social Sciences
+J	International Journal of Management Research and Business Strategy
+J	International Journal of Management Research and Review
+J	International Journal of Management Sciences and Business Research
+J	International Journal of Mathematical Archive
+J	International Journal of Mathematical Research & Science
+J	International Journal of Mathematical Sciences & Applications
+J	International Journal of Mathematics And Computer Research
+J	International Journal of Mathematics and Soft Computing
+J	International Journal of Mathematics and Statistics Invention
+J	International Journal of Mechanical Engineering and Information Technology
+J	International Journal of Medical and Health Research
+J	International Journal Of Medical and Health Sciences
+J	International Journal of Medical Research
+J	International Journal of Medical Research & Health Sciences (IJMRHS) (note: although the journal is indexed by JCR
+J	International Journal of Medical Research & Review
+J	International Journal of Medical Research and Pharmaceutical Sciences
+J	International Journal of Medical Research Professionals
+J	International Journal of Medical Science and Education
+J	International Journal of Medical Science and Public Health
+J	International Journal of Medical Science Research and Practice
+J	International Journal of Medical Sciences and Health Care
+J	International Journal of Medical Students
+J	International Journal of Medicine and Biosciences
+J	International Journal of Medicobiologial Research
+J	International Journal of MediPharm Research
+J	International Journal of Modern Chemistry and Applied Science
+J	International Journal of Modern Engineering Research
+J	International Journal of Modern Sciences and Engineering Technology
+J	International Journal of Mosquito Research
+J	International Journal of Multidisciplinary and Current Research
+J	International Journal of Multidisciplinary and Scientific Emerging Research (IJMSER) also here
+J	International Journal of Multidisciplinary Education and Research
+J	International Journal of Multidisciplinary Educational Research
+J	International Journal of Multidisciplinary Health Sciences
+J	International Journal of Multidisciplinary Research and Development
+J	International Journal of Multidisciplinary Research and Information
+J	International Journal of Multidisciplinary Research and Modern Education
+J	International Journal Of Multidisciplinary Research and Review
+J	International Journal of Multidisciplinary Research Review
+J	International Journal of Multidisciplinary Sciences and Engineering
+J	International Journal of Nanofluids and Nanoparticles
+J	International Journal of Network Security
+J	International Journal of Network Service and Technologies
+J	International Journal of New Innovations in Engineering and Technology
+J	International Journal of New Technologies in Science and Engineering
+J	International Journal of New Technology and Research
+J	International Journal of New Trends in Arts, Sports & Science Education
+J	International Journal of Novel Trends in Pharmaceutical Sciences
+J	International Journal of Nursing
+J	International Journal of Obstetrics and Gynaecology Research
+J	International Journal of Oral Health and Medical Research
+J	International Journal of Oncology Science
+J	International Journal of Orthopaedics Sciences
+J	International Journal of Pediatrics
+J	International Journal of Pharma and Bio Sciences
+J	International Journal of Pharma Professional’s Research
+J	International Journal of Pharmaceutical & Research Science
+J	International Journal of Pharmaceutical and Biological Science Archive
+J	International Journal of Pharmaceutical and Biomedical Research
+J	International Journal of Pharmaceutical and Clinical Research
+J	International Journal of Pharmaceutical and Phytopharmacological Research
+J	International Journal of Pharmaceutical Quality Assurance and Pharmaceutical Analysis
+J	International Journal of Pharmaceutical Research and Applications
+J	International Journal of Pharmaceutical Research and Bioscience
+J	International Journal of Pharmaceutical Research and Development
+J	International Journal of Pharmaceutical Science Invention
+J	International Journal of Pharmaceutical Sciences and Business Management
+J	International Journal of Pharmaceutical Sciences and Drug Research
+J	International Journal of Pharmaceutical Sciences and Research
+J	International Journal of Pharmaceutical Sciences Letters
+J	International Journal of Pharmaceutical Sciences Review and Research
+J	International Journal of Pharmaceuticals and Health Care Research
+J	International Journal of Pharmacognosy
+J	International Journal of Pharmacognosy and Phytochemical Research
+J	International Journal of Pharmacology and Physiology
+J	International Journal of Pharmacy
+J	International Journal of Pharmacy & Industrial Research
+J	International Journal of Pharmacy and Pharmaceutical Research
+J	International Journal of Pharmacy and Pharmaceutical Sciences
+J	International Journal of Pharmacy and Technology
+J	International Journal of Physical Education, Sports and Health
+J	International Journal of Physiotherapy
+J	International Journal of Plant, Animal and Environmental Sciences
+J	International Journal of Power Electronics Engineering
+J	International Journal of Precious Engineering Research and Applications
+J	International Journal of Printing, Packaging & Allied Sciences
+J	International Journal of Psycho-Educational Sciences
+J	International Journal of Psychology and Behavioral Research
+J	International Journal of Psychology and Educational Studies (IJPES) (note: the journal is indexed by DOAJ
+J	International Journal of Pure & Applied Bioscience
+J	International Journal of Pure and Applied Zoology
+J	International Journal of Recent Advances in Multidisciplinary Research
+J	International Journal of Recent Development in Engineering and Technology
+J	International Journal of Recent Engineering Research and Development
+J	International Journal of Recent Research and Applied Studies
+J	International Journal of Recent Research in Science, Engineering and Technology
+J	International Journal of Recent Scientific Research
+J	International Journal of Recent Technology and Engineering
+J	International Journal of Recent Trends in Electrical & Electronics Engineering
+J	International Journal of Recent Trends in Engineering & Research
+J	International Journal of Remote Sensing and Geoscience
+J	International Journal of Research and Current Development
+J	International Journal of Research and Development in Pharmacy & Life Sciences
+J	International Journal of Research and Development in Technology & Management Sciences Kailash
+J	International Journal of Research and Engineering
+J	International Journal of Research and Innovation in Computer Engineering
+J	International Journal of Research and Science Publication
+J	International Journal of Research Culture Society
+J	International Journal of Research Development
+J	International Journal of Research GRANTHAALAYAH
+J	International Journal of Research in Advanced Engineering and Technology
+J	International Journal of Research In Advanced Engineering Technologies
+J	International Journal of Research in Aeronautical and Mechanical Engineering
+J	International Journal of Research in Agricultural Sciences
+J	International Journal of Research in Agriculture and Forestry
+J	International Journal of Research in Ayurveda and Pharmacy
+J	International Journal of Research in Business Studies and Management
+J	International Journal of Research in Computer and Communication Technology
+J	International Journal of Research in Computer Engineering & Electronics
+J	International Journal of Research in Computer Science
+J	International Journal of Research in Computer Technology
+J	International Journal of Research in Education and Science
+J	International Journal of Research in Education and Social Science
+J	International Journal of Research in Electronics & Communication Technology
+J	International Journal of Research in Engineering and Advanced Technology
+J	International Journal of Research in Engineering and Science
+J	International Journal of Research in Engineering and Technology
+J	International Journal of Research in Humanities and Social Sciences
+J	International Journal of Research in Library Science
+J	International Journal of Research in Management & Business Studies
+J	International Journal of Research in Mechanical Engineering and Technology
+J	International Journal of Research in Medical & Applied Sciences
+J	International Journal of Research in Medical and Dental Sciences
+J	International Journal of Research in Pharmacy and Biosciences
+J	International Journal of Research in Pharmacy and Science
+J	International Journal of Research in Science & Engineering
+J	International Journal of Research in Science & Technology
+J	International Journal of Research in Wireless Systems
+J	International Journal of Research Methodology
+J	International Journal of Research Publications in Engineering and Technology
+J	International Journal of Research Science and Management
+J	International Journal of Review in Applied and Social Sciences
+J	International Journal of Review in Life Sciences (IJRLS) Also: Hijacked version
+J	International Journal of Reviews in Computing
+J	International Journal of Reviews, Surveys and Research
+J	International Journal of Sanskrit Research
+J	International Journal of Science and Advanced Technology
+J	International Journal of Science & Engineering Development Research
+J	International Journal of Science and Engineering Applications
+J	International Journal of Science and Engineering Investigations
+J	The International Journal of Science & Technoledge
+J	International Journal of Science and Research
+J	International Journal of Science and Research Methodology
+J	International Journal of Science and Technology
+J	International Journal of Science & Technology
+J	International Journal of Science Commerce and Humanities
+J	International Journal of Science Culture and Sport
+J	International Journal of Science Engineering and Advance Technology
+J	International Journal of Science, Engineering and Technology Research
+J	International Journal of Science Environment and Technology
+J	International Journal of Science Innovations and Discoveries
+J	International Journal of Science Technology and Engineering
+J	International Journal Of Science Technology & Management
+J	International Journal of Sciences
+J	International Journal of Sciences and Applied Research
+J	International Journal of Scientific & Technology Research
+J	International Journal of Scientific and Engineering Research
+J	International Journal of Scientific and Research
+J	International Journal of Scientific and Research Publications
+J	International Journal of Scientific and Technical Advancements
+J	International Journal of Scientific Engineering and Applied Science
+J	International Journal of Scientific Engineering and Technology
+J	International Journal of Scientific Engineering and Technology Research
+J	International Journal of Scientific Progress & Research
+J	International Journal of Scientific Research
+J	International Journal of Scientific Research
+J	International Journal of Scientific Research & Management Studies
+J	International Journal of Scientific Research and Application
+J	International Journal Of Scientific Research And Education
+J	International Journal of Scientific Research and Engineering Trends
+J	International Journal of Scientific Research and Innovative Technology
+J	International Journal of Scientific Research and Management
+J	International Journal of Scientific Research in Education
+J	International Journal of Scientific Research in Information Systems and Engineering
+J	International Journal of Scientific Study
+J	International Journal of Signal Processing Systems
+J	The International Journal of Social and Applied Sciences
+J	International Journal of Social Science & Economic Research
+J	International Journal of Social Science and Humanity
+J	The International Journal of Social Sciences
+J	International Journal of Social Sciences and Education
+J	International Journal of Social Sciences and Entrepreneurship
+J	International Journal of Society and Technology
+J	International Journal of Society, Culture & Language
+J	International Journal of Soft Computing and Engineering
+J	International Journal of Sport Studies
+J	International Journal of Teacher Educational Research
+J	International Journal of Technical Research and Applications
+J	International Journal of Technical Research and Innovation
+J	International Journal of Technology and Computing
+J	International Journal of Technology, Education, and Resource Management
+J	International Journal of Technology Enhancements and Emerging Engineering Research
+J	International Journal of Technology, Management and Humanities
+J	International Journal of Therapeutic Applications
+J	International Journal of Toxicological and Pharmacological Research
+J	International Journal of Trend in Research and Development
+J	International Journal of Trends in Economics Management and Technology
+J	International Journal of Universal Pharmacy and Bio Sciences
+J	International Journal of Veterinary Science
+J	International Journal of Wind and Renewable Energy
+J	International Journal of Wisdom Based Computing
+J	International Journal of World Research
+J	International Journal on Recent and Innovation Trends in Computing and Communication
+J	International Journal on Recent Technologies in Mechanical and Electrical Engineering
+J	International Journal on Recent Trends in Life Science and Mathematics
+J	International Journal on Research Methodologies in Physics and Chemistry
+J	International Journal Online of Humanities
+J	International Letters of Chemistry, Physics and Astronomy
+J	International Letters of Natural Sciences
+J	International Letters of Social and Humanistic Sciences
+J	International Multidisciplinary Research Journal
+J	International Multispeciality Journal of Health
+J	International Online Journal of Primary Education
+J	International Proceedings of Chemical, Biological and Environmental Engineering
+J	International Refereed Journal Of Architecture and Design
+J	International Refereed Journal of Engineering and Science
+J	International Research and Publications in Medical Sciences
+J	International Research Journal of Advanced Engineering in Frontiers
+J	International Research Journal of Applied and Basic Sciences
+J	International Research Journal of Applied Finance
+J	International Research Journal of Engineering and Technology (IRJET) (new website here
+J	International Research Journal of Finance and Economics
+J	International Research Journal of Management Sciences
+J	International Research Journal of Multidisciplinary Science & Technology
+J	International Research Journal of Pharmaceutical and Applied Sciences
+J	International Research Journal of Pharmaceutical Sciences
+J	International Research Journal of Pharmacy
+J	International Research Journal of Sustainable Science & Engineering
+J	International Researchers
+J	International Review of Basic and Applied Sciences
+J	International Review of Management and Business Research
+J	International Review of Social Sciences and Humanities
+J	International Science and Investigation Journal
+J	International Scientific Investigations
+J	International Scientific Journal Theoretical & Applied Science
+J	International Scientific Research Journal
+J	International Technical Sciences Journal
+J	Invention Journal of Research Technology in Engineering & Management
+J	IOSR Journal of Engineering
+J	Italian Journal of Science & Engineering
+J	JACOTECH
+J	Jai Maa Saraswati Gyandayini
+J	Journal of Accounting, Ethics & Public Policy
+J	Journal de Afrikana
+J	Journal der Pharmazie Forschung
+J	Journal for Research
+J	Journal Francophone de Cas Clinique
+J	The Journal of Academic Social Science Studies (JASSS) (note: indexed by DOAJ
+J	Journal of Advanced Agricultural Technologies
+J	Journal of Advanced Studies in Agricultural, Biological and Environmental Sciences
+J	Journal of Advanced Veterinary and Animal Research (JAVAR) (note: indexed by DOAJ
+J	Journal of Advances in Civil Engineering
+J	Journal of Advances in Electronics and Communication Engineering
+J	Journal of Advances in Information Technology
+J	Journal of Advances in Internal Medicine
+J	Journal of Advances in Science and Technology
+J	Journal of Advances in Social Science and Humanities
+J	Journal of Agriculture, Forestry & Environmental Sciences
+J	Journal of American Academic Research
+J	The Journal of American Academy of Business, Cambridge
+J	The Journal of American Business Review, Cambridge
+J	Journal of American Physicians and Surgeons
+J	Journal of Anaesthesia and Critical Care Case Reports
+J	Journal of Analytical Research
+J	Journal of Animal and Plant Sciences
+J	Journal of Animal and Poultry Sciences
+J	Journal of Applicable Chemistry
+J	Journal of Applied Biology & Biotechnology
+J	Journal of Applied Economics and Business
+J	Journal of Applied Linguistics and Language Research
+J	Journal of Applied Linguistics (Dubai)
+J	Journal of Applied Management and Investments
+J	Journal of Applied Pharmacy
+J	Journal of Applied Pharmaceutical Science
+J	Journal of Arts and Humanities
+J	Journal of Automation and Control Engineering
+J	Journal of Ayurveda and Integrated Medical Sciences
+J	Journal of Ayurveda and Holistic Medicine
+J	Journal of Basic and Environmental Sciences
+J	Journal of Behavioral Health
+J	Journal of Behavioral Sciences in Asia
+J	Journal of Bio Innovation
+J	Journal of Biological and Scientific Opinion
+J	Journal of Biological Sciences and Medicine
+J	Journal of Biomedical and Pharmaceutical Research
+J	Journal of Bioscience and Technology
+J	Journal of Biospectracal
+J	Journal of Business Management and Applied Economics
+J	Journal of Business Management and Economic Studies
+J	Journal of Business Studies Quarterly
+J	Journal of Chemical and Pharmaceutical Research
+J	Journal of Chemical and Pharmaceutical Sciences
+J	Journal of Chemical, Biological and Physical Sciences
+J	Journal of Clean Energy Technologies
+J	Journal of Clinical and Analytical Medicine
+J	Journal of Communications Technology, Electronics and Computer Science
+J	Journal of Computers
+J	Journal of Computing
+J	Journal of Computing Technologies
+J	Journal of Contemporary Issues in Business Research
+J	Journal of Contemporary Management Sciences
+J	Journal of Contemporary Medical Education
+J	Journal of Coastal Life Medicine
+J	Journal of Cosmology
+J	Journal of Current Pharma Research
+J	Journal of Current Research in Science
+J	Journal of Current Trends in Big Data Analytics
+J	Journal of Drug Discovery and Therapeutics
+J	Journal of Economics and Banking
+J	Journal of Economics and Engineering
+J	Journal of Economics and Political Economy
+J	Journal of Economics, Business and Management
+J	Journal of Education and Social Science
+J	Journal of Education and Sociology
+J	Journal of ELT and Applied Linguistics
+J	Journal of Electrical Engineering
+J	Journal of Electrical Engineering and Science
+J	Journal of Emerging Trends in Computing and Information Sciences
+J	Journal of English Language and Literature
+J	Journal of Engineering and Applied Mathematics
+J	Journal of Engineering Innovation & Research
+J	Journal of Entomology and Zoology Studies
+J	Journal of Environment and Life Sciences
+J	Journal of Environmental and Occupational Science
+J	Journal of Environmental Biology
+J	Journal of Environmental Hydrology
+J	Journal of Environmental Nanotechnology
+J	Journal of Environmental Research and Development
+J	Journal of Environmental Science, Computer Science and Engineering & Technology
+J	Journal of Evidence Based Medicine and Healthcare
+J	Journal of Evolution of Research in Dermatology and Venerology
+J	Journal of Evolution of Research in Human Physiology
+J	Journal of Evolution of Research in Medical Microbiology
+J	Journal of Evolution of Research in Medical Pharmacology
+J	Journal of Evolution of Research in Paediatrics and Neonatology
+J	Journal of Excellence in Computer Science and Engineering
+J	Journal of Experimental Biology and Agricultural Sciences
+J	Journal of Experimental Sciences
+J	Journal of Financial Education
+J	Journal of Food, Agriculture and Environment
+J	Journal of Fundamental and Applied Sciences
+J	Journal of Genetic and Environmental Resources Conservation
+J	Journal of Geotechnical and Transportation Engineering
+J	Journal of Global Biosciences
+J	Journal of Global Business Management
+J	Journal of Global Innovations in Agricultural and Social Sciences
+J	Journal of Global Research in Computer Science
+J	Journal of Health Economics and Outcomes Research
+J	Journal of Health, Sport and Tourism
+J	Journal of HerbMed Pharmacology
+J	Journal of Human Resource and Adult Learning
+J	Journal of Humanities and Cultural Studies R&D
+J	Journal of Hydrology and Environment Research
+J	Journal of IMAB (note: the journal is indexed in DOAJ and JCR
+J	Journal of Industrial and Intelligent Information
+J	Journal of Information Management
+J	Journal of Innovations in Applied Pharmaceutical Science
+J	Journal of Innovations in Pharmaceuticals and Biological Sciences
+J	Journal of Innovative Biology
+J	Journal of Innovative Engineering
+J	Journal of Innovative Research and Solutions
+J	Journal of Intercultural Ethnopharmacology
+J	Journal of Interdisciplinary Histopathology
+J	Journal of International Academic Research for Multidisciplinary
+J	Journal of International Anatolia Sport Science
+J	Journal of International Environmental Application & Science
+J	Journal of International Management Studies
+J	Journal of Investigational Biochemistry
+J	Journal of Knowledge Management, Economics and Information Technology
+J	Journal of Language and Literature
+J	Journal of Law and Ethics
+J	Journal of Materials and Environmental Science
+J	Journal of Mathematics and Technology
+J	Journal of Media & Mass Communication
+J	Journal of Media Critiques
+J	Journal of Medical Science and Technology
+J	Journal of Molecular Pathophysiology
+J	Journal of Nano Innovation
+J	Journal of Natural Products
+J	Journal of Novel Applied Sciences
+J	Journal of Medical Biomedical and Applied Sciences
+J	Journal of Medical Pharmaceutical and Allied Sciences
+J	The Journal of Medical Research
+J	Journal of Medical Research and Practice
+J	Journal of Medical Science and Clinical Research
+J	Plants Journal / Journal of Medicinal Plants Studies
+J	Journal of Middle East and North Africa Sciences
+J	Journal of Middle East Applied Science and Technology
+J	Journal of Microbiology and Antimicrobial Agents
+J	Journal of Modern Science & Heritage
+J	Journal of Modern Science And Technology
+J	Journal of Multidisciplinary Developments
+J	Journal of Multidisciplinary Engineering Science and Technology
+J	Journal of Multidisciplinary Engineering Science Studies
+J	Journal of Nature and Science
+J	Journal of Neurology & Neuromedicine
+J	Journal of New Sciences
+J	Journal of Pharmaceutical and Bioanalytical Science
+J	Journal of Pharmaceutical and Biological Sciences
+J	Journal of Pharmaceutical and Biomedical Sciences
+J	Journal of Pharmaceutical, Chemical and Biological Sciences
+J	Journal of Pharmacognosy and Phytochemistry
+J	Journal of Pharmacy Practice and Community Medicine
+J	Journal of Pharmacy Research
+J	Journal of Physical Education Research
+J	Journal of Physical Therapy Science
+J	Journal of Psychology and Theology
+J	Journal of Postharvest Technology
+J	Journal of Process Management New Technologies International
+J	Journal of Rare Diseases Research & Treatment
+J	Journal of Research in Anaesthesology and Pain Medicine
+J	Journal of Research in Biology
+J	Journal of Research in Computers and Technology
+J	Journal of Research in Forensic Medicine and Toxicology
+J	Journal of Research in General Surgery and Laparoscopy
+J	Journal of Research in Human Anatomy and Embryology
+J	Journal of Research in Obstetrics, Gynaecology and Infertility
+J	Journal of Research in Preventive and Social Medicine
+J	Journal of Research in Psychiatry and Behavioural Sciences
+J	Journal of Research in Psychiatry and Behavioural Sciences
+J	Journal of Research in Radiodiagnosis, Teleradiology and Imaging
+J	Journal of Research in Traditional Medicine
+J	Journal of Science
+J	Journal of Science and Its Applications
+J	Journal of Science and Technology Advances
+J	Journal of Science Editing
+J	Journal of Scientific and Engineering Research
+J	Journal of Scientific Letters
+J	Journal of Scientific Research and Development also here
+J	Journal of Scientific Research in Pharmacy
+J	Journal of Scientific Research in Physical & Mathematical Sciences
+J	Journal of Scientific Theory and Methods
+J	Journal of Social Issues & Humanities
+J	Journal of Software
+J	Journal of Spectroscopy and Molecular Physics
+J	Journal of Studies in Social Sciences and Humanities (JSSSH) (note: this journal is currently indexed by DOAJ
+J	Journal of Surgery & Patient Care
+J	Journal of Telecommunications
+J	Journal of The International Association of Advanced Technology and Science
+J	Journal of Theoretical and Applied Information Technology
+J	Journal of Trends in the Development of Machinery and Associated Technology
+J	Jundishapur Journal of Health Sciences
+J	Junior Scientific Researcher
+J	Kashmir Economic Review
+J	LangLit
+J	Lecture Notes on Software Engineering
+J	Legal Research Development
+J	Letters in Applied NanoBioScience
+J	LiBRI: Linguistic and Literary Broad Research and Innovation
+J	Lingua: International Journal of Linguistics, Literature and Culture
+J	Lokavishkar International E-Journal
+J	The Macrotheme Review
+J	Malti: International Hindi e-Research Journal
+J	Mathematical and Computational Applications
+J	Mechanics, Materials Science & Engineering Journal
+J	Medical Research Archives
+J	Medico Research Chronicles
+J	Mediterranean Journal of Biosciences
+J	Mediterranean Journal of Chemistry
+J	Mediterranean Journal of Modeling & Simulation
+J	Mediterranean Journal of Physics
+J	MedLife Clinics
+J	Modern Behavioral Science
+J	The Modern Journal of Applied Linguistics
+J	Modern Journal of Language Teaching Methods
+J	Multidisciplinary Scientific Reviewer
+J	Munis Entomology & Zoology
+J	NanoWorld Journal
+J	National Journal of Basic Medical Sciences
+J	National Journal of Community Medicine
+J	National Journal of Medical and Dental Research
+J	National Journal of Physiology, Pharmacy, and Pharmacology
+J	Norwegian Journal of Development of the International Science
+J	OIDA International Journal of Sustainable Development
+J	Oncoscience
+J	Oncotarget
+J	Online International Interdisciplinary Research Journal
+J	Online Journal of Communication and Media Technologies
+J	The Online Journal of Distance Education and e-Learning
+J	Online Journal of Library & Information Science
+J	The Online Journal of New Horizons in Education
+J	The Online Journal of Science and Technology
+J	Open Access Journal of Science and Technology
+J	Open Journal of Clinical & Medical Sciences
+J	Open Journal of Clinical & Medical Case Reports
+J	Oriental Journal of Computer Science and Technology
+J	Paripex Indian Journal of Research
+J	Path of Science
+J	Pattern Recognition in Physics
+J	People’s Journal of Scientific Research
+J	Pharma Innovation
+J	The Pharma Research (Journal)
+J	Pharmaceutical and Biological Evaluations
+J	Pharmacie Globale: International Journal of Comprehensive Pharmacy
+J	Pharmacognosy: Journal of Pharmacognosy and Phytochemistry
+J	Pharmacologia
+J	PharmacologyOnline
+J	PHARMANEST: An International Journal of Advances in Pharmaceutical Sciences
+J	Physical Education and Sports Research Journal
+J	Plant Digest
+J	Professionals Center for Business Research
+J	Progress in Physics
+J	Pyxis Journal
+J	PunarnaV
+J	Quarterly Physics Review
+J	Reef Resources Assessment and Management Technical Paper
+J	Remedy Open Access
+J	Research | Research (French version)
+J	Research Ambition
+J	Research Chronicler
+J	Research Chronicles
+J	Research Dimension
+J	Research Directions
+J	Research in Biotechnology
+J	Research in Pharmacy and Health Sciences
+J	Research Innovator
+J	Research Inspiration
+J	Research Inventy: International Journal of Engineering and Science
+J	Research Journal of Life Sciences, Bioinformatics, Pharmaceutical, and Chemical Sciences
+J	Research Journal of Pharmaceutical, Biological and Chemical Sciences
+J	Research Opinions in Animal and Veterinary Sciences
+J	Research Revolution
+J	Research Scholar
+J	ResearchDesk
+J	Researchers World – Journal of Arts Science & Commerce
+J	Review of Research
+J	Reviews of Progress
+J	Revista Electrónica de las Ciencias Computacionales e Informática
+J	Revista Iberoamericana de Ciencas
+J	Revista Iberoamericana de Contaduría, Economía y Administración
+J	Revista Iberoamericana de las Ciencias Biológicas y Agropecuarias (CIBA) (also here
+J	Revista Iberoamericana de las Ciencias de la Salud
+J	Revista Iberoamericana de las Ciencias Sociales y Humanísticas
+J	Revista Iberoamericana para la Investigación y el Desarrollo Educativo
+J	Romanian Biotechnological Letters (note: this journal is indexed by JCR
+J	Sanskruti International Multidisciplinary Research Journal
+J	Scholarly Research Exchange
+J	Scholars World- International Refereed Multidisciplinary Journal Of Contemporary Research
+J	Science and Engineering Applications
+J	Science International
+J	Science International (Lahore)
+J	Science Park
+J	Science Postprint
+J	Science Research Reporter
+J	Science Reuters
+J	Scientific Light
+J	Scientific Research Journal
+J	Scientific Research Journal of India
+J	Scientific Researches
+J	Scientific Transactions in Environment and Technovation
+J	Scientific World
+J	Scottish Journal of Arts, Social Sciences and Scientific Studies
+J	SCRO Annual Report Journal
+J	Sensors & Transducers Journal
+J	Seventh Sense Research Group Journal
+J	Shiraz E-Medical Journal
+J	Shiv Rudraksha International Journal of Advanced Research in Engineering & Management
+J	Smart & Young
+J	Smart Nanosystems in Engineering and Medicine
+J	South Asian Journal of Food Technology and Environment
+J	South Asian Journal of Mathematics
+J	South Indian Journal Of Biological Sciences
+J	South Pacific Journal of Technology and Science
+J	South Pacific Journal of Pharma and Bio Sciences
+J	Sport Science
+J	Swedish Journal of Scientific Research
+J	Swiss Journal of Research in Business and Social Science
+J	Tactful Management Research Journal
+J	Technical Journal of Engineering and Applied Sciences
+J	Technics Technologies Education Management
+J	Tehnički vjesnik = Technical Gazette (TV-TG) (note: this journal is indexed by DOAJ and JCR
+J	Translational Medicine and Biotechnology
+J	Transnational Journal of Science and Technology
+J	Transworld Medical Journal
+J	Trends Journal of Sciences Research
+J	Tropical Plant Research
+J	Turkish Journal of Scientific Research
+J	Turkish Online Journal of Educational Technology
+J	Ultra Engineer
+J	Ulutas Genetic Research Journal
+J	The Ulutas Medical Journal
+J	Universal Journal of Applied Computer Science and Technology
+J	Universal Journal of Computer Science and Engineering Technology
+J	Universal Journal of Pharmaceutical Research
+J	Universal Journal of Pharmacy
+J	Universe of Emerging Technology and Science
+J	Visi Jurnal Akademik
+J	Weberbauerella
+J	Weekly Science International Research Journal
+J	World Academy of Informatics and Management Sciences
+J	World Applied Sciences Journal
+J	World Essays Journal
+J	World Journal of Innovative Research
+J	World Journal of Engineering Research and Technology
+J	World Journal of Pharmaceutical and Medical Research
+J	World Journal of Pharmaceutical and Life Sciences
+J	World Journal of Pharmaceutical Research
+J	World Journal of Pharmaceutical Sciences
+J	World Journal of Pharmacy and Pharmaceutical Sciences
+J	World Journal of Research and Review
+J	World Journal of Science and Technology
+J	World Medical Student Journal
+J	World Scientific News
+J	Aegaeum
+J	AGU International Journal of Engineering & Technology
+J	AGU International Journal of Professional Studies & Research
+J	AGU International Journal of Research in Social Science & Humanities
+J	Annals of Dental Specialty
+J	American Journal of Biomedical Science & Research
+J	American Journal of Humanities and Social Sciences Research
+J	American Journal of Multidisciplinary Research and Development
+J	Amphibian & Reptile Conservation
+J	ARCTIC Journal
+J	Asian Journal of Advanced Research and Reports
+J	Asian Journal of Applied Science and Technology
+J	Asian Journal of Emerging Research
+J	Aurora’s International Journal of Computing​
+J	BioMed Pulse Journal
+J	Biomedical Journal of Scientific & Technical Research (BJSTR) (and here
+J	BOREAL ENVIRONMENT RESEARCH
+J	Cell Medicine
+J	Clinics of Oncology
+J	Core Evidence
+J	Current Biomarker Findings
+J	Current Journal of Applied Science and Technology
+J	Current Neurobiology
+J	Current Science
+J	Danish Scientific Journal
+J	Degenerative Neurological and Neuromuscular Disease
+J	Disseminate Knowledge
+J	Estudos de Psicologia (Campinas)
+J	European Journal of General Dentistry
+J	FOURRAGES
+J	Frontiers in Medical Case Reports
+J	Global Journal of Advance Research on Classical and Modern Geometries
+J	Global Journal of Engineering Science and Researches
+J	Global Journal of Research on Medicinal Plants & Indigenous Medicine
+J	Global Scientific Journal – GSJ Publication
+J	High Technology Letters
+J	IARTEM e-journal
+J	IBMRD’s Journal of Management Research
+J	Iconic Research & Engineering Journals
+J	The IIOAB Journal
+J	IJPUB – International Peer Reviewed, Open Access Journal (also see International Journal of Creative Research Thoughts
+J	Indian Journal of Public Health Research and Development
+J	Indonesian Journal of Business Finance and Accounting
+J	Indonesian Journal of Management and Business Economics
+J	Insights of Clinical and Medical Images
+J	Insights Journal of Obstetrics and Gynecology
+J	Insights Journal of Surgery and Clinical Case Reports
+J	Interciencia
+J	International New Arts and Sciences Research Journal​
+J	International Bulletin of Drug Research
+J	International Education and Leadership
+J	International Educational Applied Research Journal
+J	International Invention of Scientific Journal
+J	International Journal for Engineering and Emerging Technologies
+J	International Journal for Multidisciplinary Research
+J	​International Journal of Advanced Computer Research
+J	International Journal of Advanced Research in Computer Engineering & Technology
+J	International Journal of Advanced Research in Education Technology and Management
+J	International Journal of Advanced Research in Electronics and Communication Engineering
+J	International Journal of Advanced Research in Innovative Discoveries in Engineering and Applications
+J	International Journal of Advanced Research Trends in Engineering and Technology
+J	International Journal of Advanced Scientific Research
+J	International Journal of Agriculture, Environment and Bioresearch
+J	International Journal of Agriculture and Biosciences
+J	International Journal of Biopharmaceutics
+J	International Journal of Business and Information
+J	International Journal of Business Management and Commerce
+J	International Journal of Basic & Clinical Pharmacology
+J	International Journal of Clinical and Medical Case Reports
+J	International Journal of Clinical Studies and Medical Case Reports
+J	International Journal of Computer Science and Management Studies
+J	International Journal of Computer Science and Mobile Computing
+J	International Journal of Creative Research Thoughts (IJCRT) (also see IJPUB
+J	International Journal of Dental Science and Innovative Research
+J	International Journal of Education and Science Research Review
+J	International Journal of Electronics, Communication and Soft Computing Science and Engineering
+J	International Journal of Electronics and Computer Science Engineering
+J	International Journal of Engineering, Economics And Management
+J	International Journal of Engineering Research and Sports Science
+J	International Journal of Engineering Science Technology And Research
+J	International Journal of Engineering Studies and Technical Approach
+J	International Journal of Eurasia Social Sciences
+J	International Journal of Gastroenterology and Hepatology
+J	International Journal of Health Medicine and Current Research (IJHMCR) (note: the journal is indexed in JCR
+J	International Journal of Innovative Research In Information Security
+J	International Journal of Innovative Science and Research Technology
+J	International Journal of Innovative Technology and Adaptive Management
+J	International Journal of Innovative Technology and Creative Engineering
+J	International Journal of Latest Research in Humanities and Social Science
+J	International Journal of Learning and Teaching
+J	International Journal of Lifescience and Pharma Research
+J	International Journal of Materials, Mechanics and Manufacturing
+J	International Journal of Medical, Health Science and Internal Research
+J	International Journal of Medical Science and Advanced Clinical Research
+J	International Journal of Medical Science and Applied Research
+J	International Journal of Medical Science and Diagnosis Research
+J	International Journal of Medical Science and Innovative Research
+J	International Journal of Medicine and Biomedical Research
+J	International Journal of Medicine and Public Health
+J	International Journal of Modern Trends in Engineering and Science
+J	International Journal of Multidisciplinary Approach & Studies
+J	International Journal of Multidisciplinary Consortium
+J	International Journal of Multidisciplinary Research And Studies
+J	International Journal of Nanomedicine
+J	International Journal of Novel Research and Development
+J	International Journal of Pharmaceutical Research and Allied Sciences
+J	International Journal of Preclinical and Pharmaceutical Research
+J	International Journal of Professional Business Review
+J	International Journal of Reproduction, Contraception, Obstetrics and Gynecology
+J	International Journal of Research and Applications
+J	International Journal of Research in Computer Applications and Robotics
+J	International Journal of Research in Medical Sciences
+J	International Journal of Scientific Engineering and Science
+J	International Journal of Scientific Management and Development
+J	International Journal of Scientific Research Engineering & Technology
+J	International Journal of Social Science and Business
+J	International Journal of Social Science and Humanity Research
+J	International Journal of Social Sciences and Information Technology
+J	International Journal of Trend in Scientific Research and Development
+J	International Journal of Zoology Studies
+J	International Medical Journal
+J	International Refereed Journal of Scientific Research in Engineering
+J	International Research Journal of Advanced Engineering and Science
+J	International Research Journal of Computer Science
+J	International Review of Humanities and Scientific Research
+J	Internet Journal of Rheumatology and Clinical Immunology
+J	Iraqi National Journal of Chemistry
+J	Istoriâ Zmievskogo kraâ
+J	Journal of Academia and Industrial Research
+J	Journal of Accounting and Applied Business Research
+J	Journal of Advanced Medical and Dental Sciences Research
+J	Journal of Advances in Mathematics and Computer Science
+J	Journal of Advances in Medicine and Medical Research
+J	Journal of Applied Bio-Science, Medicine, and Biology
+J	Journal of Clinical and Medical Images
+J	Journal of Clinical Case Reports, Medical Images and Health Sciences
+J	Journal of Clinical Studies and Medical Images Case Reports
+J	Journal of Engineering Technology
+J	Journal of English Language Teaching and Linguistics
+J	Journal of FisheriesSciences.com
+J	Journal of Global Pharma Technology
+J	Journal of Management and Architecture Research
+J	Journal of Multidisciplinary Academic Tourism
+J	Journal of International Dental and Medical Research
+J	Journal of International Oral Health
+J	Journal of Pharmacology and Pharmacotherapeutics
+J	Journal of Research and Opinion
+J	Journal of Scientometric Research
+J	Journal of Southwest Jiaotong University
+J	Journal of University of Shanghai for Science and Technology
+J	Journal of Xi’an University of Architecture & Technology
+J	Journal of Xidian University
+J	Journal of the Pancreas
+J	Jurnal Teknologi Informasi Dan Komunikasi Dalam Pendidikan
+J	Jurnal Teknologi Pendidikan
+J	Jurnalul de Chirurgie
+J	MAGNT Research Report
+J	Material Science Research India
+J	Mechanics, Materials Science & Engineering Journal
+J	Med Discoveries
+J	Medical – Surgical Nursing Journal
+J	Mintage Journal of Pharmaceutical and Medical Sciences
+J	Mitteilungen Klosterneuburg
+J	Mitteilungen Saechsischer Entomologen
+J	Mugla Journal of  Science and Technology
+J	National Journal of Commerce and Management
+J	Neuropsychiatry (London)
+J	The New American Journal of Medicine
+J	North American Journal of Medical Sciences
+J	Nursing and Midwifery Studies
+J	Oncology, Gastroenterology and Hepatology Reports
+J	Oriental Journal of Chemistry
+J	Paideuma Journal of Research (also here
+J	Palma Journal
+J	Pharmacognosy Magazine
+J	Pharmacognosy Research
+J	Pharmacognosy Reviews
+J	Pioneer-scientists
+J	Preslia Journal
+J	Research on Modern Higher Education
+J	Revista de Educacion
+J	RGUSH Journal of Pharmaceutical Sciences
+J	Signa Vitae – Journal of Intensive Care and Emergency Medicine
+J	Society: Politics, Economics, Law
+J	Swiss Chinese Law Review Journal
+J	Taylors Science Gate (also here
+J	Technology Reports of Kansai University
+J	TEST: Engineering & Management
+J	Turkish Journal of Physiotherapy and Rehabilitation
+J	The Turkish Nephrology, Dialysis and Transplantation Journal
+J	World Journal of Environmental Biosciences
